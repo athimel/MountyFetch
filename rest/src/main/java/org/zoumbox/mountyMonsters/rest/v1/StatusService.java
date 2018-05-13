@@ -1,4 +1,4 @@
-package org.zoumbox.mountyMonsters.rest;
+package org.zoumbox.mountyMonsters.rest.v1;
 
 import com.google.common.collect.ImmutableMap;
 

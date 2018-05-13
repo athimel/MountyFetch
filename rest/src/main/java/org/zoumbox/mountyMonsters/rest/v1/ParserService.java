@@ -1,8 +1,8 @@
-package org.zoumbox.mountyMonsters.rest;
+package org.zoumbox.mountyMonsters.rest.v1;
 
 import com.google.common.base.Splitter;
-import org.zoumbox.mountyMonsters.engine.ImmutableMonster;
-import org.zoumbox.mountyMonsters.engine.MonsterParser;
+import org.zoumbox.mountyMonsters.parser.ImmutableMonster;
+import org.zoumbox.mountyMonsters.parser.MonsterParser;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

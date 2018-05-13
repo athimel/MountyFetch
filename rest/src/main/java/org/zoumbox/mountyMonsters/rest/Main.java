@@ -1,4 +1,4 @@
-package org.zoumbox.mountyMonsters;
+package org.zoumbox.mountyMonsters.rest;
 
 import com.google.gson.Gson;
 import org.glassfish.grizzly.http.server.HttpServer;

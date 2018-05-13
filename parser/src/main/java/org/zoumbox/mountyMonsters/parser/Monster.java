@@ -1,4 +1,4 @@
-package org.zoumbox.mountyMonsters.engine;
+package org.zoumbox.mountyMonsters.parser;
 
 import org.immutables.value.Value;
 
