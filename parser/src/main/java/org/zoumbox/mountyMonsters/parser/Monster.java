@@ -1,5 +1,6 @@
 package org.zoumbox.mountyMonsters.parser;
 
+import com.google.common.collect.Range;
 import org.immutables.value.Value;
 
 import java.util.Optional;
@@ -16,9 +17,17 @@ public interface Monster {
 
     Optional<String> baseName();
 
-    OptionalInt nival();
+    Optional<Range<Integer>> baseNival();
+
+    Optional<Families> family();
+
+    default Optional<String> familyLabel() {
+        return family().map(Families::getLabel);
+    }
 
     Optional<String> template();
+
+    Optional<Range<Integer>> nival();
 
     Optional<Position> position();
 

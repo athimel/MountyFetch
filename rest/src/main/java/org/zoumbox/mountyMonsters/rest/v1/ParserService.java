@@ -28,6 +28,7 @@ public class ParserService {
     public ImmutableMonster fromName(@QueryParam("raw") String raw) {
         ImmutableMonster result = MonsterParser.fromName(raw);
         result = MonsterParser.extractTemplate(result);
+        result = MonsterParser.extractFamilyAndNival(result);
         return result;
     }
 

@@ -76,4 +76,39 @@ public class MonsterParser {
         return builder.build();
     }
 
+    public static ImmutableMonster extractFamilyAndNival(ImmutableMonster source) {
+
+        Preconditions.checkArgument(source.baseName().isPresent());
+
+        String name = source.baseName().get().trim();
+
+        Optional<Monsters> laBete = Monsters.tryFindByLabel(name);
+
+        ImmutableMonster.Builder builder = ImmutableMonster.builder().from(source);
+        if (laBete.isPresent()) {
+
+            builder.family(laBete.get().getFamily());
+            builder.baseNival(laBete.get().getNival());
+
+        } else {
+            // WTF blablabla
+//            if (!monster.family || monster.baseNival === undefined) {
+//                console.error("############################");
+//                console.error("Pas de famille ou de nival ?");
+//                console.error("monster.baseName : " + monster.baseName);
+//                console.error("name : " + name);
+//                console.error("monster.family : " + monster.family);
+//                if (monster.family) {
+//                    console.error("monsters.families[monster.family] : ", monsters.families[monster.family]);
+//                    if (monsters.families[monster.family]) {
+//                        console.error("monsters.families[monster.family][name] : ", monsters.families[monster.family][name]);
+//                    }
+//                }
+//            }
+        }
+
+        return builder.build();
+
+    }
+
 }
