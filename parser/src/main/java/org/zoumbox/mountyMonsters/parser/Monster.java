@@ -20,4 +20,6 @@ public interface Monster {
 
     Optional<String> template();
 
+    Optional<Position> position();
+
 }

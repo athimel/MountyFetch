@@ -2,6 +2,7 @@ package org.zoumbox.mountyMonsters.rest.v1;
 
 import com.google.common.base.Splitter;
 import org.zoumbox.mountyMonsters.parser.ImmutableMonster;
+import org.zoumbox.mountyMonsters.parser.ImmutablePosition;
 import org.zoumbox.mountyMonsters.parser.MonsterParser;
 
 import javax.ws.rs.GET;
@@ -29,9 +30,15 @@ public class ParserService {
         List<String> strings = Splitter.on(";").splitToList(row);
         String name = strings.get(1);
         ImmutableMonster result = fromName(name);
+        ImmutablePosition position = ImmutablePosition.builder()
+                .x(Integer.valueOf(strings.get(2)))
+                .y(Integer.valueOf(strings.get(3)))
+                .n(Integer.valueOf(strings.get(4)))
+                .build();
         result = ImmutableMonster.builder()
                 .from(result)
                 .id(Integer.valueOf(strings.get(0)))
+                .position(position)
                 .build();
         return result;
     }
