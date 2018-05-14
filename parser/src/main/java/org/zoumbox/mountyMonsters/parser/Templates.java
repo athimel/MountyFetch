@@ -110,20 +110,20 @@ public enum Templates {
     Voleuse(2),
     Vorace(1);
 
-    private int nival;
+    private int bonus;
     private Optional<String> label = Optional.empty();
 
-    Templates(int nival) {
-        this.nival = nival;
+    Templates(int bonus) {
+        this.bonus = bonus;
     }
 
-    Templates(int nival, String label) {
-        this(nival);
+    Templates(int bonus, String label) {
+        this(bonus);
         this.label = Optional.of(label);
     }
 
-    public int getNival() {
-        return nival;
+    public int getBonus() {
+        return bonus;
     }
 
     public String getLabel() {

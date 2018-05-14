@@ -11,24 +11,28 @@ public interface Monster {
 
     OptionalInt id();
 
-    Optional<String> nom();
+    String fullName();
 
-    Optional<String> age();
-
-    Optional<String> baseName();
-
-    Optional<Range<Integer>> baseNival();
+    Optional<Position> position();
 
     Optional<Families> familyEnum();
 
     Optional<String> family();
 
+    Optional<String> baseName();
+
+    Optional<Range<Integer>> baseNival();
+
     Optional<Templates> templateEnum();
 
     Optional<String> template();
 
-    Optional<Range<Integer>> nival();
+    OptionalInt templateBonus();
 
-    Optional<Position> position();
+    Optional<String> age();
+
+    OptionalInt ageBonus();
+
+    Optional<Range<Integer>> nival();
 
 }
