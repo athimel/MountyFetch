@@ -30,18 +30,23 @@ public class MonsterParser {
 
         String name = source.baseName().get().trim() + " ";
         if (name.substring(0, 6).equals("Archi-")) {
-            builder.template(name.substring(6).trim());
-            builder.baseName(name.substring(6).trim());
+            String templateAndBaseName = name.substring(6).trim();
+            Optional<Templates> templates = Templates.tryFindByLabel(templateAndBaseName);
+            if (templates.isPresent()) {
+                builder.templateEnum(templates.get());
+                builder.template(templates.get().getLabel());
+                builder.baseName(templateAndBaseName);
+            }
         } else {
-            String monsterTemplate = source.template().orElse(null);
+            Templates monsterTemplate = source.templateEnum().orElse(null);
             String monsterBaseName = source.baseName().orElse(null);
             Templates[] templates = Templates.values();
             for (int i = 0; i < templates.length; i++) {
                 Templates template = templates[i];
                 int index = name.indexOf(template.getLabel() + " "); // +" " Pour s'assurer que le mot est complet
                 if (index >= 0) {
-                    monsterTemplate = template.getLabel();
-                    monsterBaseName = (name.substring(0, index) + name.substring(index + monsterTemplate.length())).trim();
+                    monsterTemplate = template;
+                    monsterBaseName = (name.substring(0, index) + name.substring(index + monsterTemplate.getLabel().length())).trim();
 
                     // Cas particulier du Nécromant/Sorcière (template et nom de monstre)
                     if (monsterBaseName.length() == 0) {
@@ -50,27 +55,29 @@ public class MonsterParser {
                     }
 
                     // Car particulier de la "Voleuse Sorcière" (template avant le nom)
-                    if ((monsterTemplate.equals("Sorcière") || monsterTemplate.equals("Nécromant")) && Templates.tryFindByLabel(monsterBaseName).isPresent()) {
-                        String tmp = monsterBaseName;
-                        monsterBaseName = monsterTemplate;
-                        monsterTemplate = tmp;
+                    Optional<Templates> templateByBaseName = Templates.tryFindByLabel(monsterBaseName);
+                    if ((Templates.Sorcière.equals(monsterTemplate) || Templates.Nécromant.equals(monsterTemplate)) && templateByBaseName.isPresent()) {
+                        monsterBaseName = monsterTemplate.getLabel();
+                        monsterTemplate = templateByBaseName.get();
                     }
 
                     // Cas particulier du Frondeur vs Grand Frondeur
-                    if (monsterTemplate.equals("Frondeur") && monsterBaseName.substring(0, 5).equals("Grand")) {
-                        monsterTemplate = "Grand Frondeur";
+                    if (Templates.Frondeur.equals(monsterTemplate) && monsterBaseName.substring(0, 5).equals("Grand")) {
+                        monsterTemplate = Templates.GrandFrondeur;
                         monsterBaseName = name.substring(14).trim();
                     }
 
                     // Cas particulier de la Frondeuse vs Grande Frondeuse
-                    if (monsterTemplate.equals("Frondeuse") && monsterBaseName.substring(0, 6).equals("Grande")) {
-                        monsterTemplate = "Grande Frondeuse";
+                    if (Templates.Frondeuse.equals(monsterTemplate) && monsterBaseName.substring(0, 6).equals("Grande")) {
+                        monsterTemplate = Templates.GrandeFrondeuse;
                         monsterBaseName = name.substring(16).trim();
                     }
                     break;
                 }
             }
-            builder.template(Optional.ofNullable(monsterTemplate));
+            Optional<Templates> monsterTemplateOptional = Optional.ofNullable(monsterTemplate);
+            builder.templateEnum(monsterTemplateOptional);
+            builder.template(monsterTemplateOptional.map(Templates::getLabel));
             builder.baseName(monsterBaseName);
         }
         return builder.build();
@@ -87,7 +94,9 @@ public class MonsterParser {
         ImmutableMonster.Builder builder = ImmutableMonster.builder().from(source);
         if (laBete.isPresent()) {
 
-            builder.family(laBete.get().getFamily());
+            Families family = laBete.get().getFamily();
+            builder.familyEnum(family);
+            builder.family(family.getLabel());
             builder.baseNival(laBete.get().getNival());
 
         } else {

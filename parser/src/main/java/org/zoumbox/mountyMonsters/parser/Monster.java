@@ -19,11 +19,11 @@ public interface Monster {
 
     Optional<Range<Integer>> baseNival();
 
-    Optional<Families> family();
+    Optional<Families> familyEnum();
 
-    default Optional<String> familyLabel() {
-        return family().map(Families::getLabel);
-    }
+    Optional<String> family();
+
+    Optional<Templates> templateEnum();
 
     Optional<String> template();
 
