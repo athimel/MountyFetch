@@ -1,0 +1,2469 @@
+490731;Gowap Apprivoisé [Ancêtre];-68;24;-48
+528926;Gowap Apprivoisé [Ancêtre];-51;12;-83
+490465;Gowap Apprivoisé [Ancêtre];-81;-49;-41
+455748;Gowap Apprivoisé [Ancêtre];-39;-6;-49
+463300;Gowap Apprivoisé [Ancêtre];-32;-36;-44
+476771;Gowap Apprivoisé [Ancêtre] Groumpf;-54;-31;-60
+441933;Gowap Apprivoisé [Ancêtre] Bambi;-82;-53;-41
+515393;Gowap Apprivoisé [Ancêtre] Bourik;-58;-53;-43
+570629;Gowap Apprivoisé [Ancêtre];-50;15;-81
+5774963;Bouj'Dla Placide Esculape [Briscard];-66;-3;-78
+441802;Gowap Apprivoisé [Ancêtre];-9;-13;-62
+485855;Gowap Apprivoisé [Ancêtre] Mal'alapatt de Kasséloss;-57;8;-66
+480865;Gowap Apprivoisé [Ancêtre];-69;4;-71
+435938;Gowap Apprivoisé [Ancêtre];-35;15;-70
+447188;Gowap Apprivoisé [Ancêtre] Bouhbouh;-32;8;-59
+438601;Gowap Apprivoisé [Ancêtre];-9;-12;-62
+489422;Gowap Apprivoisé [Ancêtre];-25;-23;-60
+441122;Gowap Apprivoisé [Ancêtre];-59;-9;-48
+440793;Gowap Apprivoisé [Ancêtre];-50;-4;-50
+442877;Gowap Apprivoisé [Ancêtre];-26;20;-60
+442503;Gowap Apprivoisé [Ancêtre] Khass\'Toua;-38;22;-40
+459861;Gowap Apprivoisé [Ancêtre] Kellogs gogo;-59;28;-65
+446213;Gowap Apprivoisé [Ancêtre];-79;-37;-72
+447982;Gowap Apprivoisé [Ancêtre] Grâham du Troupal de Sprad;-83;-21;-53
+447937;Gowap Apprivoisé [Ancêtre];-63;17;-72
+448347;Gowap Apprivoisé [Ancêtre];-26;-22;-48
+458309;Gowap Apprivoisé [Ancêtre];-35;-52;-70
+454713;Gowap Apprivoisé [Ancêtre];-86;-21;-79
+451677;Gowap Apprivoisé [Ancêtre];-72;-26;-51
+455440;Gowap Apprivoisé [Ancêtre];-50;-23;-70
+452149;Gowap Apprivoisé [Ancêtre];-79;-46;-61
+458638;Gowap Apprivoisé [Ancêtre];-56;-13;-81
+459346;Gowap Apprivoisé [Ancêtre] Joe Burns;-58;-27;-39
+463301;Gowap Apprivoisé [Ancêtre];-18;-20;-40
+471176;Gowap Apprivoisé [Ancêtre];-62;9;-66
+495636;Gowap Apprivoisé [Ancêtre];-51;12;-83
+487539;Gowap Apprivoisé [Ancêtre];-37;26;-50
+494664;Gowap Apprivoisé [Ancêtre];-86;-21;-80
+488720;Gowap Apprivoisé [Ancêtre] Mélusine;-53;5;-66
+490154;Gowap Apprivoisé [Ancêtre] Boubou Tomestla;-76;-23;-72
+522409;Gowap Apprivoisé [Ancêtre];-76;-28;-70
+503924;Gowap Apprivoisé [Ancêtre];-65;28;-48
+496302;Gowap Apprivoisé [Ancêtre];-94;-49;-78
+506589;Gowap Apprivoisé [Ancêtre];-69;-28;-53
+5856820;Chonchon Fustigateur [Jeune];-92;-1;-49
+513458;Gowap Apprivoisé [Ancêtre] Bidoch;-82;-53;-41
+540853;Gowap Apprivoisé [Ancêtre];-60;-16;-52
+518322;Gowap Apprivoisé [Ancêtre];-81;-49;-41
+519043;Gowap Apprivoisé [Ancêtre] Etch;-59;-46;-50
+543101;Gowap Apprivoisé [Ancêtre] Taïga;-62;33;-66
+522815;Gowap Apprivoisé [Ancêtre] RazorbacK;-73;-36;-65
+530572;Gowap Apprivoisé [Ancêtre] Lenny;-16;16;-54
+536585;Gowap Apprivoisé [Ancêtre];-80;-46;-61
+542396;Gowap Apprivoisé [Ancêtre];-13;-26;-47
+573160;Gowap Apprivoisé [Ancêtre];-50;-45;-56
+3069964;Gowap Apprivoisé [Ancien];-50;-23;-72
+606411;Gowap Apprivoisé [Ancêtre];-35;-15;-50
+579495;Gowap Apprivoisé [Ancêtre] Pâhàp Ï;-16;16;-54
+601512;Gowap Apprivoisé [Ancêtre] fertilisé;-21;28;-51
+1275519;Gowap Apprivoisé [Ancien];-54;-46;-68
+603648;Gowap Apprivoisé [Ancêtre] Beurk\'s Kadoc;-16;-1;-45
+603843;Gowap Apprivoisé [Ancêtre];-24;-21;-44
+4317522;Gowap Apprivoisé [Ancien];-42;-55;-39
+2971744;Gowap Apprivoisé [Ancêtre];-21;-36;-55
+620522;Gowap Apprivoisé [Ancêtre];-65;28;-48
+621203;Gowap Apprivoisé [Ancêtre] Camisole;-80;-50;-43
+621848;Gowap Apprivoisé [Ancêtre];-73;-21;-81
+629926;Gowap Apprivoisé [Ancêtre] Ikki;-78;-26;-75
+5861060;Pseudo-Dragon [Initial];-99;13;-56
+646472;Gowap Apprivoisé [Ancêtre];-44;4;-70
+3248892;Gowap Apprivoisé [Ancien];-91;-59;-50
+664691;Gowap Apprivoisé [Ancien] Acry Lique;-97;-45;-65
+680143;Gowap Apprivoisé [Ancêtre];-41;13;-46
+681497;Gowap Apprivoisé [Ancien] Héritage de mon Papa Pépin aux mangeurs;-8;-35;-67
+736101;Gowap Apprivoisé [Ancêtre];-10;15;-84
+724512;Gowap Apprivoisé [Ancêtre];-11;32;-61
+752251;Gowap Apprivoisé [Ancêtre];-48;9;-70
+736765;Gowap Apprivoisé [Ancêtre];-85;-49;-85
+785640;Gowap Apprivoisé [Ancien] KillëLan;-19;-42;-51
+786101;Gowap Apprivoisé [Ancien];-37;-5;-49
+836857;Gowap Apprivoisé [Ancêtre];-54;-46;-68
+5848404;Diablotin [Novice];-93;16;-53
+816999;Gowap Apprivoisé [Ancien];-41;11;-45
+1413461;Gowap Apprivoisé [Ancêtre];-29;31;-80
+861376;Gowap Sauvage [Ancêtre];-13;-10;-40
+893569;Gowap Apprivoisé [Ancêtre];-80;-10;-80
+900486;Gowap Apprivoisé [Ancêtre];-13;16;-55
+5855920;Pseudo-Dragon [Novice];-8;26;-57
+960321;Gowap Apprivoisé [Ancien];-79;-46;-61
+929785;Gowap Apprivoisé [Ancêtre];-58;-27;-39
+940410;Gowap Apprivoisé [Ancêtre];-55;-41;-75
+947506;Gowap Apprivoisé [Ancien] ZimZwap;-55;-16;-63
+947813;Gowap Apprivoisé [Ancien] Viny Lique;-97;-45;-65
+952705;Gowap Apprivoisé [Ancien];-70;32;-47
+963135;Gowap Apprivoisé [Ancêtre] Eridanos;-16;-56;-52
+1055781;Gowap Apprivoisé [Ancêtre];-81;22;-39
+986052;Gowap Apprivoisé [Ancien];-86;-21;-78
+1000601;Gowap Apprivoisé [Ancien] Pulp Fiction;-81;-14;-50
+5862773;Archiatre Abishaii Vert [Initial];-77;-4;-40
+1031803;Gowap Apprivoisé [Ancêtre];-84;-32;-67
+1045147;Gowap Apprivoisé [Ancêtre];-80;-51;-43
+1065019;Gowap Apprivoisé [Ancêtre];-49;24;-77
+1119894;Gowap Apprivoisé [Ancêtre];-18;-53;-40
+1065995;Gowap Apprivoisé [Ancien];-78;8;-63
+1092542;Gowap Apprivoisé [Ancêtre];-56;23;-41
+1122118;Gowap Apprivoisé [Ancêtre];-16;16;-80
+1207090;Gowap Apprivoisé [Ancêtre];-14;-33;-43
+1147887;Gowap Apprivoisé [Ancien];-47;12;-83
+1179242;Gowap Apprivoisé [Ancien];-35;12;-70
+1184599;Gowap Apprivoisé [Ancien];-8;-13;-62
+1200043;Gowap Apprivoisé [Ancien] PLIPLOGOUAP;-12;10;-47
+2672572;Gowap Apprivoisé [Ancien] Alicya;-84;-34;-82
+2967616;Gowap Apprivoisé [Ancêtre];-42;-18;-43
+1219810;Gowap Apprivoisé [Ancien];-12;-45;-51
+1408415;Gowap Apprivoisé [Ancien];-33;-6;-48
+1573498;Gowap Apprivoisé [Ancien];-80;-50;-43
+2144134;Gowap Apprivoisé [Ancien];-24;2;-65
+1265431;Gowap Apprivoisé [Ancien];-32;30;-70
+1230552;Gowap Apprivoisé [Ancêtre];-64;14;-55
+1417552;Gowap Apprivoisé [Ancêtre];-75;-47;-66
+1247241;Gowap Apprivoisé [Ancêtre];-84;4;-64
+1816835;Gowap Apprivoisé [Ancêtre];-21;-37;-55
+1971986;Gowap Apprivoisé [Ancêtre];-41;11;-45
+1344089;Gowap Apprivoisé [Ancêtre];-97;-45;-65
+5723439;Cube Gélatineux Coriace [Légendaire];-28;-23;-77
+1971183;Gowap Apprivoisé [Ancêtre] Rantanplan;-52;-15;-54
+1550667;Gowap Apprivoisé [Ancien] Thiefaine;-90;-63;-48
+1344090;Gowap Apprivoisé [Ancêtre];-97;-45;-65
+1346575;Gowap Apprivoisé [Ancêtre];-65;6;-70
+2195953;Gowap Apprivoisé [Ancien];-90;-4;-71
+1383152;Gowap Apprivoisé [Ancêtre];-51;9;-70
+5259216;Gowap Apprivoisé [Ancêtre];-20;-33;-43
+4113149;Gowap Apprivoisé [Ancêtre];-71;-7;-70
+2006997;Gowap Apprivoisé [Ancien];-9;-15;-61
+1346284;Gowap Apprivoisé [Ancêtre];-84;-34;-82
+1854097;Gowap Apprivoisé [Ancien] kidiboo;-16;-20;-44
+3064601;Gowap Apprivoisé [Ancien];-42;-21;-39
+5851020;Essaim Sanguinaire [Immature];-20;-46;-50
+1470238;Gowap Apprivoisé [Ancêtre];-43;-52;-44
+5860154;Squelette [Naissant];-54;1;-77
+1408713;Gowap Apprivoisé [Ancêtre] Farouche;-84;-21;-54
+2155709;Gowap Apprivoisé [Ancien];-35;-53;-60
+5260218;Gowap Apprivoisé [Ancien];-50;-23;-70
+1905693;Gowap Apprivoisé [Ancien];-12;-39;-44
+1348876;Gowap Apprivoisé [Ancêtre];-15;-27;-62
+1833837;Gowap Apprivoisé [Ancien];-84;-34;-82
+5762672;Gowap Apprivoisé [Chef de harde];-56;-15;-62
+2297487;Gowap Apprivoisé [Ancien];-54;8;-66
+2036207;Gowap Apprivoisé [Ancêtre] Zébulon;-56;-15;-64
+1818824;Gowap Apprivoisé [Ancien];-10;-10;-75
+2195707;Gowap Apprivoisé [Ancien];-16;16;-54
+2062599;Gowap Apprivoisé [Ancêtre];-84;-1;-71
+1526418;Gowap Apprivoisé [Ancien];-74;-36;-62
+5859338;Pseudo-Dragon Malade [Initial];-24;6;-77
+4116730;Gowap Apprivoisé [Ancêtre];-51;-16;-54
+1904074;Gowap Apprivoisé [Ancien] cul de jatte;-57;28;-65
+1729954;Gowap Apprivoisé [Ancien] Zizou;-75;-48;-50
+1601092;Gowap Apprivoisé [Ancien] Forest Gump;-9;29;-43
+1793533;Gowap Apprivoisé [Ancien];-8;-37;-58
+5761030;Chonchon Colossal [Doyen];-55;23;-71
+2090625;Gowap Apprivoisé [Ancêtre] crottin moelleux;-79;-26;-75
+5864720;Banshee [Naissante];-78;-25;-44
+2231738;Gowap Apprivoisé [Ancêtre];-52;4;-70
+1740634;Gowap Apprivoisé [Ancien] paf;-82;-53;-41
+1744093;Gowap Apprivoisé [Ancêtre];-59;14;-60
+5851528;Gros Elémentaire de Terre [Novice];-56;-6;-48
+2151728;Gowap Apprivoisé [Ancien];-41;-30;-40
+1869277;Gowap Apprivoisé [Ancêtre];-32;30;-70
+1756702;Gowap Apprivoisé [Ancêtre];-77;-24;-72
+2100062;Gowap Apprivoisé [Ancien];-35;15;-70
+5859545;Mohrg [Naissant];-68;-39;-65
+5859305;Pseudo-Dragon [Initial];-79;0;-50
+1898382;Gowap Apprivoisé [Ancêtre];-16;16;-54
+1677835;Gowap Apprivoisé [Ancêtre];-34;14;-70
+2379535;Gowap Apprivoisé [Ancêtre];-59;14;-60
+2381722;Gowap Apprivoisé [Ancien] Bagara;-59;14;-60
+1870404;Gowap Apprivoisé [Ancien];-46;-26;-74
+1843828;Gowap Apprivoisé [Ancêtre];-66;-21;-45
+2012005;Gowap Apprivoisé [Ancêtre];-80;-48;-61
+5259925;Gowap Apprivoisé [Ancien] ZoumZoum;-48;-20;-70
+1729280;Gowap Apprivoisé [Ancien]    Chaussette;-84;-21;-54
+1680308;Gowap Apprivoisé [Ancien];-75;-47;-69
+5755860;Chonchon Esculape [Doyen] bi;-22;-21;-61
+1995332;Gowap Apprivoisé [Ancien];-34;-6;-48
+5852270;Pseudo-Dragon [Novice];-60;-12;-55
+4982710;Gowap Apprivoisé [Ancien];-54;-32;-50
+1931560;Gowap Apprivoisé [Ancêtre];-10;14;-51
+2139883;Gowap Apprivoisé [Ancien];-67;-41;-74
+2162350;Gowap Apprivoisé [Ancien];-47;12;-83
+5020368;Gowap Apprivoisé [Ancêtre] Chamalow;-83;-21;-54
+5850327;Chonchon Traqueur [Jeune];-76;3;-48
+2134612;Gowap Apprivoisé [Ancêtre];-35;14;-70
+2142811;Gowap Apprivoisé [Ancien];-46;24;-70
+5259429;Mohrg [Ancestral];-13;-11;-73
+2441249;Gowap Apprivoisé [Ancien];-35;14;-70
+2427164;Gowap Apprivoisé [Ancien] Popiu;-77;-41;-65
+2912275;Maître Capitan [Ancestral];-75;-51;-70
+2847871;Phoenix Colossal [Légendaire];-49;18;-71
+2591362;Gowap Apprivoisé [Ancêtre];-70;-36;-66
+2507051;Gowap Apprivoisé [Ancêtre];-31;-39;-45
+2772878;Gowap Apprivoisé [Ancien];-32;30;-70
+2681023;Gowap Apprivoisé [Ancêtre];-77;-22;-67
+2698942;Gowap Apprivoisé [Ancien] Aurelya;-84;-34;-82
+2773988;Gowap Apprivoisé [Ancien];-40;10;-45
+2605128;Gowap Apprivoisé [Ancien];-61;8;-64
+2512764;Gowap Apprivoisé [Ancêtre];-20;-20;-40
+2643683;Gowap Apprivoisé [Ancêtre];-81;6;-75
+5099809;Gowap Apprivoisé [Ancien] Tac;-77;-25;-71
+5863960;Shaman Golem de Pierre [Nouveau];-103;-44;-67
+5260217;Gowap Apprivoisé [Ancien];-50;-23;-70
+5494350;Gowap Apprivoisé [Ancien];-54;-45;-75
+5861093;Pseudo-Dragon [Initial];-48;26;-62
+5242472;Gowap Apprivoisé [Ancêtre];-94;-46;-43
+2603648;Gowap Apprivoisé [Ancien];-50;20;-60
+2796557;Gowap Apprivoisé [Ancien];-60;5;-70
+5487785;Phoenix [Légendaire];-87;-61;-85
+3137859;Gowap Apprivoisé [Ancien] TITITOUDOUX;-93;-4;-71
+5853516;Gros Crasc Médius [Jeune];-75;-49;-56
+2998769;Gowap Apprivoisé [Ancien];-98;-45;-64
+2868367;Gowap Apprivoisé [Ancêtre];-50;-46;-66
+5411594;Mohrg Nécromant [Ancestral];-12;-11;-73
+2971743;Gowap Apprivoisé [Ancien];-21;-37;-55
+4116962;Gowap Apprivoisé [Ancien];-42;-26;-73
+4513552;Gowap Apprivoisé [Ancêtre];-56;-21;-53
+3220153;Gowap Apprivoisé [Ancêtre];-53;18;-70
+3068051;Gowap Apprivoisé [Ancien];-40;22;-43
+2998126;Gowap Apprivoisé [Ancien];-97;-45;-65
+3033888;Gowap Apprivoisé [Ancien];-11;-11;-45
+4117103;Gowap Apprivoisé [Ancien] Alizé;-58;-22;-54
+3068344;Gowap Apprivoisé [Ancêtre];-55;0;-64
+4149487;Gowap Apprivoisé [Ancien];-64;-37;-73
+4216997;Gowap Apprivoisé [Ancien];-69;4;-71
+3215399;Gowap Apprivoisé [Ancêtre];-45;-16;-47
+3080026;Gowap Apprivoisé [Ancien];-28;-32;-44
+3202216;Gowap Apprivoisé [Ancien] Les Pourritrolls sont mes idoles;-33;-12;-78
+3174886;Gowap Apprivoisé [Ancêtre] Phydel;-51;-16;-54
+4112772;Gowap Apprivoisé [Ancêtre];-65;8;-70
+4013159;Phoenix Coriace [Légendaire];-87;-62;-84
+3192454;Gowap Apprivoisé [Ancêtre];-88;-34;-74
+4046319;Gowap Apprivoisé [Ancêtre];-63;20;-46
+4024202;Gowap Apprivoisé [Ancien];-57;-58;-46
+4278000;Gowap Apprivoisé [Ancien];-19;-21;-44
+4102028;Gowap Apprivoisé [Ancien];-27;18;-54
+3220372;Gowap Apprivoisé [Ancêtre];-35;-55;-60
+3228400;Gowap Apprivoisé [Ancêtre];-55;-43;-70
+3245304;Gowap Apprivoisé [Ancêtre];-71;2;-47
+3327819;Gowap Apprivoisé [Ancêtre];-78;-26;-75
+3229107;Gowap Apprivoisé [Ancien];-60;-48;-70
+5842406;Croquemitaine [Ancien];-94;-7;-39
+3259307;Gowap Apprivoisé [Ancêtre];-22;-21;-44
+4050968;Phoenix [Légendaire];-51;16;-71
+4398712;Gowap Apprivoisé [Ancêtre];-77;20;-45
+5020445;Gowap Apprivoisé [Ancien] Jolly Jumper;-83;-21;-53
+5837189;Ectoplasme [Ancien];-49;-48;-82
+4326085;Gowap Apprivoisé [Ancien] Adoobe;-51;-16;-54
+3298435;Gowap Apprivoisé [Ancêtre];-19;-33;-43
+5841967;Labeilleux [Juvénile];-100;-33;-51
+4113415;Gowap Apprivoisé [Ancien];-58;-31;-70
+5851731;Crasc Maexus [Jeune];-53;11;-54
+4055671;Gowap Apprivoisé [Ancêtre];-19;-21;-44
+4010722;Gowap Apprivoisé [Ancêtre];-55;-52;-52
+4075356;Phoenix [Légendaire];-83;-17;-73
+4911542;Gowap Apprivoisé [Ancien];-42;-41;-67
+4048928;Daemonite Coriace [Suprême];-37;23;-79
+4031801;Phoenix Gargantuesque [Légendaire];-87;-62;-84
+5750937;Behemoth Cogneur [Supérieur];-14;-53;-79
+4015556;Phoenix [Légendaire];-83;-18;-73
+4011272;Gowap Apprivoisé [Ancien];-28;-60;-85
+5855873;Diablotin de Cinquième Cercle [Novice];-50;3;-39
+4113414;Gowap Apprivoisé [Ancêtre];-51;-23;-70
+5862084;Elémentaire du Chaos Corrompu [Initial];-75;5;-59
+4683983;Phoenix Gargantuesque [Légendaire];-53;18;-72
+4033419;Gowap Apprivoisé [Ancien];-10;-3;-52
+4041145;Phoenix [Légendaire];-37;-5;-68
+4681030;Phoenix Cogneur [Légendaire];-52;18;-72
+5864668;Titan [Nouveau];-72;-42;-60
+5860827;Pseudo-Dragon Invocateur [Initial];-50;-4;-61
+5553085;Phoenix Esculape [Légendaire];-45;5;-70
+4343197;Gowap Apprivoisé [Ancêtre];-76;-35;-55
+4451921;Gowap Apprivoisé [Ancêtre] Braratine;-97;26;-54
+4509027;Gowap Apprivoisé [Ancien];-22;-22;-44
+4117595;Gowap Apprivoisé [Ancêtre] Flinch;-51;-16;-54
+4221670;Gowap Apprivoisé [Ancêtre];-31;13;-75
+5001786;Phoenix [Légendaire];-37;-5;-68
+5860712;Pseudo-Dragon [Initial];-40;-40;-72
+5865407;Nécrophage [Naissant];-71;-44;-74
+4115294;Gowap Apprivoisé [Ancêtre];-67;-37;-70
+4112327;Gowap Apprivoisé [Ancien];-34;15;-70
+4116586;Gowap Apprivoisé [Ancien];-35;-52;-70
+5865678;Tertre Errant Esculape [Nouveau];-92;18;-42
+5852481;Spectre [Récent];-37;-32;-64
+5856412;Xorn [Novice];-24;-58;-52
+5866204;Abishaii Rouge [Initial];-96;-63;-53
+5868284;Elémentaire de Terre Invocateur [Initial];-81;-45;-55
+4132507;Daemonite Cogneur [Suprême];-34;23;-79
+4342942;Gowap Apprivoisé [Ancien];-27;31;-52
+4137804;Daemonite de Cinquième Cercle [Suprême];-33;21;-78
+4509589;Gowap Apprivoisé [Ancien];-48;7;-72
+4451920;Gowap Apprivoisé [Ancêtre] Pointepiques;-96;24;-52
+4683984;Phoenix Gargantuesque [Légendaire];-49;17;-72
+4696868;Gowap Apprivoisé [Ancêtre];-26;3;-65
+4714450;Gowap Apprivoisé [Ancêtre];-65;-38;-70
+4340721;Gowap Apprivoisé [Ancêtre];-34;-7;-49
+4426194;Gowap Apprivoisé [Ancêtre];-49;-29;-54
+4396055;Gowap Apprivoisé [Ancien];-80;-30;-40
+5852459;Vampire Archaïque [Récent];-37;-28;-64
+4377980;Daemonite [Suprême];-36;21;-79
+4355134;Gowap Apprivoisé [Ancêtre] EleAntoGaspMarc;-75;-48;-50
+4371421;Gowap Apprivoisé [Ancien];-43;14;-51
+4526167;Gowap Apprivoisé [Ancien];-48;2;-61
+4326287;Gowap Apprivoisé [Ancêtre] Tayoooo;-58;-21;-54
+4189296;Daemonite [Suprême];-36;21;-79
+4326286;Gowap Apprivoisé [Ancêtre];-52;-16;-53
+4521736;Gowap Apprivoisé [Ancêtre];-49;-11;-52
+5866009;Effrit [Nouveau];-71;-40;-63
+5863036;Nécromant [Naissant];-78;-22;-75
+4513004;Gowap Apprivoisé [Ancêtre] GoGo;-50;-23;-70
+4395847;Gowap Apprivoisé [Ancêtre];-47;-29;-55
+4202416;Gowap Apprivoisé [Ancien];-97;23;-52
+4299677;Golem de métal [Légendaire];-64;9;-70
+4326567;Gowap Apprivoisé [Ancêtre] Buzzzz;-52;-16;-55
+4216998;Gowap Apprivoisé [Ancien];-69;4;-71
+4325692;Gowap Apprivoisé [Ancêtre] Fizzzz;-51;-16;-54
+5794988;Bulette Fouisseuse [Briscarde];-67;-14;-43
+5865481;Croquemitaine [Naissant];-75;-41;-79
+4686395;Phoenix [Légendaire];-50;17;-71
+5505000;Phoenix Gargantuesque [Légendaire];-51;17;-73
+4461226;Gowap Apprivoisé [Ancêtre];-63;-22;-48
+4567766;Gowap Apprivoisé [Ancien];-35;-5;-49
+5861322;Vouivre [Nouvelle];-83;15;-72
+4696869;Gowap Apprivoisé [Ancêtre];-53;4;-68
+4508280;Gowap Apprivoisé [Ancien];-22;-22;-44
+4744357;Phoenix Fustigateur [Légendaire];-86;-60;-85
+4493937;Gowap Apprivoisé [Ancien];-95;-52;-74
+5857921;Barghest Ronfleur [Novice];-48;-61;-67
+4778841;Gowap Apprivoisé [Ancêtre];-70;4;-73
+4657251;Gowap Apprivoisé [Ancêtre] JiJi;-50;-23;-70
+5055294;Daemonite Ronfleur [Supérieur];-34;23;-79
+4541956;Gowap Apprivoisé [Ancien] Très Très Ancien;-50;0;-79
+5868398;Bouj'Dla [Nouveau];-34;-10;-41
+5837265;Zombie [Ancien];-44;-49;-82
+5409277;Phoenix [Légendaire];-51;18;-72
+5855106;Molosse Satanique [Novice];-31;-31;-79
+5863424;Gros Ectoplasme [Naissant];-98;-28;-57
+5863614;Diablotin [Initial];-10;8;-76
+4778993;Gros Phoenix [Légendaire];-49;17;-72
+4930979;Gowap Apprivoisé [Ancien];-79;-26;-75
+4784062;Gowap Apprivoisé [Ancêtre];-54;24;-39
+4744796;Gowap Apprivoisé [Ancien] Moratorn;-96;24;-52
+5259605;Gowap Apprivoisé [Ancien] Turbine;-50;-23;-70
+4933396;Gowap Apprivoisé [Ancêtre];-48;-29;-55
+4576467;Phoenix [Légendaire];-90;19;-84
+5773443;Bouj'Dla Placide [Doyen];-85;-63;-77
+5797038;Phoenix [Briscard];-43;-15;-76
+4764958;Golem de cuir [Légendaire] Typhoon;-55;20;-43
+5830804;Crasc Maexus Parasitus [Vétéran];-25;13;-63
+5854947;Abishaii Vert Invocateur [Novice];-29;-29;-76
+4929339;Gowap Apprivoisé [Ancêtre];-79;-26;-75
+5857060;Crasc Maexus [Jeune];-85;27;-76
+4642827;Gowap Apprivoisé [Ancêtre];-59;-20;-79
+5833488;Chonchon Colossal [Vétéran];-89;-36;-49
+4603473;Daemonite [Suprême];-35;21;-78
+4799755;Gowap Apprivoisé [Ancien];-36;-26;-40
+4730876;Gowap Apprivoisé [Ancien];-67;4;-41
+5517235;Gowap Apprivoisé [Ancien] tommy;-54;27;-61
+4783739;Gowap Apprivoisé [Ancien] Poch'a'vin;-56;-13;-62
+5824918;Petit Tertre Errant [Vétéran];-60;-12;-48
+4594514;Daemonite de Troisième Cercle [Suprême];-34;21;-79
+5850257;Effrit [Adulte];-39;-10;-55
+4773381;Capitan [Ancestral];-99;-59;-86
+5100366;Gowap Apprivoisé [Ancien];-79;-26;-75
+4802850;Gowap Apprivoisé [Ancêtre];-69;4;-71
+4783243;Gowap Apprivoisé [Ancien] Kiwi';-14;-5;-49
+5860976;Pseudo-Dragon Fanatique [Initial];-20;-11;-56
+5860725;Pseudo-Dragon de Quatrième Cercle [Initial];-10;-6;-51
+4642935;Gowap Apprivoisé [Ancien];-16;-7;-42
+5839367;Ame-en-peine [Ancienne];-96;-40;-45
+4613161;Effrit Colossal [Légendaire];-35;-46;-77
+5085195;Gowap Apprivoisé [Ancien];-37;-28;-63
+4964770;Gowap Apprivoisé [Ancien];-21;-4;-49
+5259926;Gowap Apprivoisé [Ancêtre];-32;-31;-70
+5849748;Effrit [Jeune];-60;-62;-60
+4703143;Gowap Apprivoisé [Ancien];-94;-18;-66
+5190378;Daemonite [Suprême];-34;22;-78
+5868515;Squelette [Naissant];-64;31;-50
+5511858;Gowap Apprivoisé [Ancien];-9;-13;-62
+5656614;Crasc Maexus Gargantuesque [Légendaire];-38;-47;-82
+5865681;Bulette Colossale [Nouvelle];-33;21;-49
+5494100;Gowap Apprivoisé [Ancien];-54;-45;-75
+4648957;Gowap Apprivoisé [Ancien];-19;-43;-51
+5814946;Essaim Cratérien Corrompu [Développé];-51;-22;-70
+5856781;Basilisk Gargantuesque [Jeune];-18;-40;-40
+5820397;Spectre Malade [Vénérable];-84;-26;-46
+5763719;Chonchon Colossal [Doyen];-97;-28;-73
+5840257;Essaim Cratérien Strident [Juvénile];-71;-7;-70
+5854269;Croquemitaine [Récent];-61;3;-43
+5503210;Effrit [Légendaire];-36;-46;-77
+5854291;Crasc Maexus Parasitus [Jeune];-10;-12;-59
+5352943;Gowap Apprivoisé [Ancien] Früstück;-16;-7;-43
+5839829;Essaim Cratérien Corrompu [Juvénile];-70;-8;-70
+4908483;Gowap Apprivoisé [Ancien];-8;-2;-39
+5818449;Bouj'Dla Placide [Vétéran];-15;26;-68
+5283898;Gowap Apprivoisé [Ancêtre];-74;8;-69
+5865573;Phoenix Gargantuesque [Nouveau];-34;22;-74
+5844075;Essaim Cratérien Corrompu [Juvénile];-66;-38;-70
+5867504;Banshee [Naissante];-75;-41;-74
+5825650;Essaim Cratérien Fouisseur [Imago];-59;-33;-70
+5845932;Chonchon [Adulte];-99;29;-53
+5824780;Phoenix [Vétéran];-59;-4;-79
+5284182;Gowap Apprivoisé [Ancien] Titi;-17;20;-59
+4921036;Gowap Apprivoisé [Ancêtre];-97;-52;-74
+5099808;Gowap Apprivoisé [Ancêtre] Krisstrolls Gustave te voit;-78;-27;-71
+5860690;Pseudo-Dragon [Initial];-82;-50;-59
+5149330;Phoenix [Légendaire];-87;-60;-85
+5865550;Ame-en-peine [Naissante];-86;-36;-40
+5866986;Pseudo-Dragon de Cinquième Cercle [Initial];-41;27;-82
+5860987;Pseudo-Dragon [Initial];-11;-4;-69
+5833450;Zombie Médicastre [Vénérable];-49;-50;-82
+5865546;Ame-en-peine [Naissante];-78;-22;-75
+5851097;Foudroyeur [Immature];-97;-32;-68
+4992803;Daemonite [Suprême];-33;22;-79
+5855833;Petit Diablotin [Novice];-88;25;-49
+5839064;Bouj'Dla Placide [Adulte];-19;-35;-68
+5864661;Crasc Maexus [Nouveau];-10;7;-73
+5861489;Fumeux de Troisième Cercle [Initial];-49;-5;-50
+5851078;Essaim Cratérien [Immature];-59;-33;-70
+5726534;Ver Carnivore Géant Fouisseur [Légendaire];-25;-49;-39
+5849685;Bouj'Dla Placide [Jeune];-29;-3;-80
+5226942;Gowap Apprivoisé [Ancêtre];-61;-21;-77
+5860091;Spectre [Naissant];-53;1;-77
+5849750;Elémentaire du Chaos [Novice];-74;-47;-57
+5863071;Ame-en-peine [Naissante];-70;-44;-73
+5865923;Zombie [Naissant];-99;18;-56
+5851961;Behemoth [Novice];-40;-5;-71
+5839977;Nécrochore [Ancien];-75;-41;-74
+5466535;Gowap Apprivoisé [Ancêtre];-51;-36;-70
+5845223;Nécromant [Ancien];-91;-55;-65
+5848092;Sorcière Berserkere [Jeune];-100;-2;-56
+4998677;Daemonite [Suprême];-35;21;-79
+5415874;Gowap Apprivoisé [Ancien];-27;30;-40
+4928819;Gowap Apprivoisé [Ancêtre] Bouboullest Avecmoi;-77;-24;-71
+5866859;Zombie Archaïque [Naissant];-43;-62;-73
+5169279;Phoenix [Légendaire];-51;29;-83
+5863500;Diablotin [Initial];-98;-33;-72
+5258785;Bouj'Dla Placide [Légendaire];-32;-52;-58
+5861081;Pseudo-Dragon [Initial];-43;-5;-73
+5841356;Phoenix Fouisseur [Adulte];-68;-61;-66
+5864235;Squelette Malade [Naissant];-80;-21;-77
+5863276;Chonchon [Nouveau];-36;22;-50
+5221570;Bouj'Dla Placide [Légendaire];-68;-62;-49
+5852452;Nécrochore Corrompu [Récent];-39;-30;-64
+4871958;Gowap Apprivoisé [Ancêtre];-53;-41;-75
+5862617;Xorn [Initial];-33;-55;-55
+4925557;Gowap Apprivoisé [Ancien];-8;0;-57
+5843866;Sorcière [Adulte];-70;-56;-42
+5852260;Pseudo-Dragon [Novice];-84;22;-61
+4928818;Gowap Apprivoisé [Ancien] Pégase Outexplose;-66;-33;-72
+5868124;Anoploure Purpurin [Larve];-99;27;-71
+5775648;Ours-Garou Alchimiste [Briscard];-88;-29;-60
+5842563;Grand Frondeur Géant de Pierre [Adulte];-60;18;-45
+5867561;Molosse Satanique [Initial];-13;22;-40
+5099920;Gowap Apprivoisé [Ancêtre];-83;-31;-64
+5839891;Cube Gélatineux Cogneur [Adulte];-43;-54;-66
+5867771;Bulette Cracheuse [Nouvelle];-54;-54;-39
+5863077;Capitan Nécromant [Naissant];-75;-47;-76
+5866548;Spectre [Naissant];-64;33;-48
+5261293;Mohrg [Ancestral];-14;-12;-73
+5226940;Gowap Apprivoisé [Ancêtre];-59;-20;-79
+5111734;Gowap Apprivoisé [Ancien];-80;-11;-48
+5252143;Daemonite [Suprême];-34;22;-78
+5139911;Gowap Apprivoisé [Ancien] Mélanie;-31;-23;-68
+5856291;Voleuse Sorcière [Jeune];-40;-60;-40
+5867224;Chonchon [Nouveau];-29;9;-53
+5051546;Gowap Apprivoisé [Chef de harde];-42;-30;-47
+5860836;Pseudo-Dragon [Initial];-40;-59;-57
+5408310;Petit Phoenix [Légendaire];-50;17;-72
+5111236;Gowap Apprivoisé [Ancêtre];-80;-11;-48
+5864263;Palefroi Infernal [Initial];-92;-37;-75
+5853836;Essaim Cratérien [Immature];-64;8;-70
+5858871;Mégacéphale [Nouveau];-61;-17;-72
+4931498;Gowap Apprivoisé [Ancien];-79;-26;-75
+5293917;Golem de cuir [Légendaire];-81;6;-75
+5853827;Essaim Cratérien [Juvénile];-59;-33;-70
+5860848;Pseudo-Dragon Coriace [Initial];-33;-47;-62
+4908704;Gowap Apprivoisé [Ancêtre];-8;-6;-40
+5084792;Gowap Apprivoisé [Ancêtre];-34;-28;-57
+5111420;Gowap Apprivoisé [Ancien];-80;-12;-50
+5849595;Anoploure Purpurin [Immature];-8;-11;-69
+5866437;Phoenix Gargantuesque [Nouveau];-79;-44;-65
+5857062;Effrit Fouisseur [Jeune];-31;-2;-62
+5855852;Pseudo-Dragon [Novice];-69;-2;-51
+5865210;Croquemitaine Médicastre [Naissant];-80;-21;-74
+5099921;Gowap Apprivoisé [Ancêtre];-79;-26;-75
+5863088;Squelette [Naissant];-74;-25;-46
+5821058;Gorgone Cogneuse [Vétéran];-71;26;-44
+5851935;Behemoth Coriace [Novice];-54;-61;-66
+5859315;Pseudo-Dragon Malade [Initial];-68;-16;-65
+5855395;Familier [Légendaire];-56;18;-44
+5868131;Reine Mante Fulcreuse [Larve];-79;-20;-65
+5806741;Ver Carnivore Géant Colossal [Briscard];-17;-60;-51
+5863834;Carnosaure Corrompu [Nouveau];-57;-3;-59
+5726394;Petit Tertre Errant [Légendaire];-89;0;-53
+5799575;Effrit [Briscard];-22;-50;-59
+5815407;Banshee [Vénérable];-13;-14;-74
+5826142;Capitan Coriace [Vénérable];-38;30;-81
+5845891;Chonchon Gargantuesque [Adulte];-10;-5;-67
+5739338;Gowap Apprivoisé [Ancien];-53;-27;-65
+5860963;Pseudo-Dragon Corrompu [Initial];-37;-37;-71
+5827724;Mante Fulcreuse [Imago];-41;-5;-81
+5867841;Croquemitaine Ronfleur [Naissant];-49;10;-78
+5651078;Gowap Apprivoisé [Ancêtre];-77;20;-45
+5863522;Diablotin [Initial];-84;-43;-66
+5849146;Mohrg Archaïque [Ancien];-41;31;-63
+5865040;Fantôme [Naissant];-75;-48;-82
+5868958;Gros Elémentaire du Chaos [Initial];-83;-53;-54
+5861567;Grosse Marilith [Novice];-26;3;-63
+5841845;Géant des Gouffres [Adulte];-98;-45;-44
+5863501;Archiatre Pseudo-Dragon [Initial];-96;-31;-70
+5853893;Mohrg [Récent];-12;-62;-79
+5837784;Spectre Nécromant [Ancien];-95;-37;-46
+5865820;Spectre [Naissant];-75;-41;-78
+5866994;Pseudo-Dragon [Initial];-21;-43;-77
+5830459;Crasc Maexus [Vétéran];-25;10;-65
+5859682;Petit Capitan [Naissant];-63;-20;-84
+5827870;Ver Carnivore Géant Ronfleur [Vétéran];-57;-59;-40
+5866418;Nécrophage [Naissant];-79;-21;-75
+5692276;Bouj'Dla Placide [Légendaire];-54;-45;-70
+5818289;Essaim Sanguinaire [Imago];-60;17;-50
+5626086;Gowap Apprivoisé [Ancien];-94;-16;-66
+5867073;Ame-en-peine [Naissante];-77;-47;-80
+5850999;Essaim Sanguinaire [Immature];-27;-48;-50
+5866181;Feu Follet [Nouveau];-13;-46;-43
+5863201;Gros Elémentaire de Feu [Initial];-37;-8;-44
+5860714;Pseudo-Dragon de Premier Cercle [Initial];-40;-1;-54
+5867879;Banshee [Naissante];-62;30;-49
+5771330;Gowap Apprivoisé [Chef de harde];-52;-31;-50
+5831881;Barghest Fanatique [Favori];-55;-50;-80
+5848440;Diablotin [Novice];-24;-52;-62
+5862288;Spectre Médicastre [Naissant];-53;2;-77
+5847789;Essaim Cratérien [Immature];-64;8;-70
+5866639;Feu Follet [Nouveau];-33;32;-45
+5698814;Cube Gélatineux [Légendaire];-13;26;-79
+5681053;Gowap Apprivoisé [Ancien];-50;-23;-70
+5800856;Gowap Apprivoisé Vorace [Mature];-23;-39;-40
+5680063;Gowap Apprivoisé [Ancien];-84;-21;-54
+5868192;Spectre [Naissant];-79;-21;-76
+5857346;Tertre Errant Gargantuesque [Jeune];-84;13;-73
+5868214;Crasc Maexus Esculape [Nouveau];-51;8;-55
+5710293;Phoenix [Légendaire];-43;-16;-76
+5865578;Squelette Médicastre [Naissant];-78;-22;-75
+5837353;Ame-en-peine [Ancienne];-48;-50;-84
+5747129;Maître Fantôme [Ancestral];-84;-30;-82
+5834800;Nécrophage [Ancien];-45;-48;-85
+5833429;Nécromant [Vénérable];-48;-49;-82
+5857981;Gros Effrit [Nouveau];-17;-7;-67
+5822688;Behemoth de Troisième Cercle [Favori];-19;21;-67
+5863570;Diablotin [Initial];-43;-4;-69
+5836384;Essaim Cratérien [Juvénile];-50;-23;-70
+5815661;Tertre Errant [Vétéran];-40;-50;-52
+5805366;Géant des Gouffres Berserker [Briscard];-60;32;-57
+5319633;Daemonite [Suprême];-34;21;-79
+5719454;Phoenix Coriace [Légendaire];-56;-60;-84
+5866975;Pseudo-Dragon [Initial];-55;18;-79
+5852533;Voleur Géant des Gouffres [Jeune];-62;-39;-61
+5847285;Essaim Cratérien [Juvénile];-50;-22;-70
+5632786;Gowap Apprivoisé [Ancien];-101;-57;-80
+5853993;Prince Incube [Novice];-28;-30;-79
+5839953;Nécrochore Ronfleur [Ancien];-88;-48;-73
+5840865;Bulette [Adulte];-72;-23;-40
+5740880;Gowap Apprivoisé [Ancien];-30;-18;-49
+5857396;Ame-en-peine [Récente];-14;-3;-75
+5844329;Bulette Esculape [Adulte];-67;-14;-43
+5769401;Capitan Cogneur [Antique];-91;10;-82
+5856629;Effrit [Jeune];-16;15;-61
+5710914;Petit Basilisk [Légendaire];-90;-55;-46
+5857298;Fantôme Cogneur [Récent];-27;-52;-57
+5861200;Phoenix [Nouveau];-72;-61;-78
+5761713;Chonchon [Doyen];-89;8;-57
+5815854;Bouj'Dla Placide [Vétéran];-87;-63;-77
+5839063;Bouj'Dla Placide [Adulte];-18;-35;-68
+5845268;Capitan [Ancien];-89;7;-73
+5815595;Xorn Malade [Favori];-67;-35;-40
+5849688;Bouj'Dla Placide Ronfleur [Jeune];-30;-5;-80
+5864923;Maîtresse Ame-en-peine [Naissante];-74;-40;-78
+5751386;Phoenix [Doyen];-36;-49;-83
+5760769;Effrit Fustigateur [Doyen];-47;1;-65
+5867132;Carnosaure Esculape [Nouveau];-63;-30;-50
+5861769;Shai [Initial];-96;23;-52
+5840250;Essaim Cratérien [Juvénile];-70;-7;-70
+5843801;Gowap Apprivoisé [Jeune];-58;-36;-70
+5842750;Croquemitaine [Ancien];-94;-7;-40
+5850378;Gros Xorn [Novice];-85;-33;-39
+5862172;Cube Gélatineux [Nouveau];-33;-49;-62
+5858606;Petit Spectre [Naissant];-98;-20;-40
+5323754;Capitan [Ancestral];-92;-9;-73
+5866409;Ame-en-peine Corrompue [Naissante];-78;-22;-75
+5865520;Croquemitaine Nécromant [Naissant];-75;-41;-74
+5799584;Gowap Apprivoisé [Mature];-90;-51;-77
+5868356;Chonchon [Nouveau];-27;-60;-43
+5860450;Bouj'Dla Placide [Jeune];-41;-61;-79
+5770828;Cube Gélatineux [Doyen];-50;-12;-68
+5861068;Pseudo-Dragon [Initial];-87;-39;-57
+5493802;Gowap Apprivoisé [Ancêtre];-54;-45;-75
+5867654;Bouj'Dla Placide [Nouveau];-71;19;-74
+5866241;Sorcière [Nouvelle];-87;27;-42
+5860977;Pseudo-Dragon Invocateur [Initial];-24;10;-55
+5851896;Behemoth de Cinquième Cercle [Novice];-14;-50;-69
+5864653;Xorn [Initial];-24;-59;-52
+5589840;Gowap Apprivoisé [Ancien];-54;24;-39
+5857911;Ame-en-peine [Récente];-15;-1;-73
+5836256;Fantôme [Ancien];-49;-47;-81
+5852469;Banshee [Récente];-37;-30;-64
+5723162;Pseudo-Dragon [Suprême];-81;5;-39
+5865955;Croquemitaine [Naissant];-79;-37;-50
+5860680;Pseudo-Dragon [Initial];-93;-19;-57
+5865474;Frondeur Mégacéphale [Nouveau];-75;-43;-74
+5860974;Pseudo-Dragon [Initial];-30;-33;-64
+5854480;Cube Gélatineux Gargantuesque [Jeune];-48;-50;-66
+5835994;Bouj'Dla Placide [Adulte];-44;-36;-45
+5857985;Mégacéphale [Nouveau];-75;-42;-74
+5854498;Crasc Médius Cogneur [Jeune];-93;-12;-42
+5866993;Pseudo-Dragon [Initial];-17;-59;-79
+5832224;Effrit Frénétique [Vétéran];-47;1;-65
+5683637;Daemonite [Suprême];-12;6;-69
+5494351;Gowap Apprivoisé [Ancien];-54;-45;-75
+5820698;Marilith [Favorite];-28;3;-73
+5868453;Tertre Errant [Nouveau];-60;19;-40
+5864616;Squelette [Naissant];-59;2;-42
+5822236;Essaim Cratérien Ouvrier [Imago];-36;-52;-70
+5863946;Gros Golem de Pierre [Nouveau];-25;-52;-43
+5834985;Essaim Cratérien [Juvénile];-64;8;-70
+5850260;Elémentaire du Chaos Corrompu [Novice];-61;-49;-67
+5763276;Capitan [Antique];-70;-53;-74
+5694470;Phoenix [Légendaire];-37;-6;-68
+5752454;Phoenix [Doyen];-22;-47;-83
+5765580;Anoploure Purpurin [Mûr];-82;-28;-65
+5859152;Banshee [Naissante];-16;-1;-73
+5857983;Effrit Frénétique [Nouveau];-48;-1;-65
+5828085;Essaim Cratérien [Imago];-63;8;-70
+5855825;Diablotin [Novice];-93;-26;-58
+5632890;Gowap Apprivoisé [Ancien];-101;-57;-80
+5863068;Elémentaire du Chaos [Initial];-40;-28;-65
+5827969;Hellrot [Favori];-13;-30;-48
+5853374;Palefroi Infernal Invocateur [Novice];-29;-31;-78
+5752519;Chonchon Ronfleur [Doyen];-31;25;-60
+5861271;Manticore Malade [Nouvelle];-32;21;-70
+5860300;Elémentaire de Terre [Initial];-25;-60;-51
+5789043;Essaim Sanguinaire [Développé];-11;27;-50
+5866718;Fantôme [Naissant];-16;-2;-75
+5843497;Gowap Apprivoisé [Jeune];-69;4;-71
+5626655;Phoenix [Légendaire];-37;1;-71
+5852960;Squelette Cogneur [Récent];-36;-33;-62
+5848075;Gros Abishaii Vert [Novice];-96;-9;-42
+5866974;Pseudo-Dragon [Initial];-59;-1;-76
+5868019;Pititabeille [Larve];-52;-21;-51
+5866470;Mante Fulcreuse [Larve];-67;3;-63
+5862139;Cheval à Dents de Sabre Fouisseur [Bébé];-82;-38;-61
+5834019;Golem de Pierre [Adulte];-24;10;-61
+5837802;Ame-en-peine [Ancienne];-97;-40;-45
+5769855;Phoenix Gargantuesque [Doyen];-25;-63;-75
+5850213;Cube Gélatineux Frénétique [Jeune];-46;-52;-68
+5842722;Squelette Cogneur [Ancien];-59;0;-42
+5843716;Zombie [Ancien];-61;5;-41
+5796810;Bouj'Dla Placide [Briscard];-20;-34;-68
+5855319;Nécrophage [Récent];-15;-1;-74
+5848402;Diablotin [Novice];-88;15;-62
+5525730;Mohrg Médicastre [Ancestral];-10;-14;-73
+5500791;Maître Mohrg [Ancestral];-12;-12;-73
+5852676;Crasc Maexus Cracheur [Jeune];-28;-1;-73
+5868822;Zombie [Naissant];-79;-37;-42
+5868357;Chonchon [Nouveau];-24;-56;-45
+5651350;Phoenix [Légendaire];-49;29;-83
+5857244;Effrit [Jeune];-53;17;-56
+5868424;Banshee Psychophage [Naissante];-78;-22;-75
+5855034;Crasc Maexus Colossal [Jeune];-14;20;-66
+5867965;Crasc Maexus Parasitus [Nouveau];-68;-29;-74
+5759256;Barghest [Supérieur];-94;-28;-83
+5822635;Behemoth [Favori];-75;-44;-74
+5519508;Phoenix [Légendaire];-51;16;-72
+5841401;Glouton [Jeune];-94;-33;-60
+5747486;Anoploure Purpurin [Mûr];-63;12;-65
+5863572;Diablotin [Initial];-34;27;-77
+5540862;Mohrg [Ancestral];-15;-12;-74
+5487363;Effrit [Légendaire];-35;-36;-72
+5862932;Petit Essaim Cratérien [Larve];-71;-7;-70
+5863302;Gros Squelette [Naissant];-75;-23;-46
+5838958;Ame-en-peine [Ancienne];-96;-37;-45
+5862658;Tertre Errant Esculape [Nouveau];-49;-42;-49
+5803126;Gowap Apprivoisé [Mature];-10;-10;-65
+5851414;Abishaii Bleu Cogneur [Novice];-42;19;-40
+5680001;Spectre Mentat [Ancestral];-62;-13;-41
+5851920;Behemoth [Novice];-15;-48;-69
+5860447;Petit Bouj'Dla Placide [Jeune];-41;-62;-79
+5864739;Gros Abishaii Bleu [Initial];-99;-28;-40
+5850870;Chonchon Fustigateur [Jeune];-97;-60;-54
+5838400;Elémentaire du Chaos [Mineur];-88;-47;-50
+5864040;Abishaii Rouge [Initial];-44;8;-41
+5831433;Essaim Cratérien [Imago];-71;-7;-70
+5798051;Petit Foudroyeur [Développé];-31;22;-67
+5771331;Gowap Apprivoisé [Chef de harde];-52;-31;-50
+5839062;Bouj'Dla Placide [Adulte];-20;-35;-68
+5863135;Shai [Initial];-39;-49;-60
+5680543;Gowap Apprivoisé [Ancien];-83;-21;-53
+5861100;Pseudo-Dragon [Initial];-15;-63;-63
+5855850;Pseudo-Dragon [Novice];-77;-4;-65
+5866044;Crasc Maexus Parasitus [Nouveau];-75;-41;-74
+5866048;Crasc Maexus [Nouveau];-75;-43;-73
+5865504;Squelette [Naissant];-81;-37;-52
+5854583;Mante Fulcreuse [Immature];-57;-56;-70
+5748121;Daemonite de Quatrième Cercle [Supérieur];-63;-5;-68
+5815231;Glouton [Mature];-70;7;-53
+5529248;Gowap Apprivoisé [Ancêtre];-94;-17;-66
+5852455;Nécrochore [Récent];-37;-33;-64
+5763631;Chonchon [Doyen];-18;-16;-69
+5860085;Petite Coccicruelle [Larve];-40;-37;-51
+5823784;Essaim Cratérien [Imago];-34;14;-70
+5555233;Gowap Apprivoisé [Ancêtre];-20;-55;-60
+5866951;Pseudo-Dragon [Initial];-95;-19;-74
+5864315;Crasc Maexus [Nouveau];-24;-20;-55
+5860943;Pseudo-Dragon de Troisième Cercle [Initial];-63;-11;-47
+5815004;Nécrophage Coriace [Séculaire];-11;-12;-73
+5594817;Gowap Apprivoisé [Ancien] Nyctoulop;-68;-61;-48
+5850191;Crasc Maexus Esculape [Jeune];-63;-63;-72
+5853375;Xorn [Novice];-31;-28;-78
+5852450;Nécrochore [Récent];-37;-34;-65
+5725558;Gorgone Cogneuse [Légendaire];-96;27;-45
+5838392;Ame-en-peine [Ancienne];-96;-41;-45
+5761736;Tertre Errant [Doyen];-79;-59;-52
+5867550;Essaim Cratérien [Larve];-36;-52;-70
+5852449;Nécrochore [Récent];-37;-34;-65
+5833478;Croquemitaine [Vénérable];-46;-49;-85
+5861768;Abishaii Bleu Cogneur [Initial];-96;-56;-54
+5844090;Zombie [Ancien];-55;-16;-67
+5857824;Behir [Jeune];-63;-22;-42
+5860689;Pseudo-Dragon Malade [Initial];-92;-60;-59
+5866961;Pseudo-Dragon Coriace [Initial];-79;-42;-78
+5867227;Fantôme Archaïque [Naissant];-43;-63;-73
+5855555;Xorn [Novice];-30;-26;-76
+5756719;Mohrg Coriace [Antique];-70;-33;-65
+5863213;Elémentaire de Terre [Initial];-8;-15;-40
+5705033;Mohrg [Ancestral];-15;-14;-74
+5864834;Crasc Maexus Cracheur [Nouveau];-95;-46;-64
+5862634;Cube Gélatineux [Nouveau];-86;0;-63
+5848919;Glouton [Enfançon];-93;-7;-41
+5858616;Sorcière [Nouvelle];-61;-8;-47
+5855785;Mégacéphale [Jeune];-61;-18;-72
+5753557;Diablotin [Supérieur];-54;26;-66
+5819653;Mégacéphale [Vétéran];-72;-22;-80
+5855163;Abishaii Bleu [Novice];-27;-60;-43
+5758576;Tertre Errant Frénétique [Doyen];-48;-41;-59
+5720841;Gowap Apprivoisé [Ancien];-21;31;-40
+5860839;Pseudo-Dragon [Initial];-42;16;-63
+5820368;Tertre Errant Fouisseur [Vétéran];-98;-36;-56
+5866736;Abishaii Bleu [Initial];-24;-53;-64
+5863790;Palefroi Infernal Ronfleur [Initial];-26;-9;-61
+5833958;Banshee [Ancienne];-50;-48;-80
+5863791;Cube Gélatineux [Nouveau];-18;-47;-66
+5748119;Daemonite [Supérieur];-62;-4;-67
+5851998;Zombie [Récent];-60;3;-41
+5715821;Chonchon [Légendaire];-64;20;-67
+5864297;Zombie [Naissant];-72;-44;-72
+5823786;Essaim Cratérien [Imago];-63;9;-70
+5726280;Gros Effrit [Légendaire];-35;-32;-70
+5858947;Carnosaure [Nouveau];-64;-11;-53
+5814550;Nuée de Vermine Ouvrière [Développée];-76;-36;-49
+5868044;Crasc Médius [Nouveau];-96;-63;-53
+5868953;Spectre [Naissant];-43;-61;-75
+5742711;Diablotin [Suprême];-89;6;-41
+5852077;Mégacéphale [Jeune];-68;27;-73
+5848471;Pseudo-Dragon [Novice];-44;24;-39
+5602896;Gowap Apprivoisé [Ancêtre];-48;19;-45
+5866431;Nécrophage Archaïque [Naissant];-45;-59;-73
+5865702;Chimère Esculape [Nouvelle];-60;-31;-44
+5862023;Mégacéphale Cogneur [Nouveau];-49;27;-78
+5858685;Elémentaire d'Eau [Initial];-81;-50;-42
+5667659;Bouj'Dla Placide [Légendaire];-86;-60;-80
+5868047;Crasc Médius [Nouveau];-96;-63;-53
+5863970;Golem de Pierre Ronfleur [Nouveau];-30;23;-52
+5836404;Ame-en-peine [Vénérable];-46;-49;-81
+5768758;Crasc Maexus Parasitus [Doyen];-39;-50;-85
+5853886;Elémentaire de Feu [Novice];-30;-30;-78
+5850369;Feu Follet [Jeune];-34;-41;-40
+5865043;Elémentaire d'Eau [Initial];-20;-59;-52
+5868929;Croquemitaine [Naissant];-63;33;-48
+5853884;Zombie [Récent];-36;-33;-63
+5681466;Gowap Apprivoisé [Ancien];-50;-23;-70
+5867085;Shai [Initial];-64;-22;-56
+5866497;Nécrophage [Naissant];-15;-1;-73
+5846760;Mégacéphale [Adulte];-57;-29;-85
+5840254;Essaim Cratérien [Juvénile];-35;-51;-70
+5834246;Zombie [Ancien];-46;-50;-84
+5841808;Effrit [Adulte];-89;-35;-63
+5716011;Golem de cuir [Légendaire];-72;-32;-72
+5868109;Ectoplasme [Naissant];-90;-56;-62
+5862530;Zombie Médicastre [Naissant];-73;-42;-72
+5758845;Cube Gélatineux Esculape [Doyen];-35;1;-74
+5836013;Essaim Cratérien [Juvénile];-70;-7;-70
+5758743;Petit Mouch'oo Majestueux Sauvage [Doyen];-44;-46;-84
+5868289;Abishaii Noir Coriace [Initial];-84;-56;-49
+5857355;Carnosaure [Jeune];-82;14;-70
+5850588;Cube Gélatineux Colossal [Jeune];-9;-3;-73
+5868767;Shai [Initial];-64;-6;-52
+5854183;Elémentaire d'Eau [Novice];-27;-32;-76
+5850901;Abishaii Bleu Cogneur [Novice];-90;-63;-49
+5859873;Zombie Coriace [Naissant];-23;-3;-48
+5617443;Phoenix Cogneur [Légendaire];-17;22;-68
+5774208;Golem d'Argile [Doyen];-30;21;-47
+5502861;Phoenix [Légendaire];-52;16;-73
+5857669;Squelette [Récent];-99;20;-55
+5867666;Banshee [Naissante];-45;7;-77
+5770778;Mohrg [Antique];-67;-45;-64
+5809035;Carnosaure Cogneur [Briscard];-8;0;-62
+5851089;Bouj'Dla Placide [Jeune];-28;-5;-80
+5866839;Squelette [Naissant];-52;-10;-76
+5868586;Gros Capitan [Naissant];-96;-61;-59
+5866233;Squelette Archaïque [Naissant];-41;-61;-74
+5863569;Gros Pseudo-Dragon [Initial];-41;-19;-66
+5863548;Diablotin [Initial];-71;-1;-73
+5863956;Golem de Pierre Coriace [Nouveau];-81;-51;-42
+5855293;Essaim Cratérien [Immature];-64;8;-70
+5845449;Nécrophage [Ancien];-53;-16;-71
+5851025;Petit Essaim Sanguinaire [Immature];-39;-37;-50
+5817750;Gorgone Ronfleuse [Vétéran];-43;-24;-39
+5851921;Behemoth [Novice];-42;3;-67
+5843865;Sorcière [Adulte];-84;-42;-44
+5839994;Nécrochore Ronfleur [Ancien];-65;18;-74
+5751896;Effrit [Doyen];-33;29;-79
+5846887;Effrit [Jeune];-23;-53;-64
+5863117;Carnosaure Cogneur [Nouveau];-14;14;-54
+5822676;Behemoth Ronfleur [Favori];-48;-37;-85
+5837832;Incube de Cinquième Cercle [Mineur];-28;-58;-39
+5748111;Daemonite [Supérieur];-75;2;-80
+5864592;Nécrophage [Naissant];-78;-22;-75
+5857104;Chonchon Traqueur [Jeune];-50;-47;-59
+5843695;Barghest [Mineur];-30;25;-80
+5791865;Ours-Garou [Briscard];-60;-57;-59
+5868119;Ectoplasme Archaïque [Naissant];-42;-59;-74
+5790578;Anoploure Purpurin [Développé];-55;-36;-76
+5858998;Ectoplasme [Naissant];-13;-3;-77
+5860223;Marilith [Initiale];-47;-5;-75
+5850879;Capitan Implacable [Récent];-92;-51;-69
+5847951;Capitan [Récent];-80;-27;-65
+5842739;Essaim Cratérien Lobotomisateur [Juvénile];-50;-23;-70
+5835962;Squelette [Ancien];-47;-50;-82
+5860193;Marilith [Initiale];-25;13;-65
+5833489;Tertre Errant Fouisseur [Vétéran];-96;-47;-55
+5868374;Fantôme [Naissant];-43;-59;-74
+5860955;Pseudo-Dragon [Initial];-48;26;-62
+5867685;Molosse Satanique [Initial];-15;20;-39
+5864542;Ame-en-peine [Naissante];-46;-50;-81
+5847847;Capitan Implacable [Récent];-74;-52;-72
+5723897;Cube Gélatineux [Légendaire];-80;-32;-83
+5633055;Gowap Apprivoisé [Ancien];-94;-36;-65
+5853366;Croquemitaine [Récent];-34;-32;-62
+5866535;Banshee Psychophage [Naissante];-78;-22;-75
+5833462;Mégacéphale Ronfleur [Vétéran];-58;-3;-75
+5860807;Pseudo-Dragon [Initial];-95;13;-72
+5821976;Mante Fulcreuse Cogneuse [Imago];-65;15;-77
+5757527;Phoenix Cracheur [Doyen];-88;-4;-71
+5863593;Pseudo-Dragon de Second Cercle [Initial];-37;-3;-75
+5847455;Effrit [Adulte];-22;-56;-65
+5845261;Capitan Médicastre [Ancien];-98;-61;-53
+5860840;Gros Pseudo-Dragon [Initial];-33;11;-69
+5831497;Crasc Maexus [Vétéran];-65;4;-79
+5865854;Shai Coriace [Initial];-38;-48;-60
+5860208;Marilith [Initiale];-88;-16;-79
+5822657;Behemoth [Favori];-21;21;-67
+5862154;Cheval à Dents de Sabre Enragé [Bébé];-22;-42;-46
+5851277;Crasc Maexus Parasitus [Jeune];-52;-60;-75
+5852257;Pseudo-Dragon [Novice];-56;-38;-44
+5816018;Ver Carnivore Géant Colossal [Vétéran];-34;-20;-40
+5775973;Chonchon [Briscard];-95;-7;-56
+5855440;Crasc Médius [Jeune];-69;-10;-56
+5859326;Pseudo-Dragon Coriace [Initial];-38;-17;-63
+5827051;Essaim Cratérien [Imago];-71;-7;-70
+5847838;Phoenix Frénétique [Jeune];-60;-58;-82
+5747522;Petit Fantôme [Antique];-13;-13;-74
+5854981;Xorn [Novice];-30;-29;-76
+5845516;Glouton [Jeune];-27;-60;-43
+5864002;Abishaii Rouge [Initial];-46;10;-40
+5860815;Pseudo-Dragon [Initial];-76;-40;-58
+5675011;Bouj'Dla Placide [Légendaire];-84;-62;-77
+5658980;Spectre [Ancestral];-12;-10;-71
+5843038;Zombie [Ancien];-96;23;-52
+5854467;Nécrophage [Récent];-37;-34;-63
+5862161;Cheval à Dents de Sabre [Bébé];-28;-28;-59
+5756727;Phoenix [Doyen];-52;30;-83
+5854292;Crasc Maexus Parasitus [Jeune];-13;-14;-73
+5852079;Mégacéphale [Jeune];-67;27;-73
+5835338;Effrit [Adulte];-10;-21;-62
+5866472;Chonchon [Nouveau];-98;-25;-48
+5857988;Mante Fulcreuse [Larve];-54;-26;-76
+5863591;Pseudo-Dragon [Initial];-17;-26;-59
+5864612;Elémentaire du Chaos de Cinquième Cercle [Initial];-58;-33;-76
+5842203;Essaim Cratérien Lobotomisateur [Juvénile];-59;-33;-70
+5838603;Croquemitaine [Ancien];-96;-37;-45
+5800277;Nuée de Vermine [Développée];-77;-37;-49
+5860975;Pseudo-Dragon [Initial];-23;-10;-59
+5857284;Maître Spectre [Récent];-68;-18;-44
+5864707;Effrit [Nouveau];-22;-36;-56
+5724933;Crasc Maexus Cracheur [Légendaire];-93;-18;-64
+5760768;Petit Effrit [Doyen];-47;0;-64
+5538006;Phoenix Gargantuesque [Légendaire];-55;4;-65
+5852269;Pseudo-Dragon Malade [Novice];-51;-13;-54
+5829315;Crasc Maexus Parasitus [Vétéran];-25;-47;-80
+5831880;Barghest Fanatique [Favori];-55;-52;-80
+5527988;Phoenix Corrompu [Légendaire];-68;-40;-66
+5858883;Vouivre [Nouvelle];-85;14;-71
+5855871;Diablotin de Premier Cercle [Novice];-51;-39;-68
+5851018;Essaim Sanguinaire [Immature];-70;-56;-50
+5835841;Bulette Cracheuse [Adulte];-67;-14;-43
+5864789;Hellrot [Initial];-18;-42;-46
+5857381;Fantôme [Récent];-14;-4;-75
+5865068;Petit Effrit [Nouveau];-86;-4;-56
+5711085;Crasc Maexus Parasitus [Légendaire];-26;-1;-64
+5862138;Cheval à Dents de Sabre [Bébé];-12;-44;-43
+5842120;Gorgone [Adulte];-71;8;-41
+5860453;Carnosaure Traqueur [Nouveau];-81;14;-70
+5857979;Crasc Maexus Esculape [Nouveau];-46;-61;-57
+5722313;Tertre Errant Colossal [Légendaire];-8;-45;-70
+5833024;Anoploure Purpurin [Imago];-82;32;-74
+5493401;Gowap Apprivoisé [Ancien];-78;-22;-74
+5860847;Pseudo-Dragon [Initial];-11;-40;-58
+5843823;Fantôme [Ancien];-52;-13;-72
+5859337;Pseudo-Dragon [Initial];-19;-27;-70
+5868038;Pititabeille [Larve];-53;-23;-48
+5868537;Abishaii Bleu [Initial];-24;-54;-64
+5851131;Spectre [Récent];-48;-40;-44
+5858004;Paysan Géant des Gouffres [Nouveau];-26;-15;-54
+5762037;Effrit [Doyen];-79;-21;-74
+5844684;Gros Pseudo-Dragon [Mineur];-43;-29;-50
+5837164;Zombie [Ancien];-45;-51;-81
+5857042;Elémentaire du Chaos [Novice];-31;-2;-58
+5829535;Crasc Maexus [Vétéran];-63;-63;-72
+5724042;Tertre Errant [Légendaire];-77;-59;-51
+5866180;Feu Follet Frénétique [Nouveau];-12;-45;-43
+5752916;Spectre [Antique];-70;3;-53
+5868033;Pititabeille [Larve];-52;-21;-51
+5863134;Effrit [Nouveau];-49;-26;-69
+5841397;Effrit [Adulte];-57;-42;-72
+5860966;Pseudo-Dragon [Initial];-42;7;-73
+5850212;Cube Gélatineux [Jeune];-95;-57;-62
+5868731;Abishaii Rouge [Initial];-27;-60;-43
+5826398;Bouj'Dla [Vétéran];-52;-28;-39
+5836515;Fantôme [Ancien];-48;-49;-82
+5846810;Mohrg [Récent];-65;-43;-64
+5848061;Barbare Golem d'Argile [Jeune];-10;10;-46
+5861071;Pseudo-Dragon des Abysses [Initial];-85;26;-57
+5865661;Ame-en-peine [Naissante];-75;-41;-79
+5867981;Essaim Cratérien [Larve];-71;-7;-70
+5860660;Elémentaire du Chaos [Initial];-31;-16;-52
+5805241;Basilisk Cogneur [Briscard];-55;-27;-44
+5868738;Xorn [Initial];-81;-45;-54
+5852454;Nécrochore [Récent];-37;-33;-65
+5852857;Essaim Cratérien Morticole [Immature];-66;-38;-70
+5839992;Nécrochore [Ancien];-59;4;-85
+5793177;Cube Gélatineux [Briscard];-70;9;-71
+5860723;Pseudo-Dragon [Initial];-25;-22;-69
+5865918;Princesse Marilith [Initiale];-46;-56;-78
+5833438;Banshee Médicastre [Vénérable];-48;-57;-81
+5820548;Bouj'Dla [Vétéran];-55;-28;-39
+5775432;Cube Gélatineux Cogneur [Briscard];-23;-28;-71
+5861102;Pseudo-Dragon des Abysses [Initial];-15;-18;-63
+5824557;Golem d'Argile [Vétéran];-69;-27;-42
+5827486;Bouj'Dla Placide Fustigateur [Vétéran];-69;-33;-63
+5858916;Grylle Cracheur [Nouveau];-11;7;-68
+5847953;Familier [Jeune];-54;0;-76
+5822640;Behemoth [Favori];-24;11;-65
+5859325;Gros Pseudo-Dragon [Initial];-38;-38;-68
+5850317;Abishaii Bleu Fanatique [Novice];-43;-3;-54
+5821886;Gros Elémentaire de Terre [Favori];-81;-42;-56
+5867535;Ame-en-peine Ronfleuse [Naissante];-74;-49;-82
+5867463;Croquemitaine [Naissant];-78;-22;-75
+5866530;Fantôme Nécromant [Naissant];-62;32;-49
+5852192;Sphinx [Jeune];-37;-55;-71
+5858504;Mante Fulcreuse Ouvrière [Larve];-33;-25;-62
+5494101;Gowap Apprivoisé [Ancêtre];-54;-40;-65
+5866336;Ectoplasme [Naissant];-74;-48;-81
+5840808;Squelette [Ancien];-53;-14;-70
+5855895;Diablotin [Novice];-39;-17;-53
+5843383;Chonchon [Adulte];-35;-27;-54
+5868272;Tertre Errant [Nouveau];-54;-55;-41
+5865917;Marilith de Premier Cercle [Initiale];-46;-57;-78
+5833036;Essaim Cratérien [Imago];-71;-8;-70
+5782591;Bouj'Dla Placide [Briscard];-71;20;-66
+5852457;Vampire [Récent];-38;-31;-64
+5718304;Bouj'Dla Placide [Légendaire];-88;-61;-76
+5853738;Ectoplasme [Récent];-14;-3;-74
+5860713;Pseudo-Dragon Cogneur [Initial];-35;-18;-60
+5838404;Ectoplasme Cogneur [Ancien];-73;-48;-39
+5838329;Chonchon Cracheur [Adulte];-50;31;-56
+5635202;Petit Anoploure Purpurin [Accompli];-20;-63;-83
+5675010;Bouj'Dla Placide [Légendaire];-87;-63;-77
+5837469;Spectre Nécromant [Ancien];-99;20;-56
+5790858;Capitan Médicastre [Séculaire];-57;-46;-74
+5855793;Gros Trancheur [Jeune];-10;-42;-85
+5832945;Ver Carnivore Géant [Vétéran];-96;10;-42
+5859336;Pseudo-Dragon [Initial];-22;-28;-51
+5868051;Squelette Implacable [Naissant];-48;10;-77
+5853183;Croquemitaine [Récent];-60;2;-42
+5787888;Limace Géante [Développée];-68;-47;-43
+5706323;Djinn Coriace [Légendaire];-51;31;-75
+5699922;Ectoplasme [Ancestral];-12;-12;-74
+5863520;Diablotin [Initial];-84;-58;-83
+5822787;Essaim Cratérien Soldat [Imago];-66;-37;-70
+5822674;Behemoth Corrompu [Favori];-48;-55;-86
+5857330;Hydre [Jeune];-82;13;-72
+5853720;Croquemitaine [Récent];-36;-34;-62
+5860930;Pseudo-Dragon [Initial];-98;-37;-71
+5866796;Ectoplasme Ronfleur [Naissant];-64;32;-49
+5865736;Hellrot [Initial];-14;-44;-46
+5842207;Essaim Cratérien Lobotomisateur [Juvénile];-35;15;-70
+5862079;Golem de Fer [Nouveau];-96;23;-52
+5863842;Elémentaire du Chaos des Abysses [Initial];-48;4;-59
+5851926;Behemoth Corrompu [Novice];-14;-48;-69
+5863573;Pseudo-Dragon [Initial];-48;19;-62
+5854499;Crasc Médius [Jeune];-46;3;-55
+5851309;Effrit [Jeune];-15;-27;-52
+5851927;Behemoth Ronfleur [Novice];-53;-62;-66
+5868616;Trancheur [Nouveau];-63;-63;-72
+5868263;Abishaii Bleu Coriace [Initial];-90;-20;-44
+5771297;Phoenix [Doyen];-54;-39;-78
+5844697;Pseudo-Dragon Ronfleur [Mineur];-37;10;-47
+5866789;Croquemitaine [Naissant];-45;-58;-75
+5862853;Labeilleux Lobotomisateur [Larve];-11;-36;-58
+5796808;Bouj'Dla Placide [Briscard];-20;-39;-69
+5868287;Succube des Abysses [Initiale];-84;-47;-48
+5832011;Diablotin [Favori];-30;23;-39
+5855581;Prince Abishaii Bleu [Novice];-98;-28;-60
+5851867;Abishaii Rouge Invocateur [Novice];-24;-53;-64
+5865635;Abishaii Rouge [Initial];-97;-45;-64
+5858487;Ame-en-peine [Naissante];-14;-1;-73
+5857275;Grand Frondeur Yuan-ti [Jeune];-96;-50;-50
+5860529;Crasc Maexus [Nouveau];-49;-17;-71
+5843667;Spectre Mentat [Ancien];-46;-14;-73
+5866807;Mégacéphale [Nouveau];-84;24;-74
+5726016;Gowap Apprivoisé [Ancien];-101;16;-67
+5765765;Cube Gélatineux [Doyen];-46;7;-73
+5828653;Mante Fulcreuse [Imago];-18;-4;-65
+5862598;Capitan [Naissant];-98;-56;-59
+5799367;Spectre [Séculaire];-78;20;-42
+5866971;Pseudo-Dragon Fanatique [Initial];-62;-55;-73
+5839453;Essaim Cratérien [Juvénile];-35;15;-70
+5361794;Mohrg [Ancestral];-15;-13;-75
+5814602;Crasc Maexus Colossal [Briscard];-8;-34;-82
+5865972;Zombie [Naissant];-72;-46;-72
+5799586;Gowap Apprivoisé [Mature];-51;-16;-54
+5681465;Gowap Apprivoisé [Ancien];-50;-23;-70
+5823789;Essaim Cratérien Fouisseur [Imago];-66;-37;-70
+5824650;Essaim Cratérien [Imago];-35;-51;-70
+5860804;Pseudo-Dragon Coriace [Initial];-90;-47;-72
+5859218;Mégacéphale [Nouveau];-73;-18;-80
+5863567;Pseudo-Dragon Corrompu [Initial];-48;-49;-68
+5863568;Diablotin [Initial];-37;-31;-74
+5859643;Glouton [Bébé];-18;-5;-46
+5848782;Vampire [Récent];-14;-60;-62
+5815108;Croquemitaine [Séculaire];-13;-12;-72
+5855872;Pseudo-Dragon [Novice];-56;-20;-41
+5868326;Géant des Gouffres Effrayé [Nouveau];-87;-51;-41
+5712149;Sorcier Yuan-ti [Légendaire];-69;-49;-50
+5774964;Gros Bouj'Dla Placide [Briscard];-65;-3;-78
+5770684;Essaim Cratérien [Mûr];-59;-32;-70
+5857967;Elémentaire du Chaos [Initial];-26;-36;-48
+5864899;Behir Cracheur [Nouveau];-37;26;-41
+5843671;Incube des Abysses [Mineur];-29;-57;-41
+5840681;Gorgone Malade [Adulte];-11;-62;-39
+5863427;Squelette [Naissant];-79;-30;-41
+5865641;Succube de Troisième Cercle [Initiale];-24;-54;-64
+5864598;Fantôme [Naissant];-75;-49;-81
+5866964;Pseudo-Dragon Corrompu [Initial];-77;27;-72
+5860572;Fantôme [Naissant];-36;-26;-64
+5855890;Pseudo-Dragon [Novice];-43;-52;-62
+5821931;Bulette Ronfleuse [Vétéran];-38;-54;-64
+5774840;Labeilleux [Mûr];-78;-22;-75
+5751258;Cube Gélatineux [Doyen];-93;-60;-81
+5856821;Chonchon [Jeune];-92;1;-49
+5861389;Trancheur [Nouveau];-23;11;-66
+5822645;Behemoth [Favori];-84;-1;-68
+5865952;Gros Xorn [Initial];-31;-29;-75
+5749082;Ame-en-peine Ronfleuse [Antique];-12;-12;-74
+5836018;Essaim Cratérien [Juvénile];-67;-37;-70
+5624981;Cube Gélatineux [Légendaire];-13;26;-79
+5857485;Ectoplasme [Récent];-15;-1;-74
+5860984;Pseudo-Dragon [Initial];-16;-54;-76
+5863742;Croquemitaine [Naissant];-77;-45;-80
+5848444;Diablotin [Novice];-38;-23;-39
+5827141;Golem de Fer Fou [Vétéran];-59;-42;-79
+5866995;Pseudo-Dragon des Abysses [Initial];-20;-25;-74
+5685668;Ectoplasme [Ancestral];-13;-12;-73
+5597516;Mouch'oo Majestueux Sauvage [Légendaire];-23;-63;-78
+5865915;Barghest Ronfleur [Initial];-58;-46;-79
+5865362;Fantôme [Naissant];-76;-44;-81
+5865162;Tertre Errant [Nouveau];-66;-40;-54
+5868640;Croquemitaine [Naissant];-78;-22;-74
+5725334;Capitan Corrompu [Ancestral];-72;-44;-74
+5863100;Crasc Maexus Cogneur [Nouveau];-22;-1;-58
+5768088;Cube Gélatineux Corrompu [Doyen];-18;-27;-70
+5816203;Bouj'Dla Placide [Vétéran];-86;-63;-80
+5822817;Hellrot [Favori];-95;-41;-46
+5851088;Bouj'Dla Placide [Jeune];-29;-2;-80
+5860184;Marilith [Initiale];-52;-27;-77
+5720117;Golem de Pierre Mutant [Légendaire];-61;-57;-73
+5834268;Essaim Cratérien Ronfleur [Juvénile];-60;-33;-70
+5868397;Bouj'Dla [Nouveau];-35;-8;-39
+5849542;Incube [Novice];-64;-61;-42
+5710623;Behemoth [Suprême];-25;11;-65
+5834517;Spectre [Ancien];-46;-48;-84
+5493557;Gowap Apprivoisé [Ancien];-54;-45;-75
+5867966;Crasc Maexus [Nouveau];-78;-27;-68
+5863146;Foudroyeur [Larve];-34;-63;-80
+5761964;Cube Gélatineux [Doyen];-17;-53;-78
+5867969;Crasc Maexus [Nouveau];-78;-27;-68
+5656112;Cube Gélatineux Fustigateur [Légendaire];-11;-16;-76
+5823008;Géant des Gouffres Mutant [Vétéran];-83;14;-54
+5848377;Pseudo-Dragon Coriace [Novice];-99;-35;-39
+5854445;Capitan [Récent];-18;-4;-73
+5856169;Chonchon Fustigateur [Jeune];-37;-6;-49
+5700082;Chonchon [Légendaire];-93;-38;-74
+5760674;Bouj'Dla Placide [Doyen];-78;6;-56
+5868101;Mohrg [Naissant];-73;5;-72
+5845090;Squelette Médicastre [Ancien];-93;-6;-40
+5855870;Pseudo-Dragon [Novice];-76;-25;-42
+5868695;Elémentaire d'Air [Initial];-92;-21;-49
+5815195;Ame-en-peine [Séculaire];-11;-13;-73
+5861834;Vouivre [Nouvelle];-85;14;-71
+5859684;Hellrot [Initial];-97;-56;-44
+5865862;Shai Corrompu [Initial];-64;-22;-56
+5854288;Crasc Maexus Parasitus [Jeune];-14;-11;-70
+5855288;Essaim Cratérien [Immature];-35;-52;-70
+5852473;Petite Banshee [Récente];-37;-33;-64
+5847385;Zombie [Récent];-99;19;-56
+5857095;Crasc Maexus Parasitus [Jeune];-94;-16;-64
+5851876;Elémentaire du Chaos Corrompu [Novice];-16;-62;-58
+5855477;Mante Fulcreuse [Immature];-41;-59;-77
+5863889;Shai de Second Cercle [Initial];-64;-22;-56
+5834026;Golem de Pierre [Adulte];-77;-42;-65
+5761965;Cube Gélatineux [Doyen];-17;-54;-78
+5863140;Foudroyeur [Larve];-50;-14;-65
+5794986;Tertre Errant [Briscard];-95;-3;-51
+5864757;Bouj'Dla Gargantuesque [Nouveau];-14;-24;-40
+5705585;Cube Gélatineux Cogneur [Légendaire];-54;4;-81
+5865066;Ame-en-peine [Naissante];-78;-22;-75
+5685201;Spectre [Ancestral];-11;-13;-73
+5856083;Guerrier Veskan du Chaos [Jeune];-51;-40;-39
+5683672;Anoploure Purpurin [Accompli];-97;-32;-67
+5851744;Gros Bouj'Dla [Jeune];-45;-3;-54
+5640617;Mohrg [Ancestral];-11;-13;-73
+5790396;Gros Tertre Errant [Briscard];-50;-18;-45
+5855662;Elémentaire du Chaos [Novice];-33;-31;-80
+5838539;Paysanne Sorcière [Adulte];-71;-53;-42
+5677313;Gowap Apprivoisé [Ancien];-19;-43;-51
+5832570;Bouj'Dla Placide [Vétéran];-70;20;-66
+5861089;Pseudo-Dragon [Initial];-36;-61;-65
+5845726;Squelette [Ancien];-92;-6;-39
+5864797;Squelette Ronfleur [Naissant];-78;-22;-75
+5841673;Essaim Cratérien Morticole [Juvénile];-35;14;-70
+5761926;Mohrg Ronfleur [Antique];-69;-37;-65
+5836991;Sorcier Titan [Adulte];-80;-4;-69
+5860861;Pseudo-Dragon Fanatique [Initial];-8;17;-53
+5867770;Grosse Bulette [Nouvelle];-58;-54;-39
+5864699;Phoenix Colossal [Nouveau];-68;-31;-83
+5855666;Mille-Pattes Géant Lobotomisateur [Immature];-101;-7;-47
+5867738;Behir Malade [Nouveau];-20;-58;-41
+5868136;Incube [Initial];-24;-53;-61
+5855794;Cube Gélatineux Fustigateur [Jeune];-22;-58;-65
+5839990;Nécrochore [Ancien];-63;28;-81
+5852480;Spectre [Récent];-36;-35;-64
+5855748;Essaim Cratérien [Immature];-70;-7;-70
+5852078;Mégacéphale [Jeune];-67;26;-73
+5852271;Gros Pseudo-Dragon [Novice];-62;14;-40
+5709216;Cube Gélatineux [Légendaire];-32;-5;-65
+5867217;Banshee [Naissante];-75;-41;-74
+5865998;Ectoplasme Archaïque [Naissant];-43;-60;-73
+5830673;Crasc Maexus Parasitus [Vétéran];-13;-12;-72
+5798497;Effrit Fouisseur [Briscard];-8;-31;-56
+5508996;Bouj'Dla Placide [Légendaire];-62;8;-45
+5828194;Elémentaire du Chaos Fanatique [Favori];-24;-55;-60
+5711874;Cube Gélatineux Ronfleur [Légendaire];-12;-31;-69
+5856483;Ectoplasme [Récent];-15;-1;-74
+5860964;Gros Pseudo-Dragon [Initial];-43;-21;-75
+5864862;Croquemitaine [Naissant];-80;-37;-46
+5791351;Elémentaire du Chaos Cogneur [Majeur];-86;-40;-79
+5855500;Banshee [Récente];-15;-4;-73
+5846916;Effrit [Adulte];-85;-3;-56
+5856168;Chonchon Cracheur [Jeune];-41;0;-54
+5840738;Zombie Médicastre [Ancien];-54;-17;-64
+5767309;Spectre Cogneur [Antique];-11;-13;-73
+5754083;Spectre Archaïque [Antique];-81;-41;-44
+5726460;Ver Carnivore Géant Frénétique [Légendaire];-77;7;-53
+5860962;Pseudo-Dragon [Initial];-46;-52;-73
+5865781;Crasc Médius Coriace [Nouveau];-54;-31;-39
+5856593;Flagelleur Mental [Jeune];-19;-20;-67
+5862540;Grylle [Nouveau];-83;3;-60
+5794321;Mohrg [Séculaire];-72;-37;-65
+5859217;Mégacéphale [Nouveau];-73;-21;-80
+5868043;Crasc Médius Parasitus [Nouveau];-96;-63;-53
+5848423;Pseudo-Dragon [Novice];-59;-6;-39
+5839985;Nécrochore Psychophage [Ancien];-60;5;-85
+5834598;Essaim Cratérien [Juvénile];-71;-8;-70
+5740906;Gowap Apprivoisé [Ancien];-30;-30;-45
+5683628;Daemonite des Abysses [Suprême];-11;6;-69
+5867687;Palefroi Infernal [Initial];-72;-9;-61
+5832619;Zombie [Vénérable];-11;-13;-74
+5859324;Pseudo-Dragon de Second Cercle [Initial];-39;-52;-64
+5409315;Phoenix Colossal [Légendaire];-88;-59;-85
+5828720;Géant des Gouffres [Vétéran];-96;-44;-44
+5843965;Petit Spectre [Ancien];-92;-24;-44
+5765581;Anoploure Purpurin [Mûr];-84;-31;-64
+5866996;Pseudo-Dragon [Initial];-15;3;-77
+5693524;Cube Gélatineux [Légendaire];-44;12;-68
+5816697;Phoenix [Vétéran];-55;-28;-69
+5725749;Cube Gélatineux [Légendaire];-62;-61;-76
+5655685;Phoenix [Légendaire];-37;-5;-68
+5833486;Effrit Corrompu [Vétéran];-88;-36;-62
+5857068;Nécrophage [Récent];-15;-1;-74
+5860814;Pseudo-Dragon [Initial];-64;-61;-67
+5838298;Xorn de Quatrième Cercle [Mineur];-85;-29;-46
+5866046;Crasc Maexus Parasitus [Nouveau];-87;-59;-69
+5857356;Petit Carnosaure [Jeune];-82;13;-72
+5842361;Familier [Adulte];-55;-16;-62
+5865861;Shai [Initial];-14;-28;-65
+5829356;Crasc Maexus Parasitus [Vétéran];-50;-59;-75
+5478763;Gowap Apprivoisé [Ancien];-41;-57;-58
+5860837;Pseudo-Dragon [Initial];-32;-31;-61
+5842917;Shaman Ours-Garou [Adulte];-23;8;-40
+5859303;Pseudo-Dragon Corrompu [Initial];-91;-51;-50
+5760762;Crasc Maexus [Doyen];-48;-56;-87
+5867215;Zombie Cogneur [Naissant];-43;-60;-75
+5704016;Cube Gélatineux Coriace [Légendaire];-94;7;-65
+5819136;Ver Carnivore Géant Coriace [Vétéran];-86;-55;-42
+5636185;Mante Fulcreuse [Accomplie];-86;-61;-65
+5858762;Nécromant [Naissant];-48;12;-76
+5856161;Mante Fulcreuse [Immature];-17;-40;-73
+5854015;Spectre [Récent];-84;-38;-45
+5717004;Ver Carnivore Géant [Légendaire];-51;-31;-46
+5831106;Chonchon [Vétéran];-92;26;-58
+5821577;Tigre-Garou Mutant [Vétéran];-71;-4;-55
+5706536;Phoenix Traqueur [Légendaire];-50;29;-83
+5748135;Daemonite [Supérieur];-33;22;-79
+5765486;Capitan [Antique];-77;-17;-80
+5863336;Elémentaire de Terre de Troisième Cercle [Initial];-73;-39;-55
+5762453;Spectre [Antique];-30;-33;-40
+5861882;Abishaii Bleu de Second Cercle [Initial];-24;-28;-44
+5827723;Mante Fulcreuse [Imago];-30;9;-62
+5846520;Glouton [Jeune];-24;-56;-39
+5867397;Banshee Corrompue [Naissante];-75;-47;-82
+5817419;Essaim Cratérien [Développé];-63;8;-70
+5658736;Crasc Maexus Colossal [Légendaire];-40;-50;-84
+5813525;Gowap Apprivoisé Fouisseur [Mature];-53;-17;-54
+5859339;Pseudo-Dragon [Initial];-24;29;-58
+5857405;Esprit-Follet [Jeune];-25;-6;-39
+5723440;Petit Cube Gélatineux [Légendaire];-28;-23;-77
+5865538;Shai [Initial];-40;-48;-61
+5866734;Spectre [Naissant];-79;-21;-75
+5681666;Gowap Apprivoisé [Ancien];-50;-23;-70
+5525843;Gowap Apprivoisé [Ancêtre];-52;-23;-69
+5782680;Capitan Archaïque [Séculaire];-72;-14;-70
+5861079;Pseudo-Dragon [Initial];-59;-43;-60
+5865492;Golem de Fer Corrompu [Nouveau];-16;17;-59
+5865730;Zombie [Naissant];-81;-37;-50
+5864514;Zombie [Naissant];-89;-29;-56
+5865167;Croquemitaine [Naissant];-75;-41;-78
+5855914;Petit Pseudo-Dragon [Novice];-10;-33;-48
+5850326;Chonchon Coriace [Jeune];-76;3;-50
+5841702;Djinn Colossal [Adulte];-40;-59;-72
+5856213;Banshee [Récente];-21;-21;-48
+5860683;Pseudo-Dragon [Initial];-95;31;-65
+5767415;Mégacéphale [Doyen];-37;30;-83
+5746722;Phoenix [Légendaire];-91;32;-74
+5511378;Gowap Apprivoisé [Ancien];-9;-13;-62
+5788066;Spectre Malade [Séculaire];-98;-25;-49
+5865903;Shai [Initial];-64;-22;-56
+5866987;Petit Pseudo-Dragon [Initial];-44;33;-78
+5626036;Phoenix Gargantuesque [Légendaire];-49;11;-83
+5865699;Ectoplasme Médicastre [Naissant];-76;-49;-81
+5822286;Flagelleur Mental Mutant [Vétéran];-21;33;-68
+5850550;Essaim Cratérien [Immature];-71;-7;-70
+5855429;Effrit Colossal [Jeune];-60;-43;-72
+5868031;Pititabeille [Larve];-52;-21;-51
+5852385;Veskan du Chaos [Jeune];-12;-8;-39
+5863571;Gros Pseudo-Dragon [Initial];-40;-11;-52
+5861509;Zombie Malade [Naissant];-47;7;-79
+5846917;Effrit [Jeune];-77;-6;-51
+5868619;Abishaii Noir [Initial];-15;19;-39
+5848941;Coccicruelle [Immature];-54;-42;-48
+5867713;Nécrophage [Naissant];-78;-22;-75
+5753579;Diablotin Invocateur [Supérieur];-53;-30;-67
+5863952;Golem de Pierre Coriace [Nouveau];-32;-12;-43
+5857344;Tertre Errant [Jeune];-83;14;-71
+5857032;Gritche [Novice];-25;-42;-76
+5861092;Pseudo-Dragon [Initial];-51;5;-83
+5852471;Grosse Banshee [Récente];-37;-30;-64
+5761258;Paysan Yuan-ti [Doyen];-91;-36;-46
+5621101;Gowap Apprivoisé [Ancêtre];-78;-26;-71
+5749112;Mégacéphale [Légendaire];-51;-60;-76
+5590645;Gowap Apprivoisé [Ancêtre];-24;11;-53
+5771040;Tertre Errant Cogneur [Doyen];-77;-38;-54
+5857679;Croquemitaine [Récent];-15;-1;-73
+5862440;Vouivre [Nouvelle];-81;14;-71
+5864357;Titan [Nouveau];-56;-37;-57
+5867845;Squelette Cogneur [Naissant];-90;-57;-64
+5718305;Bouj'Dla Placide [Légendaire];-88;-62;-77
+5868564;Molosse Satanique [Initial];-82;-47;-55
+5857339;Tertre Errant [Jeune];-83;13;-72
+5868281;Ectoplasme [Naissant];-48;12;-75
+5770697;Gowap Apprivoisé [Chef de harde];-62;-12;-48
+5868146;Elémentaire du Chaos de Cinquième Cercle [Initial];-84;30;-58
+5863596;Petit Diablotin [Initial];-14;31;-74
+5868328;Hellrot [Initial];-25;-16;-41
+5839355;Tertre Errant [Adulte];-67;24;-61
+5861780;Zombie Cogneur [Naissant];-25;-1;-47
+5866602;Gros Abishaii Bleu [Initial];-65;-24;-44
+5868575;Essaim Cratérien [Larve];-51;-23;-70
+5696763;Phoenix [Légendaire];-51;17;-72
+5735661;Gowap Apprivoisé [Ancien];-65;28;-48
+5845547;Ectoplasme [Ancien];-74;-39;-65
+5794242;Croquemitaine Mentat [Séculaire];-89;5;-43
+5756426;Phoenix [Doyen];-47;12;-83
+5863550;Diablotin [Initial];-54;28;-63
+5856549;Barghest Corrompu [Novice];-37;-8;-70
+5843500;Ver Carnivore Géant Esculape [Adulte];-45;-19;-45
+5855853;Diablotin [Novice];-77;9;-54
+5853499;Croquemitaine [Récent];-59;2;-43
+5865739;Xorn Invocateur [Initial];-14;18;-40
+5861660;Scorpion Géant Ouvrier [Larve];-82;-59;-64
+5855099;Ours-Garou [Jeune];-49;-57;-41
+5843886;Fantôme Cogneur [Ancien];-87;-32;-63
+5867821;Abishaii Bleu [Initial];-25;-54;-54
+5852451;Nécrochore Mentat [Récent];-37;-32;-65
+5836861;Bouj'Dla Placide [Adulte];-76;-38;-71
+5866055;Zombie Corrompu [Naissant];-99;18;-54
+5865637;Elémentaire de Terre de Quatrième Cercle [Initial];-85;-38;-53
+5863566;Diablotin Fanatique [Initial];-41;-34;-75
+5863988;Feu Follet [Nouveau];-86;-6;-43
+5755974;Ectoplasme Ronfleur [Antique];-99;-28;-57
+5836026;Anoploure Purpurin [Imago];-45;17;-80
+5860530;Crasc Maexus [Nouveau];-78;-22;-74
+5756307;Mohrg [Antique];-81;21;-79
+5852447;Liche [Récente];-39;-35;-65
+5761054;Phoenix Corrompu [Doyen];-38;-2;-68
+5867107;Effrit [Nouveau];-11;-48;-53
+5757731;Ver Carnivore Géant [Doyen];-81;-15;-44
+5863950;Golem de Pierre [Nouveau];-39;-41;-44
+5759343;Phoenix [Doyen];-55;-62;-85
+5790711;Succube [Majeure];-97;-28;-41
+5866972;Pseudo-Dragon [Initial];-63;-45;-73
+5858017;Shai Fanatique [Initial];-50;-14;-65
+5858395;Capitan [Naissant];-98;-52;-49
+5852976;Cube Gélatineux Esculape [Jeune];-20;7;-71
+5860219;Marilith [Initiale];-26;15;-65
+5836073;Zombie [Ancien];-47;-48;-83
+5853399;Capitan Médicastre [Récent];-15;-2;-75
+5849396;Golem d'Argile Fou [Jeune];-16;26;-48
+5772191;Phoenix Cogneur [Doyen];-93;-29;-71
+5768679;Spectre [Antique];-75;5;-44
+5867877;Squelette [Naissant];-43;-59;-73
+5865766;Spectre [Naissant];-79;-21;-75
+5840684;Essaim Cratérien [Juvénile];-50;-23;-70
+5842855;Spectre Corrompu [Ancien];-87;4;-44
+5868510;Zombie [Naissant];-47;9;-79
+5868061;Guerrier Mégacéphale [Nouveau];-51;23;-78
+5863542;Diablotin Coriace [Initial];-53;-57;-76
+5815168;Vouivre [Briscarde];-75;-41;-77
+5849545;Mohrg [Récent];-13;-6;-82
+5756431;Coccicruelle [Mûre];-53;-30;-61
+5837000;Mouch'oo Domestique [Adulte];-24;26;-41
+5863587;Pseudo-Dragon [Initial];-31;-63;-66
+5835360;Tertre Errant [Adulte];-60;-45;-44
+5854815;Elémentaire du Chaos [Novice];-31;-30;-77
+5836530;Fantôme Médicastre [Ancien];-46;-49;-85
+5857958;Succube [Initiale];-32;-31;-78
+5855659;Molosse Satanique [Novice];-25;-58;-51
+5801367;Amibe Géante Esculape [Briscarde];-88;-52;-42
+5843146;Golem de Pierre [Adulte];-65;-7;-47
+5771787;Effrit [Doyen];-57;-42;-72
+5865146;Mante Fulcreuse [Larve];-64;17;-57
+5857333;Grylle [Jeune];-93;6;-75
+5868414;Chevalier du Chaos [Initial];-16;5;-44
+5815336;Grosse Ame-en-peine [Séculaire];-11;-11;-72
+5807787;Gowap Apprivoisé Attentionné [Mature];-30;-2;-50
+5851224;Elémentaire du Chaos de Premier Cercle [Novice];-17;-61;-58
+5830649;Crasc Maexus [Vétéran];-52;-61;-75
+5757152;Amibe Géante Frénétique [Doyenne];-39;-10;-39
+5756845;Mante Fulcreuse [Mûre];-62;-9;-69
+5763892;Spectre [Antique];-46;-17;-45
+5823858;Diablotin [Favori];-88;-9;-52
+5868126;Anoploure Purpurin [Larve];-97;27;-71
+5836359;Ame-en-peine Nécromante [Ancienne];-47;-49;-82
+5868577;Essaim Cratérien [Larve];-71;-8;-70
+5855339;Archiatre Incube [Novice];-32;-31;-77
+5865671;Maître Spectre [Naissant];-23;-46;-47
+5792391;Xorn [Majeur];-47;-1;-40
+5855897;Diablotin [Novice];-36;23;-60
+5852664;Tertre Errant [Jeune];-67;11;-40
+5764433;Crasc Maexus [Doyen];-37;-29;-65
+5864402;Chimère Colossale [Nouvelle];-71;-21;-44
+5851683;Hellrot [Novice];-15;-30;-48
+5833430;Nécromant [Vénérable];-48;-49;-82
+5868706;Squelette [Naissant];-48;9;-79
+5859931;Essaim Cratérien Corrompu [Larve];-34;14;-70
+5857383;Gorgone Cracheuse [Jeune];-87;14;-39
+5863592;Diablotin Coriace [Initial];-16;-6;-78
+5760595;Crasc Maexus Cracheur [Doyen];-15;-44;-85
+5849918;Ame-en-peine [Récente];-58;3;-43
+5867503;Nécrophage Archaïque [Naissant];-41;-59;-73
+5852694;Ectoplasme [Récent];-73;-2;-45
+5861485;Fumeux [Initial];-10;-55;-54
+5836529;Croquemitaine Mentat [Ancien];-47;-50;-84
+5868041;Crasc Médius Parasitus [Nouveau];-92;-61;-53
+5856212;Abishaii Noir Coriace [Novice];-26;-61;-51
+5833025;Anoploure Purpurin [Imago];-81;33;-74
+5857360;Carnosaure Ronfleur [Jeune];-81;14;-71
+5844622;Mégacéphale [Adulte];-36;-9;-80
+5856695;Titan [Jeune];-11;-7;-55
+5848376;Diablotin [Novice];-93;-53;-50
+5795319;Mégacéphale Ronfleur [Briscard];-81;-46;-65
+5824546;Elémentaire de Terre Coriace [Favori];-100;-18;-57
+5867968;Crasc Maexus [Nouveau];-68;-29;-74
+5862136;Cheval à Dents de Sabre [Bébé];-58;-35;-53
+5862257;Spectre [Naissant];-82;-30;-45
+5867976;Essaim Cratérien [Larve];-71;-8;-70
+5862099;Golem de Fer Berserker [Nouveau];-50;21;-62
+5860042;Zombie Malade [Naissant];-25;-6;-42
+5866212;Sorcière [Nouvelle];-11;-26;-44
+5863529;Archiatre Pseudo-Dragon [Initial];-80;23;-65
+5759383;Tertre Errant Colossal [Doyen];-68;26;-61
+5859017;Chonchon [Nouveau];-68;13;-56
+5850602;Barghest [Novice];-49;-63;-68
+5862645;Chonchon Coriace [Nouveau];-58;-48;-53
+5836009;Essaim Cratérien Ouvrier [Juvénile];-34;14;-70
+5866963;Pseudo-Dragon [Initial];-81;-2;-76
+5830823;Essaim Cratérien Soldat [Imago];-71;-8;-70
+5862595;Mante Fulcreuse [Larve];-31;-39;-67
+5860283;Voleur Ours-Garou [Nouveau];-84;2;-43
+5859293;Petit Pseudo-Dragon [Initial];-93;-7;-59
+5773030;Phoenix [Doyen];-54;-24;-70
+5769927;Tertre Errant [Doyen];-68;26;-61
+5858593;Elémentaire de Terre Cogneur [Initial];-37;-46;-59
+5866441;Squelette [Naissant];-78;-22;-75
+5853362;Gros Nécrophage [Récent];-61;3;-44
+5824174;Spectre [Vénérable];-77;4;-45
+5847589;Ver Carnivore Géant Colossal [Jeune];-9;-25;-44
+5844612;Ame-en-peine [Ancienne];-48;-17;-69
+5866168;Ame-en-peine [Naissante];-75;-40;-79
+5855747;Petit Essaim Cratérien [Immature];-36;-51;-70
+5774356;Bouj'Dla Placide [Doyen];-84;-63;-77
+5864659;Crasc Maexus [Nouveau];-9;-3;-70
+5866477;Ame-en-peine Malade [Naissante];-13;-6;-75
+5833485;Effrit Frénétique [Vétéran];-89;-35;-63
+5836468;Carnosaure [Adulte];-69;-11;-68
+5837619;Phoenix Colossal [Adulte];-20;-60;-76
+5853900;Grand Frondeur Ashashin [Jeune];-56;12;-74
+5853174;Bulette Colossale [Jeune];-57;4;-55
+5850356;Elémentaire de Feu [Novice];-29;-54;-50
+5868753;Chonchon Traqueur [Nouveau];-73;33;-46
+5842102;Xorn Corrompu [Mineur];-61;-29;-46
+5765699;Gros Chonchon [Doyen];-49;-62;-66
+5825795;Phoenix Cracheur [Vétéran];-85;-51;-80
+5864634;Ame-en-peine Nécromante [Naissante];-81;-37;-42
+5765714;Carnosaure Corrompu [Doyen];-95;13;-56
+5851632;Effrit [Jeune];-15;-29;-52
+5844683;Pseudo-Dragon [Mineur];-68;-49;-39
+5856081;Veskan du Chaos Coriace [Jeune];-50;-41;-39
+5864210;Nécrophage [Naissant];-70;-44;-73
+5866436;Gritche [Initial];-35;-20;-77
+5769833;Mante Fulcreuse Stridente [Mûre];-59;13;-64
+5861947;Barghest de Cinquième Cercle [Initial];-10;22;-81
+5766505;Bouj'Dla Ronfleur [Doyen];-36;25;-56
+5790586;Elémentaire du Chaos [Majeur];-92;-37;-75
+5860849;Pseudo-Dragon [Initial];-15;-35;-66
+5840241;Ectoplasme [Ancien];-64;-2;-43
+5859294;Pseudo-Dragon [Initial];-96;-10;-57
+5852463;Maître Vampire [Récent];-38;-34;-65
+5855828;Pseudo-Dragon [Novice];-100;-28;-52
+5814722;Voleur Ours-Garou [Briscard];-10;-18;-57
+5857081;Titan Corrompu [Jeune];-21;-36;-56
+5827284;Spectre [Vénérable];-100;-32;-47
+5856150;Effrit Corrompu [Jeune];-100;-14;-59
+5852482;Spectre Nécromant [Récent];-37;-34;-64
+5860816;Pseudo-Dragon [Initial];-96;-14;-65
+5868145;Elémentaire du Chaos de Troisième Cercle [Initial];-74;-10;-52
+5767412;Bouj'Dla Placide Corrompu [Doyen];-92;-18;-65
+5768457;Gowap Apprivoisé [Chef de harde];-8;-12;-40
+5868687;Squelette [Naissant];-71;-44;-73
+5856634;Xorn [Novice];-41;-42;-40
+5855894;Pseudo-Dragon [Novice];-44;-9;-48
+5845546;Zombie [Ancien];-96;-6;-39
+5853157;Coccicruelle Ouvrière [Immature];-99;14;-43
+5852992;Elémentaire de Feu [Novice];-36;-6;-59
+5865545;Titan Cogneur [Nouveau];-21;-36;-56
+5818046;Chonchon [Vétéran];-95;-33;-66
+5851080;Essaim Cratérien [Immature];-35;-52;-70
+5864344;Esprit-Follet Esculape [Nouveau];-26;-6;-39
+5868968;Squelette Implacable [Naissant];-75;-41;-74
+5836969;Squelette [Ancien];-45;-50;-83
+5849306;Crasc Médius Parasitus [Jeune];-91;-3;-55
+5860817;Pseudo-Dragon [Initial];-77;14;-63
+5849021;Gorgone Fouisseuse [Jeune];-9;15;-40
+5866705;Squelette [Naissant];-75;-43;-78
+5815230;Glouton [Mature];-69;6;-52
+5862075;Bouj'Dla Placide [Nouveau];-13;26;-67
+5862073;Bouj'Dla Placide [Nouveau];-13;26;-67
+5868035;Pititabeille [Larve];-52;-21;-51
+5836984;Spectre [Ancien];-77;0;-40
+5868125;Anoploure Purpurin [Larve];-98;27;-72
+5795318;Mégacéphale [Briscard];-62;-20;-67
+5864685;Gros Croquemitaine [Naissant];-78;-22;-74
+5845798;Crasc Maexus Colossal [Adulte];-43;-46;-74
+5866466;Gritche [Initial];-59;-42;-79
+5858303;Essaim Cratérien [Larve];-70;-8;-70
+5839975;Nécrochore [Ancien];-60;3;-85
+5865844;Essaim Cratérien [Larve];-59;-33;-70
+5837614;Xorn [Mineur];-77;-14;-46
+5804748;Succube [Majeure];-95;-58;-54
+5828490;Essaim Cratérien [Imago];-60;-33;-70
+5854026;Croquemitaine [Récent];-36;-33;-62
+5855426;Petit Palefroi Infernal [Novice];-56;-57;-57
+5855855;Diablotin [Novice];-85;33;-46
+5863155;Foudroyeur [Larve];-38;30;-65
+5859692;Elémentaire du Chaos [Initial];-57;8;-53
+5818815;Spectre Médicastre [Vénérable];-96;-59;-54
+5842180;Spectre [Ancien];-57;-17;-74
+5840722;Bouj'Dla Placide [Adulte];-76;-23;-74
+5868604;Spectre [Naissant];-41;-62;-73
+5774339;Petit Cube Gélatineux [Doyen];-82;23;-72
+5855147;Archi-Sorcière [Jeune];-95;8;-39
+5836782;Petit Essaim Cratérien [Juvénile];-64;9;-70
+5857340;Tertre Errant [Jeune];-81;14;-71
+5857058;Golem de Fer [Jeune];-95;27;-58
+5857103;Chonchon Fouisseur [Jeune];-48;-49;-58
+5867681;Nécrophage [Naissant];-42;-62;-74
+5867975;Alpha Essaim Cratérien [Larve];-51;-22;-70
+5863503;Pseudo-Dragon de Second Cercle [Initial];-92;-23;-69
+5848896;Petit Hellrot [Novice];-95;-56;-50
+5834664;Xorn [Mineur];-86;-33;-39
+5841010;Spectre [Ancien];-50;-15;-71
+5773252;Gorgone [Doyenne];-87;-55;-40
+5855221;Xorn [Novice];-31;-26;-76
+5865893;Shai [Initial];-65;-6;-50
+5851179;Crasc Maexus Esculape [Jeune];-22;-25;-69
+5837037;Mouch'oo Sauvage Colossal [Adulte];-31;0;-45
+5774459;Gros Chonchon [Doyen];-47;-63;-68
+5836972;Ours-Garou Alchimiste [Adulte];-97;-28;-45
+5843382;Chonchon [Adulte];-82;-22;-50
+5854910;Nécrophage [Récent];-13;-4;-74
+5854723;Elémentaire de Feu Fanatique [Novice];-55;10;-53
+5868106;Nécrophage [Naissant];-63;32;-49
+5865093;Phoenix [Nouveau];-72;-20;-74
+5828951;Essaim Cratérien [Imago];-50;-23;-70
+5864798;Incube [Initial];-74;-60;-42
+5846418;Chonchon [Adulte];-24;-33;-63
+5866453;Mante Fulcreuse [Larve];-37;-30;-58
+5851834;Cheval à Dents de Sabre Vorace [Enfançon];-76;-42;-55
+5823880;Diablotin des Abysses [Favori];-59;-13;-39
+5816202;Bouj'Dla Placide Colossal [Briscard];-84;-62;-78
+5843693;Bouj'Dla Placide [Adulte];-27;-4;-79
+5782590;Bouj'Dla Placide [Briscard];-70;22;-66
+5846334;Xorn [Mineur];-19;-39;-46
+5851835;Cheval à Dents de Sabre [Enfançon];-24;15;-64
+5865487;Elémentaire du Chaos de Troisième Cercle [Initial];-72;-6;-66
+5868359;Elémentaire d'Air [Initial];-53;27;-43
+5851940;Behemoth [Novice];-42;26;-66
+5863456;Squelette [Naissant];-83;-32;-55
+5836014;Essaim Cratérien [Juvénile];-50;-23;-70
+5821072;Hellrot [Favori];-85;-31;-45
+5852248;Pseudo-Dragon [Novice];-98;-11;-52
+5860368;Barbare Mégacéphale [Nouveau];-96;11;-80
+5839069;Familier [Adulte];-20;28;-61
+5856810;Xorn Cogneur [Novice];-72;27;-41
+5865870;Shai [Initial];-61;-6;-50
+5868954;Squelette [Naissant];-49;12;-78
+5863544;Diablotin [Initial];-58;-41;-61
+5862683;Sorcière Cogneuse [Nouvelle];-30;-38;-46
+5851111;Foudroyeur Soldat [Immature];-34;-63;-79
+5789249;Mégacéphale [Briscard];-74;-20;-79
+5839049;Essaim Cratérien [Juvénile];-67;-37;-70
+5797814;Ver Carnivore [Briscard];-84;-17;-40
+5834690;Phoenix [Adulte];-67;-62;-66
+5859529;Voleur Mégacéphale [Nouveau];-96;11;-80
+5863943;Golem de Pierre [Nouveau];-10;-55;-42
+5838094;Diablotin [Mineur];-38;-41;-59
+5853048;Abishaii Rouge [Novice];-24;-53;-64
+5852468;Banshee [Récente];-38;-33;-63
+5866833;Capitan [Naissant];-79;-22;-75
+5818450;Bouj'Dla Placide Gargantuesque [Vétéran];-14;26;-68
+5868150;Cube Gélatineux Gargantuesque [Nouveau];-15;-51;-62
+5806231;Phoenix Fouisseur [Briscard];-17;1;-83
+5804629;Poisson Rouge [Mature];-99;-45;-75
+5858780;Ectoplasme Médicastre [Naissant];-49;11;-75
+5851574;Vampire [Récent];-20;3;-60
+5826768;Cube Gélatineux [Vétéran];-37;-40;-69
+5865151;Petit Squelette [Naissant];-81;-37;-50
+5853170;Croquemitaine Médicastre [Récent];-35;-33;-63
+5844685;Pseudo-Dragon [Mineur];-76;8;-44
+5860818;Pseudo-Dragon [Initial];-62;23;-51
+5857797;Zombie [Récent];-16;-4;-75
+5864014;Abishaii Rouge Corrompu [Initial];-15;-55;-47
+5865945;Ame-en-peine Médicastre [Naissante];-43;-58;-75
+5857728;Abishaii Rouge [Novice];-30;-31;-77
+5852462;Vampire Psychophage [Récent];-37;-29;-65
+5863801;Effrit [Nouveau];-25;12;-55
+5852178;Sphinx Berserker [Jeune];-50;-11;-78
+5865608;Shai [Initial];-64;-22;-56
+5864657;Crasc Maexus Fouisseur [Nouveau];-9;-3;-70
+5866946;Elémentaire d'Eau [Initial];-90;-63;-49
+5824396;Yuan-ti [Vétéran];-48;-17;-45
+5860466;Bouj'Dla Placide [Nouveau];-51;31;-81
+5862059;Mante Fulcreuse Morticole [Larve];-70;9;-65
+5852527;Chonchon Fouisseur [Jeune];-14;-37;-59
+5798437;Cheval à Dents de Sabre [Mature];-10;-8;-59
+5867987;Hellrot de Second Cercle [Initial];-25;-58;-59
+5867737;Esprit-Follet Gargantuesque [Nouveau];-28;-58;-52
+5855463;Incube [Novice];-26;-60;-51
+5863505;Pseudo-Dragon [Initial];-98;-15;-64
+5792342;Hellrot [Majeur];-82;-62;-51
+5859314;Pseudo-Dragon [Initial];-59;-35;-58
+5782645;Anoploure Purpurin [Développé];-81;-25;-67
+5867656;Bouj'Dla Placide Frénétique [Nouveau];-73;17;-73
+5854487;Elémentaire de Terre [Novice];-30;-29;-76
+5782592;Bouj'Dla Placide [Briscard];-71;22;-67
+5855570;Elémentaire de Feu [Novice];-68;-31;-57
+5861615;Petit Squelette [Naissant];-44;-55;-51
+5860433;Incube Cogneur [Initial];-72;-54;-39
+5860693;Pseudo-Dragon [Initial];-81;18;-63
+5833293;Ours-Garou Agressif [Vétéran];-66;-4;-44
+5865964;Capitan [Naissant];-46;-49;-85
+5867683;Incube [Initial];-90;-63;-49
+5836457;Crasc Maexus [Adulte];-49;-17;-71
+5827191;Chonchon Cogneur [Vétéran];-44;-47;-62
+5836137;Capitan [Ancien];-47;-50;-83
+5843168;Golem de Pierre [Adulte];-67;-26;-47
+5855786;Mégacéphale [Jeune];-59;-17;-73
+5866962;Pseudo-Dragon de Quatrième Cercle [Initial];-77;-22;-80
+5848920;Glouton [Jeune];-94;-7;-41
+5866329;Fantôme [Naissant];-43;-61;-75
+5855064;Elémentaire d'Air [Novice];-30;-29;-75
+5863434;Essaim Cratérien [Larve];-64;9;-70
+5851628;Mante Fulcreuse [Immature];-20;-5;-67
+5866277;Ours-Garou [Nouveau];-41;30;-39
+5855831;Diablotin [Novice];-98;11;-50
+5855896;Pseudo-Dragon [Novice];-53;3;-48
+5868360;Abishaii Rouge [Initial];-20;29;-55
+5791073;Xorn [Majeur];-85;-27;-46
+5851568;Gritche [Novice];-93;-4;-72
+5867822;Abishaii Bleu [Initial];-21;-56;-53
+5850481;Tertre Errant Ronfleur [Jeune];-46;-60;-44
+5868320;Petit Abishaii Bleu [Initial];-80;-45;-54
+5856786;Titan [Jeune];-64;-1;-51
+5797506;Gritche [Majeur];-85;12;-75
+5857819;Squelette Coriace [Récent];-15;-2;-75
+5864955;Capitan [Naissant];-69;-27;-72
+5855913;Diablotin des Abysses [Novice];-20;-37;-55
+5863942;Golem de Pierre [Nouveau];-54;-29;-52
+5847695;Bulette [Adulte];-16;29;-48
+5866631;Fantôme Archaïque [Naissant];-41;-62;-73
+5815957;Mante Fulcreuse [Imago];-66;28;-78
+5858150;Maître Nécrophage [Naissant];-14;-2;-75
+5852511;Golem de Fer [Jeune];-63;-3;-70
+5868288;Abishaii Noir de Second Cercle [Initial];-82;-55;-51
+5860369;Mégacéphale [Nouveau];-96;11;-80
+5852475;Spectre [Récent];-37;-34;-64
+5857338;Grylle [Jeune];-93;6;-75
+5842078;Tertre Errant [Adulte];-28;-60;-43
+5865208;Capitan [Naissant];-80;-12;-79
+5860087;Elémentaire de Feu Corrompu [Initial];-28;-42;-42
+5865900;Shai de Quatrième Cercle [Initial];-70;3;-57
+5799594;Gowap Apprivoisé [Mature];-21;23;-40
+5863030;Spectre [Naissant];-54;2;-77
+5831879;Barghest Ronfleur [Favori];-56;-49;-81
+5851407;Xorn [Novice];-49;-2;-40
+5857500;Harpie Cracheuse [Jeune];-91;-29;-71
+5792557;Gros Hellrot [Majeur];-60;-20;-45
+5857900;Familier [Adulte];-83;-22;-53
+5865886;Shai Coriace [Initial];-39;-49;-60
+5868350;Capitan [Naissant];-95;-61;-59
+5855847;Diablotin [Novice];-78;-25;-50
+5864896;Croquemitaine [Naissant];-78;-21;-75
+5847278;Essaim Cratérien Ronfleur [Immature];-50;-23;-70
+5865359;Squelette [Naissant];-75;-39;-80
+5851003;Essaim Sanguinaire Coriace [Immature];-18;-13;-50
+5866001;Squelette Mentat [Naissant];-49;-63;-55
+5839549;Chonchon [Adulte];-10;-55;-55
+5789034;Essaim Sanguinaire [Développé];-8;1;-50
+5860449;Bouj'Dla Placide [Jeune];-41;-61;-79
+5817531;Carnosaure Colossal [Vétéran];-60;21;-68
+5853950;Effrit Fouisseur [Jeune];-58;-60;-60
+5868772;Elémentaire d'Air [Initial];-60;30;-48
+5855805;Elémentaire de Feu [Novice];-30;-30;-78
+5862629;Zombie Corrompu [Naissant];-71;-47;-72
+5856084;Veskan du Chaos [Jeune];-52;-59;-40
+5833068;Marilith Fanatique [Favorite];-88;-16;-79
+5859159;Ame-en-peine [Naissante];-47;8;-79
+5860838;Pseudo-Dragon [Initial];-39;-29;-62
+5848940;Coccicruelle [Immature];-54;-43;-48
+5860584;Vouivre Esculape [Nouvelle];-81;14;-71
+5855642;Nécrophage [Récent];-90;-56;-65
+5867823;Abishaii Bleu [Initial];-22;-54;-53
+5865165;Croquemitaine [Naissant];-34;-48;-50
+5854219;Ame-en-peine [Récente];-15;-1;-74
+5852677;Crasc Maexus [Jeune];-42;-38;-61
+5853495;Banshee [Récente];-16;-3;-73
+5816805;Prince Diablotin [Favori];-62;-11;-64
+5849654;Phoenix [Jeune];-71;-23;-74
+5862512;Nécrophage Mentat [Naissant];-48;8;-79
+5832693;Chonchon Traqueur [Vétéran];-77;28;-64
+5854847;Alpha Essaim Cratérien [Immature];-36;-51;-70
+5867977;Essaim Cratérien [Larve];-70;-8;-70
+5864693;Coccicruelle Soldat [Larve];-77;15;-52
+5858912;Ame-en-peine [Naissante];-95;-38;-46
+5845515;Glouton [Jeune];-27;-60;-43
+5853670;Tertre Errant Cracheur [Jeune];-88;-6;-41
+5861478;Fumeux [Initial];-49;-3;-50
+5860715;Pseudo-Dragon [Initial];-50;12;-72
+5832567;Bouj'Dla Placide [Vétéran];-70;20;-66
+5867734;Ectoplasme [Naissant];-43;-58;-74
+5854294;Crasc Maexus Corrompu [Jeune];-35;-14;-67
+5834661;Nécrophage [Ancien];-12;-12;-74
+5854570;Shai [Novice];-8;-28;-63
+5860448;Bouj'Dla Placide [Jeune];-41;-62;-79
+5860931;Pseudo-Dragon de Cinquième Cercle [Initial];-96;-15;-60
+5867807;Bouj'Dla Cracheur [Nouveau];-68;11;-40
+5868306;Elémentaire de Feu [Initial];-24;-54;-57
+5834676;Nécrophage [Ancien];-45;-50;-84
+5866458;Croquemitaine Mentat [Naissant];-98;18;-55
+5792572;Phoenix Ronfleur [Briscard];-43;-16;-76
+5862799;Maîtresse Ame-en-peine [Naissante];-75;-41;-74
+5861872;Mouch'oo Sauvage [Nouveau];-14;-44;-39
+5831738;Ver Carnivore Géant [Vétéran];-95;-58;-44
+5818303;Essaim Sanguinaire [Imago];-50;6;-50
+5868022;Pititabeille [Larve];-53;-20;-50
+5799758;Gowap Apprivoisé Corrompu [Mature];-51;-16;-54
+5859940;Essaim Cratérien [Larve];-35;14;-70
+5866134;Coccicruelle [Larve];-84;3;-47
+5840013;Bulette [Adulte];-20;-15;-52
+5852191;Sphinx [Jeune];-75;-53;-58
+5867538;Zombie Médicastre [Naissant];-41;-58;-75
+5848021;Abishaii Bleu Fanatique [Novice];-43;-4;-55
+5849686;Bouj'Dla Placide Corrompu [Jeune];-28;-4;-79
+5798888;Gowap Apprivoisé Cogneur [Mature];-50;0;-50
+5830808;Crasc Maexus Cracheur [Vétéran];-24;12;-64
+5855446;Carnosaure Colossal [Jeune];-85;-3;-66
+5859797;Mille-Pattes Géant [Larve];-13;-37;-43
+5852131;Succube [Novice];-8;-43;-40
+5834657;Ectoplasme [Ancien];-47;-50;-83
+5835706;Nécrophage [Ancien];-46;-49;-85
+5830632;Crasc Maexus Parasitus [Vétéran];-40;-50;-85
+5857074;Petit Tertre Errant [Jeune];-98;-60;-41
+5863525;Pseudo-Dragon de Second Cercle [Initial];-92;-19;-63
+5857361;Carnosaure [Jeune];-82;13;-71
+5834989;Essaim Cratérien [Juvénile];-60;-32;-70
+5860030;Carnosaure Traqueur [Nouveau];-26;-21;-65
+5855845;Diablotin [Novice];-85;-55;-62
+5867736;Tertre Errant Ronfleur [Nouveau];-26;-61;-43
+5823765;Zombie [Vénérable];-10;-9;-73
+5868062;Mégacéphale [Nouveau];-50;26;-78
+5855893;Diablotin Cogneur [Novice];-57;-26;-51
+5864673;Ame-en-peine Nécromante [Naissante];-78;-22;-75
+5799549;Gowap Apprivoisé [Mature];-97;-62;-50
+5843506;Elémentaire d'Air [Mineur];-88;-28;-50
+5799561;Gowap Apprivoisé Cogneur [Mature];-29;-45;-40
+5857901;Familier [Jeune];-50;4;-53
+5864832;Crasc Maexus Parasitus [Nouveau];-97;-45;-64
+5799653;Gowap Apprivoisé [Mature];-85;-22;-73
+5860276;Grylle Ronfleur [Nouveau];-93;6;-75
+5855447;Chonchon Colossal [Jeune];-87;2;-67
+5855891;Diablotin [Novice];-54;-44;-58
+5853597;Abishaii Bleu [Novice];-28;-28;-78
+5856520;Essaim Cratérien [Immature];-35;14;-70
+5859623;Grylle [Nouveau];-87;12;-71
+5854380;Abishaii Noir [Novice];-30;-31;-77
+5856966;Nécrophage [Récent];-90;-56;-65
+5859295;Pseudo-Dragon [Initial];-92;11;-60
+5862253;Abishaii Vert [Initial];-37;26;-41
+5853482;Banshee Coriace [Récente];-45;-50;-84
+5857348;Vouivre [Jeune];-81;15;-72
+5864306;Squelette [Naissant];-50;-16;-62
+5866982;Pseudo-Dragon [Initial];-39;-62;-81
+5838728;Ectoplasme [Ancien];-12;-12;-74
+5822882;Cube Gélatineux Colossal [Vétéran];-49;-32;-82
+5865696;Squelette Ronfleur [Naissant];-99;20;-56
+5857980;Effrit Frénétique [Nouveau];-19;-8;-67
+5856176;Coccicruelle [Immature];-47;-46;-52
+5867954;Phoenix Colossal [Nouveau];-35;26;-66
+5865717;Zombie Malade [Naissant];-78;-22;-76
+5866983;Pseudo-Dragon [Initial];-34;-44;-76
+5853401;Squelette [Récent];-48;-49;-83
+5863506;Diablotin [Initial];-97;21;-68
+5846922;Tertre Errant [Jeune];-62;-45;-45
+5868283;Abishaii Rouge Cogneur [Initial];-78;-54;-58
+5843384;Chonchon Gargantuesque [Adulte];-37;-4;-58
+5840723;Bouj'Dla Placide [Adulte];-79;-22;-75
+5864981;Capitan [Naissant];-77;-22;-76
+5863207;Petit Carnosaure [Nouveau];-67;-45;-43
+5867398;Incube [Initial];-26;-60;-51
+5864505;Croquemitaine [Naissant];-93;-35;-43
+5861101;Pseudo-Dragon [Initial];-16;-42;-55
+5862834;Labeilleux [Larve];-11;-59;-63
+5857049;Zombie [Récent];-46;-50;-82
+5856630;Effrit [Jeune];-16;17;-61
+5864708;Effrit [Nouveau];-22;-36;-56
+5862102;Shai [Initial];-41;-48;-61
+5867396;Zombie [Naissant];-65;31;-50
+5868133;Fantôme Cogneur [Naissant];-15;-1;-74
+5866187;Ectoplasme Médicastre [Naissant];-78;-22;-75
+5854836;Familier [Vétéran] ChatGris;-83;-21;-51
+5802389;Hellrot Fanatique [Majeur];-62;16;-48
+5862060;Mante Fulcreuse [Larve];-66;12;-65
+5853112;Chimère [Jeune];-68;-33;-40
+5858203;Squelette [Naissant];-13;-2;-75
+5854290;Crasc Maexus Parasitus [Jeune];-12;-13;-70
+5866793;Ectoplasme [Naissant];-70;-36;-65
+5836935;Squelette [Ancien];-47;-50;-84
+5867820;Abishaii Bleu [Initial];-24;-54;-53
+5800817;Gros Gowap Apprivoisé [Mature];-84;-58;-85
+5838328;Carnosaure Colossal [Adulte];-84;-1;-68
+5848815;Effrit Fustigateur [Jeune];-14;-1;-64
+5857667;Elémentaire de Terre [Novice];-50;3;-43
+5856149;Effrit Coriace [Jeune];-99;-11;-58
+5801071;Gowap Sauvage Cogneur [Mature];-63;-48;-70
+5838813;Zombie Malade [Ancien];-97;-40;-46
+5858797;Essaim Cratérien [Larve];-60;-32;-70
+5834043;Hellrot Fanatique [Mineur];-95;-29;-43
+5866997;Pseudo-Dragon [Initial];-16;21;-74
+5845199;Nécrophage [Ancien];-48;-16;-68
+5865568;Zombie [Naissant];-80;-25;-57
+5830481;Spectre [Vénérable];-88;-8;-39
+5859306;Pseudo-Dragon [Initial];-88;31;-67
+5860933;Pseudo-Dragon [Initial];-88;25;-69
+5860506;Gros Crasc Maexus [Nouveau];-18;-9;-55
+5822639;Archiatre Behemoth [Favori];-18;-16;-85
+5836362;Squelette [Ancien];-46;-49;-84
+5843209;Nécrophage [Ancien];-55;-14;-72
+5839459;Essaim Cratérien Fouisseur [Juvénile];-67;-37;-70
+5834904;Spectre [Ancien];-47;-48;-82
+5860513;Nécrophage Coriace [Naissant];-48;7;-79
+5843617;Gowap Apprivoisé [Jeune];-68;7;-70
+5838776;Cube Gélatineux [Adulte];-46;-27;-65
+5841973;Labeilleux Cogneur [Juvénile];-24;-54;-64
+5835885;Ombre de Roches Corrompue [Adulte];-67;-63;-39
+5863595;Pseudo-Dragon [Initial];-24;18;-66
+5843745;Phoenix [Adulte];-20;-46;-83
+5837995;Croquemitaine [Ancien];-96;-40;-46
+5834353;Banshee [Ancienne];-48;-56;-87
+5864694;Coccicruelle [Larve];-77;3;-47
+5858607;Banshee [Naissante];-16;-18;-46
+5864272;Géant des Gouffres [Nouveau];-42;-55;-40
+5801821;Gowap Apprivoisé Cogneur [Mature] MaïkeTaïZone;-74;-21;-50
+5849284;Phoenix Ronfleur [Jeune];-58;6;-66
+5838381;Mante Fulcreuse Corrompue [Juvénile];-26;-49;-75
+5839182;Squelette [Ancien];-97;-40;-50
+5863987;Feu Follet [Nouveau];-84;-8;-44
+5866765;Prince Incube [Initial];-98;-61;-53
+5836716;Squelette [Ancien];-46;-50;-82
+5854267;Zombie [Récent];-36;-34;-64
+5837565;Essaim Cratérien [Juvénile];-36;-52;-70
+5867672;Effrit [Nouveau];-55;-31;-51
+5851587;Elémentaire de Feu Cogneur [Novice];-45;-1;-60
+5866949;Pseudo-Dragon [Initial];-99;-62;-75
+5868463;Incube [Initial];-14;19;-42
+5834029;Golem de Pierre [Adulte];-25;-55;-49
+5864963;Spectre [Naissant];-76;-22;-74
+5858131;Petit Abishaii Noir [Initial];-24;-53;-64
+5831822;Mouch'oo Sauvage Cogneur [Vétéran];-53;9;-47
+5833986;Chonchon Cracheur [Adulte];-56;30;-52
+5852175;Sphinx [Jeune];-76;-53;-60
+5863546;Diablotin [Initial];-59;-31;-73
+5818479;Petit Phoenix [Vétéran];-39;2;-82
+5801991;Gowap Apprivoisé Attentionné [Mature];-52;-16;-55
+5821147;Essaim Cratérien [Imago];-67;-38;-70
+5862155;Cheval à Dents de Sabre [Bébé];-43;-53;-53
+5859644;Glouton Enragé [Bébé];-16;-7;-45
+5865544;Champion Titan [Nouveau];-21;-36;-56
+5855912;Pseudo-Dragon [Novice];-20;-53;-65
+5863526;Diablotin [Initial];-77;-13;-68
+5863549;Pseudo-Dragon [Initial];-63;12;-62
+5864752;Nécrophage [Naissant];-76;-21;-74
+5851944;Behemoth Coriace [Novice];-63;-33;-66
+5841633;Ectoplasme [Ancien];-54;-18;-66
+5802483;Gowap Apprivoisé Vorace [Mature];-50;0;-50
+5856598;Flagelleur Mental [Jeune];-19;-21;-67
+5858527;Elémentaire du Chaos de Premier Cercle [Initial];-24;-32;-64
+5848422;Diablotin Cogneur [Novice];-66;-18;-39
+5831774;Gowap Apprivoisé [Adulte];-74;-48;-69
+5837867;Gorgone Gargantuesque [Adulte];-11;-61;-47
+5867808;Gros Bouj'Dla [Nouveau];-67;9;-40
+5868340;Shai Fanatique [Initial];-80;-44;-56
+5863197;Grylle [Nouveau];-82;13;-72
+5853726;Succube [Novice];-31;-29;-79
+5864961;Ame-en-peine [Naissante];-74;-48;-82
+5856337;Succube [Novice];-29;-29;-76
+5850196;Mégacéphale [Jeune];-67;-25;-86
+5825720;Capitan [Vénérable];-27;1;-71
+5839701;Feu Follet Colossal [Adulte];-52;-50;-55
+5855867;Diablotin [Novice];-51;-62;-43
+5865067;Effrit Coriace [Nouveau];-86;-4;-57
+5868052;Molosse Satanique Invocateur [Initial];-15;20;-39
+5866635;Ame-en-peine [Naissante];-64;31;-49
+5818936;Mante Fulcreuse Ronfleuse [Imago];-69;-40;-81
+5842724;Banshee [Ancienne];-50;-14;-65
+5802837;Gowap Apprivoisé Attentionné [Mature];-91;-51;-77
+5851915;Behemoth Fanatique [Novice];-42;25;-66
+5848085;Capitan Médicastre [Récent];-71;-43;-70
+5864704;Crasc Maexus [Nouveau];-16;-9;-55
+5852460;Vampire Psychophage [Récent];-37;-31;-65
+5802954;Gowap Apprivoisé [Mature];-54;-4;-78
+5815438;Ame-en-peine [Vénérable];-11;-11;-72
+5865984;Archiatre Barghest [Initial];-78;-63;-72
+5844205;Effrit [Adulte];-8;-31;-56
+5803164;Gowap Apprivoisé [Mature];-71;-33;-51
+5860850;Pseudo-Dragon [Initial];-24;0;-73
+5852528;Chonchon Ronfleur [Jeune];-14;-38;-59
+5864607;Succube de Troisième Cercle [Initiale];-24;-54;-64
+5867702;Banshee [Naissante];-62;30;-49
+5865480;Croquemitaine [Naissant];-74;-48;-82
+5860424;Mégacéphale [Nouveau];-74;-20;-79
+5862768;Grylle [Nouveau];-87;12;-71
+5862026;Vouivre Gargantuesque [Nouvelle];-84;13;-72
+5859302;Pseudo-Dragon [Initial];-82;-51;-62
+5860702;Petit Pseudo-Dragon [Initial];-45;-29;-63
+5821816;Cube Gélatineux [Vétéran];-54;-24;-71
+5864562;Essaim Cratérien [Larve];-34;15;-70
+5864666;Crasc Maexus [Nouveau];-15;-9;-66
+5824768;Mégacéphale [Vétéran];-54;-59;-76
+5804899;Gros Carnosaure [Briscard];-54;23;-68
+5837311;Effrit [Adulte];-25;-54;-64
+5862970;Zombie Malade [Naissant];-72;-25;-40
+5821830;Effrit Ronfleur [Vétéran];-48;-13;-79
+5867191;Ectoplasme [Naissant];-70;-36;-65
+5864723;Phoenix [Nouveau];-93;19;-64
+5867502;Squelette [Naissant];-78;-22;-75
+5867806;Bouj'Dla Frénétique [Nouveau];-68;10;-40
+5859980;Grylle [Nouveau];-89;32;-60
+5855846;Pseudo-Dragon de Quatrième Cercle [Novice];-65;-56;-42
+5861104;Petit Pseudo-Dragon [Initial];-21;11;-56
+5861103;Pseudo-Dragon Corrompu [Initial];-34;2;-69
+5834535;Spectre Coriace [Ancien];-47;-50;-85
+5804108;Spectre Coriace [Séculaire];-78;-55;-52
+5835353;Squelette [Ancien];-46;-49;-82
+5827708;Petit Spectre [Vénérable];-92;-24;-44
+5854228;Mille-Pattes Géant Soldat [Immature];-20;-44;-39
+5829579;Essaim Cratérien [Imago];-70;-8;-70
+5853496;Nécrophage [Récent];-37;-34;-63
+5868130;Mohrg [Naissant];-46;-32;-71
+5852477;Spectre Malade [Récent];-37;-34;-64
+5859234;Grylle [Nouveau];-87;12;-71
+5837184;Essaim Cratérien [Juvénile];-50;-23;-70
+5864276;Succube de Troisième Cercle [Initiale];-25;-40;-43
+5834055;Zombie [Ancien];-48;-49;-83
+5867388;Elémentaire de Feu [Initial];-62;-12;-46
+5845549;Frondeur Ours-Garou [Adulte];-82;-59;-46
+5863204;Shai [Initial];-39;-49;-60
+5866939;Capitan [Naissant];-44;-19;-69
+5853745;Ver Carnivore Géant Cracheur [Jeune];-65;-11;-44
+5862699;Fantôme Ronfleur [Naissant];-34;-43;-50
+5836785;Banshee [Ancienne];-47;-51;-85
+5862295;Spectre Médicastre [Naissant];-91;-21;-43
+5844066;Xorn [Mineur];-21;-22;-45
+5864633;Maître Nécrophage [Naissant];-76;-41;-78
+5854340;Trancheur Corrompu [Jeune];-33;11;-65
+5861810;Spectre Cogneur [Naissant];-97;-20;-41
+5833481;Ectoplasme [Vénérable];-49;-48;-82
+5828079;Essaim Cratérien [Imago];-51;-23;-70
+5868416;Hellrot [Initial];-24;-54;-64
+5866808;Mégacéphale [Nouveau];-84;23;-74
+5853917;Ashashin [Jeune];-59;13;-73
+5868098;Mouch'oo Majestueux Sauvage Colossal [Nouveau];-63;-63;-72
+5827242;Xorn [Favori];-73;-44;-42
+5865553;Carnosaure Traqueur [Nouveau];-78;-44;-52
+5860100;Palefroi Infernal [Initial];-44;2;-66
+5855801;Incube Fanatique [Novice];-30;-28;-77
+5860017;Phoenix [Nouveau];-35;-25;-62
+5867233;Banshee [Naissante];-78;-22;-75
+5853582;Crasc Maexus Ronfleur [Jeune];-38;-28;-65
+5849625;Gritche [Novice];-63;-63;-72
+5837563;Essaim Cratérien Morticole [Juvénile];-64;9;-70
+5804678;Gowap Apprivoisé Malade [Mature];-50;0;-50
+5862024;Mégacéphale [Nouveau];-49;25;-79
+5842818;Phoenix [Adulte];-52;-41;-79
+5852863;Essaim Cratérien Lobotomisateur [Immature];-67;-37;-70
+5840040;Croquemitaine [Ancien];-61;2;-43
+5862130;Palefroi Infernal de Quatrième Cercle [Initial];-16;-60;-72
+5855457;Feu Follet [Jeune];-10;-22;-40
+5833023;Anoploure Purpurin Cogneur [Imago];-82;33;-74
+5823285;Essaim Cratérien [Imago];-63;9;-70
+5851950;Behemoth Coriace [Novice];-11;-8;-67
+5855917;Diablotin [Novice];-23;4;-67
+5857341;Tertre Errant [Jeune];-83;13;-72
+5861090;Prince Pseudo-Dragon [Initial];-35;-16;-59
+5841891;Spectre [Ancien];-57;-15;-69
+5864619;Fantôme [Naissant];-77;-44;-80
+5848672;Barghest [Novice];-13;-60;-72
+5805043;Gros Nécrochore [Séculaire];-10;-24;-85
+5867967;Crasc Maexus [Nouveau];-64;-36;-62
+5839016;Mouch'oo Sauvage Frénétique [Adulte];-68;-29;-40
+5861895;Spectre [Naissant];-77;-25;-41
+5852282;Pseudo-Dragon [Novice];-41;10;-46
+5863162;Foudroyeur [Larve];-74;-8;-74
+5847454;Effrit Fustigateur [Jeune];-23;-56;-65
+5854923;Squelette [Récent];-100;21;-55
+5865124;Fantôme Ronfleur [Naissant];-75;-41;-78
+5856162;Palefroi Infernal Cogneur [Novice];-25;19;-64
+5840165;Familier [Briscard];-58;-17;-51
+5837821;Spectre Corrompu [Ancien];-98;1;-49
+5863528;Diablotin [Initial];-77;22;-67
+5864407;Tertre Errant Coriace [Nouveau];-62;33;-48
+5860851;Pseudo-Dragon [Initial];-32;4;-62
+5846419;Chonchon [Adulte];-23;-35;-62
+5858545;Reine Mante Fulcreuse [Larve];-54;-27;-77
+5842479;Golem d'Argile Mutant [Adulte];-20;-41;-50
+5851578;Phoenix Gargantuesque [Jeune];-27;-61;-75
+5865878;Shai des Abysses [Initial];-64;-22;-56
+5865044;Squelette [Naissant];-78;-22;-75
+5864047;Familier [Nouveau];-62;-35;-77
+5848466;Diablotin [Novice];-16;-38;-46
+5848467;Pseudo-Dragon Coriace [Novice];-21;-23;-43
+5848442;Diablotin Corrompu [Novice];-48;-58;-63
+5863564;Diablotin Fanatique [Initial];-38;-60;-72
+5851941;Behemoth [Novice];-25;12;-65
+5863263;Sorcière Mutante [Nouvelle];-81;-51;-42
+5863275;Chonchon [Nouveau];-34;23;-48
+5853964;Carnosaure [Jeune];-17;-10;-55
+5805872;Gowap Apprivoisé Fouisseur [Mature];-81;-53;-54
+5857061;Effrit [Jeune];-38;-29;-62
+5860860;Pseudo-Dragon [Initial];-10;-30;-61
+5857345;Tertre Errant [Jeune];-83;13;-73
+5868396;Bouj'Dla [Nouveau];-37;-8;-39
+5858221;Xorn [Initial];-73;-43;-42
+5851680;Tertre Errant [Jeune];-77;-63;-39
+5806084;Gowap Apprivoisé [Mature];-50;0;-50
+5857693;Tertre Errant [Jeune];-80;-58;-51
+5852672;Crasc Maexus Parasitus [Jeune];-29;14;-65
+5868831;Ectoplasme Archaïque [Naissant];-43;-59;-72
+5860704;Pseudo-Dragon [Initial];-58;12;-72
+5848632;Veskan du Chaos Mutant [Jeune];-14;-9;-39
+5854625;Carnosaure [Jeune];-61;-36;-59
+5848814;Effrit Colossal [Jeune];-14;-1;-64
+5868434;Tertre Errant [Nouveau];-66;12;-39
+5806222;Petit Gowap Apprivoisé [Mature];-84;-56;-85
+5852279;Pseudo-Dragon [Novice];-37;-35;-51
+5824657;Essaim Cratérien [Imago];-34;15;-70
+5842348;Spectre Nécromant [Ancien];-60;0;-41
+5825330;Phoenix [Vétéran];-26;-18;-69
+5806323;Gowap Apprivoisé Cogneur [Mature];-50;0;-50
+5857955;Gros Elémentaire de Terre [Initial];-82;-45;-56
+5840011;Bulette [Adulte];-71;13;-46
+5856208;Crasc Médius [Jeune];-91;-3;-55
+5865731;Croquemitaine [Naissant];-79;-37;-49
+5853392;Nécromant [Récent];-16;-3;-74
+5845458;Esprit-Follet Traqueur [Adulte];-98;-26;-42
+5849406;Grande Frondeuse Sorcière [Jeune];-67;7;-51
+5806556;Gowap Apprivoisé Vorace [Mature];-50;0;-50
+5863588;Diablotin [Initial];-22;-37;-70
+5867924;Elémentaire de Terre de Quatrième Cercle [Initial];-24;-55;-64
+5857999;Ame-en-peine Médicastre [Naissante];-13;-3;-74
+5861058;Pseudo-Dragon [Initial];-92;-15;-40
+5860182;Marilith [Initiale];-52;-28;-77
+5865771;Yuan-ti [Nouveau];-47;-60;-49
+5866643;Elémentaire de Terre [Initial];-48;-18;-45
+5855916;Pseudo-Dragon [Novice];-20;-12;-61
+5866288;Nécrophage Psychophage [Naissant];-99;18;-55
+5860965;Pseudo-Dragon Fanatique [Initial];-48;-4;-61
+5854289;Crasc Maexus Parasitus [Jeune];-13;-11;-72
+5861474;Fumeux de Cinquième Cercle [Initial];-50;-5;-49
+5822680;Behemoth Coriace [Favori];-75;-41;-74
+5862072;Effrit Coriace [Nouveau];-85;-4;-56
+5844620;Mégacéphale [Adulte];-36;-10;-79
+5866938;Capitan [Naissant];-33;-20;-68
+5864118;Squelette [Naissant];-97;-18;-53
+5839077;Petit Nécrophage [Ancien];-95;-38;-46
+5806836;Gowap Apprivoisé [Mature];-99;-45;-75
+5866546;Archiatre Palefroi Infernal [Initial];-94;-16;-64
+5806876;Gowap Apprivoisé [Mature];-24;26;-39
+5833495;Effrit Fustigateur [Vétéran];-34;-35;-72
+5855414;Titan [Jeune];-8;-57;-51
+5821182;Bouj'Dla Placide [Vétéran];-78;-28;-73
+5861091;Pseudo-Dragon [Initial];-49;-10;-55
+5859304;Pseudo-Dragon [Initial];-71;-22;-59
+5842359;Maître Croquemitaine [Ancien];-56;-10;-70
+5866545;Squelette [Naissant];-77;-39;-80
+5852754;Squelette [Récent];-36;-34;-63
+5863502;Diablotin [Initial];-97;-20;-83
+5807265;Gowap Apprivoisé [Mature];-99;-45;-75
+5855063;Fantôme [Récent];-16;-1;-71
+5850601;Barghest [Novice];-49;-61;-68
+5859291;Pseudo-Dragon de Troisième Cercle [Initial];-89;-52;-70
+5864394;Héros Ours-Garou [Nouveau];-81;-59;-46
+5851168;Elémentaire du Chaos [Novice];-78;-14;-50
+5850197;Mégacéphale [Jeune];-67;-24;-86
+5868314;Squelette [Naissant];-64;31;-50
+5852448;Nécrochore Implacable [Récent];-36;-33;-64
+5853458;Cube Gélatineux [Jeune];-77;-49;-65
+5852465;Vampire [Récent];-37;-32;-65
+5859328;Archiatre Pseudo-Dragon [Initial];-40;5;-59
+5815278;Fantôme Corrompu [Séculaire];-11;-11;-73
+5856994;Molosse Satanique [Novice];-26;-60;-51
+5863789;Phoenix Esculape [Nouveau];-73;16;-68
+5857481;Familier [Jeune];-83;-21;-54
+5857892;Essaim Cratérien [Immature];-66;-37;-70
+5861069;Pseudo-Dragon [Initial];-75;-20;-61
+5858561;Palefroi Infernal [Initial];-79;-44;-65
+5857261;Bulette Cogneuse [Jeune];-93;-62;-48
+5865187;Hellrot Ronfleur [Initial];-9;-14;-40
+5868323;Shai Cogneur [Initial];-21;28;-61
+5868286;Xorn de Troisième Cercle [Initial];-84;-51;-47
+5861115;Pseudo-Dragon [Initial];-13;26;-61
+5857359;Carnosaure [Jeune];-80;12;-70
+5854667;Abishaii Vert [Novice];-30;-29;-77
+5854362;Trancheur [Jeune];-37;-5;-85
+5851690;Elémentaire d'Air [Novice];-11;-7;-58
+5846311;Mante Fulcreuse Corrompue [Juvénile];-8;-8;-62
+5813053;Phoenix [Briscard];-55;-20;-68
+5808145;Xorn Cogneur [Majeur];-71;5;-42
+5843153;Héros Golem de Pierre [Adulte];-9;-24;-59
+5809101;Effrit Colossal [Briscard];-33;-48;-77
+5856909;Nécrophage [Récent];-14;-2;-73
+5856082;Veskan du Chaos [Jeune];-51;-61;-39
+5853153;Xorn [Novice];-31;-28;-78
+5847878;Xorn de Premier Cercle [Novice];-87;-33;-40
+5859316;Pseudo-Dragon [Initial];-54;3;-65
+5850179;Maître Spectre [Récent];-26;-51;-52
+5865042;Croquemitaine [Naissant];-75;-42;-79
+5841400;Glouton [Jeune];-93;-33;-60
+5842021;Xorn [Mineur];-45;7;-40
+5833889;Squelette [Ancien];-48;-49;-83
+5843694;Bouj'Dla Placide [Adulte];-28;-5;-79
+5855889;Diablotin [Novice];-38;-61;-57
+5864245;Ectoplasme [Naissant];-78;-49;-80
+5826500;Elémentaire d'Eau [Favori];-98;-12;-44
+5836380;Essaim Cratérien [Juvénile];-51;-23;-70
+5852486;Palefroi Infernal Fanatique [Novice];-29;-31;-78
+5861480;Fumeux de Cinquième Cercle [Initial];-44;-37;-54
+5844592;Essaim Cratérien Ronfleur [Juvénile];-71;-8;-70
+5855427;Effrit [Jeune];-96;-43;-64
+5861629;Grylle Coriace [Nouveau];-82;13;-72
+5867908;Ame-en-peine [Naissante];-78;-22;-75
+5827131;Spectre [Vénérable];-101;-31;-47
+5842956;Elémentaire du Chaos [Mineur];-15;-1;-57
+5841378;Effrit [Adulte];-16;30;-53
+5855854;Pseudo-Dragon Ronfleur [Novice];-98;24;-48
+5848397;Pseudo-Dragon Coriace [Novice];-77;-50;-40
+5863759;Maître Croquemitaine [Naissant];-94;-6;-39
+5859689;Capitan Nécromant [Naissant];-71;-48;-74
+5838724;Squelette Coriace [Ancien];-97;-40;-47
+5808819;Gowap Apprivoisé Enragé [Mature];-69;-41;-70
+5865642;Familier [Nouveau];-18;6;-44
+5855503;Abishaii Vert [Novice];-28;-32;-79
+5840344;Mante Fulcreuse [Juvénile];-26;31;-80
+5856562;Succube [Novice];-26;-58;-51
+5808894;Gowap Apprivoisé Cogneur [Mature];-53;28;-45
+5861948;Barghest [Initial];-11;25;-81
+5825167;Essaim Cratérien [Imago];-67;-37;-70
+5865939;Nécromant Archaïque [Naissant];-41;-62;-74
+5810415;Gowap Apprivoisé Coriace [Mature] Skuffrit;-96;24;-52
+5865494;Crasc Maexus [Nouveau];-78;1;-53
+5842422;Glouton Fouisseur [Jeune];-22;7;-55
+5861495;Fumeux [Initial];-82;-41;-57
+5831429;Essaim Cratérien [Imago];-63;9;-70
+5815158;Vouivre [Briscarde];-77;-41;-77
+5866634;Croquemitaine [Naissant];-96;23;-52
+5850353;Elémentaire du Chaos de Second Cercle [Novice];-40;-60;-61
+5855530;Spectre [Récent];-57;-16;-74
+5866688;Elémentaire d'Air [Initial];-90;-63;-49
+5841779;Archiatre Gritche [Mineur];-14;19;-77
+5809136;Gowap Apprivoisé Malade [Mature];-12;-39;-69
+5852426;Mante Fulcreuse [Immature];-26;11;-64
+5859317;Pseudo-Dragon [Initial];-59;21;-48
+5851356;Carnosaure Corrompu [Jeune];-30;-53;-59
+5865638;Tertre Errant [Nouveau];-38;17;-39
+5858793;Essaim Cratérien [Larve];-67;-37;-70
+5839626;Sorcier Ours-Garou [Adulte];-18;-5;-46
+5839958;Nécrochore Ronfleur [Ancien];-66;18;-74
+5855434;Succube [Novice];-32;-31;-77
+5839583;Effrit [Adulte];-25;-47;-70
+5824777;Ame-en-peine [Vénérable];-13;-13;-74
+5858143;Ombre de Roches [Nouvelle];-27;10;-41
+5861082;Pseudo-Dragon Cogneur [Initial];-60;26;-48
+5814596;Gros Croquemitaine [Séculaire];-10;-13;-74
+5864692;Coccicruelle [Larve];-85;2;-44
+5809560;Gowap Apprivoisé [Mature];-50;0;-50
+5836886;Petit Effrit [Adulte];-10;-32;-57
+5852476;Spectre [Récent];-36;-35;-64
+5809605;Gowap Apprivoisé Cogneur [Mature];-31;-27;-70
+5860468;Bouj'Dla Placide Frénétique [Nouveau];-51;32;-80
+5866483;Petit Carnosaure [Nouveau];-41;24;-62
+5857404;Esprit-Follet [Jeune];-25;-6;-39
+5846417;Chonchon [Adulte];-24;-32;-63
+5865871;Shai [Initial];-17;-26;-65
+5866953;Pseudo-Dragon [Initial];-100;17;-71
+5863279;Coccicruelle [Larve];-41;12;-55
+5830763;Fumeux [Favori];-94;9;-65
+5809823;Gowap Apprivoisé [Mature];-43;-25;-61
+5845320;Chonchon Ronfleur [Adulte];-41;-60;-51
+5842285;Phoenix [Adulte];-85;-49;-79
+5855241;Elémentaire de Feu [Novice];-30;-31;-78
+5853600;Elémentaire de Terre Invocateur [Novice];-27;-61;-51
+5814697;Nécrophage [Séculaire];-12;-10;-73
+5865278;Squelette [Naissant];-72;-44;-73
+5864312;Ectoplasme Nécromant [Naissant];-75;-42;-79
+5864000;Abishaii Rouge [Initial];-70;3;-57
+5830716;Crasc Maexus Parasitus [Vétéran];-26;-45;-80
+5817521;Phoenix [Vétéran];-25;-63;-76
+5852470;Banshee Archaïque [Récente];-39;-34;-62
+5861059;Pseudo-Dragon de Quatrième Cercle [Initial];-100;-8;-46
+5815572;Elémentaire de Terre Corrompu [Favori];-100;-20;-58
+5857342;Tertre Errant Esculape [Jeune];-83;14;-71
+5836843;Squelette [Ancien];-46;-50;-82
+5852301;Pseudo-Dragon [Novice];-15;-62;-54
+5868026;Pititabeille [Larve];-52;-20;-50
+5818448;Bouj'Dla Placide [Vétéran];-15;26;-68
+5857208;Spectre [Récent];-70;-35;-65
+5860986;Pseudo-Dragon [Initial];-11;-28;-60
+5856602;Flagelleur Mental [Jeune];-51;-15;-81
+5864756;Bouj'Dla Fouisseur [Nouveau];-15;-23;-40
+5867548;Essaim Cratérien [Larve];-35;15;-70
+5863545;Pseudo-Dragon [Initial];-57;-35;-74
+5864983;Abishaii Vert [Initial];-24;-54;-64
+5865077;Palefroi Infernal [Initial];-34;-5;-65
+5857006;Xorn [Novice];-32;-55;-55
+5844952;Fantôme [Ancien];-51;-14;-66
+5848465;Pseudo-Dragon Invocateur [Novice];-14;-37;-43
+5866823;Essaim Cratérien Strident [Larve];-36;-51;-70
+5862188;Vouivre [Nouvelle];-84;12;-73
+5862149;Cheval à Dents de Sabre [Bébé];-30;-29;-60
+5844851;Chonchon Frénétique [Adulte];-8;4;-61
+5860722;Pseudo-Dragon [Initial];-13;-47;-63
+5858778;Gritche Coriace [Initial];-73;4;-84
+5832337;Ours-Garou Effrayé [Vétéran];-62;-45;-41
+5861080;Pseudo-Dragon [Initial];-53;-15;-47
+5868324;Feu Follet Frénétique [Nouveau];-90;-37;-42
+5848858;Familier [Doyen];-73;-19;-45
+5852478;Spectre Corrompu [Récent];-37;-34;-64
+5852466;Grosse Banshee [Récente];-39;-32;-64
+5839966;Nécrochore [Ancien];-18;23;-72
+5841657;Ame-en-peine Nécromante [Ancienne];-92;-6;-40
+5860973;Pseudo-Dragon [Initial];-19;-54;-61
+5860423;Mégacéphale Berserker [Nouveau];-74;-22;-79
+5868285;Hellrot de Second Cercle [Initial];-83;-53;-48
+5812130;Phoenix Gargantuesque [Briscard];-13;-51;-70
+5863504;Diablotin [Initial];-91;2;-59
+5857591;Croquemitaine [Récent];-14;-3;-74
+5860806;Pseudo-Dragon [Initial];-91;1;-64
+5863079;Nécrophage [Naissant];-51;-14;-73
+5865995;Zombie [Naissant];-75;-39;-79
+5864895;Abishaii Vert Coriace [Initial];-24;-53;-63
+5868127;Anoploure Purpurin Cogneur [Larve];-98;27;-71
+5839988;Nécrochore Psychophage [Ancien];-9;-25;-85
+5811554;Gowap Apprivoisé Corrompu [Mature];-70;-2;-44
+5855736;Ame-en-peine [Récente];-15;-1;-73
+5859327;Pseudo-Dragon de Quatrième Cercle [Initial];-38;6;-62
+5817910;Essaim Cratérien [Imago];-60;-32;-70
+5860724;Pseudo-Dragon Corrompu [Initial];-18;-15;-64
+5868325;Feu Follet Frénétique [Nouveau];-89;-36;-42
+5855898;Pseudo-Dragon [Novice];-22;31;-64
+5855876;Pseudo-Dragon [Novice];-60;15;-45
+5815048;Phoenix Colossal [Briscard];-55;5;-65
+5820558;Xorn [Favori];-86;-34;-40
+5856663;Nécrophage [Récent];-16;-3;-74
+5852172;Gros Sphinx [Jeune];-77;-56;-58
+5858849;Maître Zombie [Naissant];-48;9;-79
+5866952;Pseudo-Dragon de Troisième Cercle [Initial];-98;-10;-80
+5866419;Squelette [Naissant];-15;0;-74
+5844809;Chevalier du Chaos [Mineur];-22;2;-44
+5868565;Spectre [Naissant];-68;-46;-72
+5815185;Chonchon [Briscard];-22;-50;-65
+5860520;Fantôme [Naissant];-32;-27;-46
+5836860;Bouj'Dla Placide [Adulte];-63;-29;-51
+5835004;Spectre [Ancien];-46;-48;-81
+5856876;Incube Malade [Novice];-24;-59;-52
+5859095;Elémentaire d'Eau [Initial];-82;-53;-42
+5860230;Banshee [Naissante];-79;-39;-46
+5848492;Diablotin [Novice];-23;5;-43
+5812169;Gowap Sauvage [Mature];-63;-36;-70
+5857723;Sorcière [Jeune];-61;-8;-47
+5854351;Trancheur [Jeune];-32;-9;-72
+5867562;Zombie [Naissant];-62;30;-49
+5862665;Titan [Nouveau];-78;-46;-52
+5812235;Gowap Apprivoisé [Mature];-54;-13;-78
+5860217;Marilith [Initiale];-57;11;-69
+5855875;Diablotin [Novice];-75;16;-51
+5848451;Pseudo-Dragon Corrompu [Novice];-22;28;-54
+5861920;Incube Ronfleur [Initial];-30;-58;-39
+5868610;Zombie [Naissant];-44;-59;-76
+5868342;Carnosaure [Nouveau];-68;6;-55
+5859662;Hellrot de Premier Cercle [Initial];-22;-43;-45
+5864334;Effrit Corrompu [Nouveau];-39;-8;-55
+5855334;Archiatre Hellrot [Novice];-26;-61;-51
+5857067;Capitan Nécromant [Récent];-15;-1;-73
+5819824;Gorgone [Vétéran];-75;24;-42
+5865447;Croquemitaine [Naissant];-77;-23;-75
+5866597;Nécrophage [Naissant];-78;-22;-75
+5813512;Petite Bulette [Briscarde];-68;-54;-42
+5812444;Gowap Apprivoisé Coriace [Mature];-52;-16;-55
+5855827;Diablotin [Novice];-99;-22;-65
+5841632;Mohrg Psychophage [Ancien];-75;-28;-70
+5863244;Chonchon Colossal [Nouveau];-48;-47;-59
+5862119;Chonchon Esculape [Nouveau];-48;-48;-59
+5868951;Nécrophage [Naissant];-78;-22;-75
+5860691;Pseudo-Dragon [Initial];-89;-24;-69
+5839957;Nécrochore [Ancien];-65;17;-75
+5837052;Voleur Tigre-Garou [Adulte];-77;-47;-40
+5812707;Gowap Apprivoisé [Mature];-99;-46;-74
+5842799;Effrit Corrompu [Adulte];-10;23;-68
+5833748;Ectoplasme [Vénérable];-46;-51;-84
+5858825;Zombie [Naissant];-15;-3;-74
+5865387;Essaim Cratérien [Larve];-35;15;-70
+5866806;Mégacéphale [Nouveau];-86;23;-74
+5852464;Vampire [Récent];-37;-31;-65
+5814948;Alpha Essaim Cratérien [Développé];-50;-22;-70
+5829574;Essaim Cratérien Lobotomisateur [Imago];-35;-52;-70
+5865104;Crasc Maexus [Nouveau];-97;-45;-64
+5858721;Croquemitaine [Naissant];-15;-2;-73
+5852675;Crasc Maexus Coriace [Jeune];-26;-29;-57
+5852989;Nécrophage [Récent];-60;0;-41
+5868358;Abishaii Rouge [Initial];-82;-34;-45
+5867674;Palefroi Infernal [Initial];-65;-18;-61
+5813032;Gowap Apprivoisé [Mature];-90;-62;-64
+5858390;Spectre [Récent];-15;-1;-73
+5813039;Gowap Apprivoisé [Mature];-71;-44;-70
+5859776;Nécrophage [Naissant];-48;7;-79
+5864450;Ver Carnivore Géant Coriace [Nouveau];-28;28;-39
+5813125;Gowap Apprivoisé Cogneur [Mature];-97;-45;-65
+5860953;Pseudo-Dragon [Initial];-57;-25;-58
+5845779;Effrit [Adulte];-22;-46;-71
+5849689;Bouj'Dla Placide [Jeune];-27;-5;-80
+5821762;Essaim Cratérien [Imago];-67;-38;-70
+5814318;Cheval à Dents de Sabre Enragé [Mature];-11;-7;-59
+5851911;Behemoth [Novice];-42;21;-66
+5841402;Glouton Enragé [Jeune];-92;-31;-60
+5847357;Barghest [Novice];-48;-63;-69
+5852526;Carnosaure Esculape [Jeune];-42;-51;-71
+5862501;Essaim Cratérien [Larve];-59;-33;-70
+5852479;Spectre Corrompu [Récent];-37;-34;-64
+5853538;Géant des Gouffres Guérisseur [Jeune];-53;-28;-62
+5814601;Mouch'oo Majestueux Sauvage Ronfleur [Briscard];-15;-40;-78
+5855448;Chonchon Cracheur [Jeune];-85;2;-66
+5866640;Feu Follet [Nouveau];-35;31;-45
+5853934;Croquemitaine Coriace [Récent];-16;-1;-73
+5866794;Ame-en-peine Corrompue [Naissante];-77;-45;-80
+5852266;Pseudo-Dragon [Novice];-48;-58;-68
+5853677;Shaman Golem d'Argile [Jeune];-9;9;-46
+5866287;Banshee [Naissante];-16;-1;-72
+5858897;Ectoplasme [Naissant];-15;-3;-77
+5865942;Ame-en-peine Médicastre [Naissante];-42;-60;-74
+5854479;Cube Gélatineux Fouisseur [Jeune];-48;-51;-66
+5855040;Abishaii Vert [Novice];-26;-61;-50
+5866364;Nécrophage Médicastre [Naissant];-75;-41;-78
+5864482;Spectre [Naissant];-79;-20;-73
+5866086;Incube de Troisième Cercle [Initial];-24;-53;-64
+5854489;Banshee Mentat [Récente];-37;-32;-64
+5845731;Phoenix [Adulte];-55;-39;-78
+5845781;Effrit [Adulte];-36;-61;-58
+5847858;Phoenix [Jeune];-85;-51;-81
+5839048;Essaim Cratérien [Juvénile];-36;-51;-70
+5836885;Effrit [Adulte];-87;-61;-57
+5863543;Pseudo-Dragon Fanatique [Initial];-67;-51;-69
+5863547;Archiatre Pseudo-Dragon [Initial];-60;-28;-71
+5852663;Tertre Errant [Jeune];-65;10;-40
+5863144;Foudroyeur Soldat [Larve];-52;7;-69
+5849136;Petit Essaim Cratérien [Immature];-63;9;-70
+5868276;Molosse Satanique [Initial];-14;20;-39
+5832304;Feu Follet [Vétéran];-53;-50;-55
+5842362;Croquemitaine [Ancien];-60;1;-45
+5833727;Nécrophage [Vénérable];-47;-49;-81
+5868677;Ame-en-peine [Naissante];-63;33;-48
+5856746;Ectoplasme [Récent];-70;-36;-65
+5867861;Incube Coriace [Initial];-16;18;-42
+5852258;Pseudo-Dragon [Novice];-63;-3;-52
+5863053;Gros Elémentaire du Chaos [Initial];-27;2;-50
+5864476;Ame-en-peine [Naissante];-78;-22;-75
+5843193;Phoenix [Adulte];-43;4;-69
+5853493;Chonchon [Jeune];-92;32;-45
+5848468;Diablotin [Novice];-20;2;-66
+5866950;Pseudo-Dragon [Initial];-100;-38;-78
+5865078;Palefroi Infernal [Initial];-21;-27;-57
+5855892;Pseudo-Dragon Coriace [Novice];-41;-26;-53
+5852458;Vampire Corrompu [Récent];-37;-34;-66
+5864602;Spectre [Naissant];-72;-37;-65
+5814356;Golem d'Argile [Briscard];-69;-27;-42
+5814816;Croquemitaine [Séculaire];-13;-11;-73
+5832586;Essaim Cratérien Soldat [Imago];-66;-38;-70
+5864667;Mante Fulcreuse [Larve];-92;-49;-54
+5865330;Zombie [Naissant];-85;-36;-56
+5845040;Tertre Errant [Adulte];-66;31;-47
+5818089;Golem de Fer [Vétéran];-68;-24;-83
+5831755;Croquemitaine Mentat [Vénérable];-47;-14;-45
+5863521;Gros Pseudo-Dragon [Initial];-76;-62;-67
+5860952;Pseudo-Dragon [Initial];-58;-51;-63
+5863589;Pseudo-Dragon [Initial];-25;-41;-64
+5854364;Trancheur [Jeune];-42;-1;-77
+5868290;Molosse Satanique Ronfleur [Initial];-85;-52;-47
+5814728;Gowap Apprivoisé [Mature];-28;-32;-40
+5833879;Essaim Cratérien [Imago];-34;15;-70
+5846915;Effrit [Jeune];-79;-6;-51
+5867449;Hellrot [Initial];-90;-63;-49
+5833487;Chonchon Fouisseur [Vétéran];-90;-38;-49
+5849867;Sorcière Cogneuse [Jeune];-68;3;-50
+5834692;Elémentaire du Chaos [Favori];-87;-9;-54
+5866985;Pseudo-Dragon de Premier Cercle [Initial];-40;5;-78
+5852453;Nécrochore Médicastre [Récent];-37;-33;-65
+5853612;Familier [Jeune];-58;23;-82
+5817120;Effrit [Vétéran];-96;24;-52
+5852456;Nécrochore Médicastre [Récent];-37;-33;-65
+5855826;Pseudo-Dragon Coriace [Novice];-87;-34;-56
+5860942;Pseudo-Dragon [Initial];-78;-20;-46
+5823787;Essaim Cratérien [Imago];-51;-23;-70
+5860681;Pseudo-Dragon [Initial];-98;-6;-66
+5864061;Nécrophage Psychophage [Naissant];-94;-22;-48
+5839460;Essaim Cratérien [Juvénile];-71;-8;-70
+5841066;Essaim Cratérien [Juvénile];-71;-7;-70
+5864652;Squelette [Naissant];-38;-49;-51
+5844621;Mégacéphale [Adulte];-37;-12;-79
+5866984;Pseudo-Dragon [Initial];-43;-20;-75
+5826017;Ver Carnivore Géant [Vétéran];-11;-56;-42
+5862774;Abishaii Vert de Premier Cercle [Initial];-98;-10;-42
+5843909;Croquemitaine [Ancien];-92;-6;-39
+5819481;Gorgone Cogneuse [Vétéran];-25;-21;-46
+5819723;Phoenix [Vétéran];-49;32;-83
+5850375;Sorcière [Jeune];-98;-8;-48
+5844294;Spectre [Ancien];-57;-18;-73
+5835299;Spectre [Ancien];-48;-51;-82
+5861893;Zombie [Naissant];-21;-5;-47
+5856678;Xorn [Novice];-27;-60;-51
+5867671;Gros Effrit [Nouveau];-53;-31;-51
+5868399;Bouj'Dla Fustigateur [Nouveau];-38;-12;-39
+5867459;Archiatre Elémentaire d'Eau [Initial];-24;-24;-44
+5861918;Squelette Mentat [Naissant];-76;-21;-45
+5865988;Petit Shai [Initial];-88;-7;-52
+5857562;Fantôme [Récent];-15;-1;-73
+5837936;Gros Essaim Cratérien [Juvénile];-59;-33;-70
+5835714;Banshee Mentat [Ancienne];-46;-52;-84
+5861652;Mante Fulcreuse [Larve];-46;10;-60
+5848424;Diablotin Ronfleur [Novice];-58;-13;-67
+5827054;Essaim Cratérien [Imago];-35;15;-70
+5849706;Phoenix [Jeune];-29;-30;-65
+5860703;Pseudo-Dragon Ronfleur [Initial];-58;11;-70
+5856399;Feu Follet [Jeune];-94;-4;-49
+5864515;Nécrophage [Naissant];-75;-42;-79
+5819554;Crasc Maexus Cracheur [Vétéran];-92;-15;-64
+5866445;Ectoplasme [Naissant];-74;-48;-82
+5822299;Spectre [Vénérable];-14;5;-41
+5852474;Banshee [Récente];-41;-34;-63
+5868765;Capitan Cogneur [Naissant];-96;-61;-59
+5852467;Grosse Banshee [Récente];-37;-34;-65
+5845459;Petit Esprit-Follet [Adulte];-96;-26;-42
+5843217;Essaim Cratérien [Juvénile];-59;-32;-70
+5846803;Phoenix [Jeune];-27;-30;-65
+5857343;Tertre Errant [Jeune];-84;13;-72
+5868631;Trancheur [Nouveau];-44;20;-65
+5836379;Essaim Cratérien [Juvénile];-63;9;-70
+5834885;Ver Carnivore Géant Colossal [Adulte];-32;-17;-43
+5834348;Nécrophage [Ancien];-45;-49;-82
+5845005;Chonchon [Adulte];-25;-43;-48
+5864639;Croquemitaine Coriace [Naissant];-79;-37;-49
+5822903;Capitan Coriace [Vénérable];-41;-62;-71
+5860682;Pseudo-Dragon [Initial];-94;20;-69
+5853353;Essaim Cratérien [Immature];-34;14;-70
+5844857;Effrit [Adulte];-23;-56;-65
+5863594;Diablotin [Initial];-21;25;-79
+5861609;Palefroi Infernal [Initial];-57;29;-69
+5835929;Fantôme [Ancien];-48;-47;-81
+5863999;Abishaii Rouge de Quatrième Cercle [Initial];-70;3;-57
+5834803;Ver Carnivore Géant Colossal [Adulte];-75;-50;-39
+5834170;Ectoplasme [Ancien];-49;-51;-83
+5866973;Pseudo-Dragon de Quatrième Cercle [Initial];-53;-17;-80
+5836889;Effrit [Adulte];-38;-54;-60
+5862193;Chonchon Fustigateur [Nouveau];-68;30;-49
+5863016;Cube Gélatineux [Nouveau];-92;-43;-62
+5840287;Mouch'oo Majestueux Sauvage Corrompu [Adulte];-95;-43;-72
+5863755;Squelette Médicastre [Naissant];-71;-46;-74
