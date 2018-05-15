@@ -2,6 +2,9 @@ package org.zoumbox.mountyMonsters.parser;
 
 import java.util.Optional;
 
+/**
+ * La liste des templates connus
+ */
 public enum Templates {
 
     Agressif(1),

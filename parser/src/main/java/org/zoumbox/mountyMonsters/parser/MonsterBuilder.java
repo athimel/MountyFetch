@@ -5,6 +5,9 @@ import com.google.common.collect.Range;
 
 import java.util.Optional;
 
+/**
+ * Chaque méthode de cette classe prend une information incomplète en entrée et essaye de la compléter.
+ */
 public class MonsterBuilder {
 
     protected static ImmutableMonster fromName(String raw) {

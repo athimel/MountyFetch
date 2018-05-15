@@ -2,6 +2,9 @@ package org.zoumbox.mountyMonsters.parser;
 
 import java.util.Optional;
 
+/**
+ * La liste des différentes familles de monstre
+ */
 public enum Families {
 
     Animal,

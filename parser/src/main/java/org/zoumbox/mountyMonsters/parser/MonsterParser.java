@@ -6,6 +6,9 @@ import org.apache.commons.text.StringEscapeUtils;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * Lit et échappe les informations fournies par l'utilisateur (ou MH) et délègue le calcul à {@link MonsterBuilder}
+ */
 public class MonsterParser {
 
     private static final Pattern SP_VUE2_PATTERN = Pattern.compile("([0-9]*);(.*);([-]?[0-9]*);([-]?[0-9]*);([-]?[0-9]*)");
