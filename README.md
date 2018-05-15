@@ -49,3 +49,16 @@ docker run -p 8080:8080 -t -i zoumbox/mounty-monsters-rest
 ### Parsing à partir d'une ligne extraite de Sp_Vue2
 
     http://localhost:8080/mountyMonsters/v1/parse/fromSpVue2Row?row=5864923;Ma%C3%AEtresse%20Ame-en-peine%20[Naissante];-74;-40;-78
+
+
+## Démo
+
+Une instance de démo disponible
+
+### Parsing à partir d'un nom
+
+    http://mounty-monsters.zoumbox.org/v1/parse/fromName?raw=Gowap%20Apprivois%C3%A9%20[Anc%C3%AAtre]
+
+### Parsing à partir d'une ligne extraite de Sp_Vue2
+
+    http://mounty-monsters.zoumbox.org/v1/parse/fromSpVue2Row?row=5864923;Ma%C3%AEtresse%20Ame-en-peine%20[Naissante];-74;-40;-78
