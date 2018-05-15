@@ -1,8 +1,6 @@
 package org.zoumbox.mountyMonsters.rest.v1;
 
-import com.google.common.base.Splitter;
 import org.zoumbox.mountyMonsters.parser.ImmutableMonster;
-import org.zoumbox.mountyMonsters.parser.ImmutablePosition;
 import org.zoumbox.mountyMonsters.parser.MonsterParser;
 
 import javax.ws.rs.GET;
@@ -10,10 +8,9 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
-import java.util.List;
 
 @Path("/v1/parse")
-@Produces(MediaType.APPLICATION_JSON)
+@Produces(MediaType.APPLICATION_JSON + ";charset=utf-8")
 public class ParserService {
 
     @GET

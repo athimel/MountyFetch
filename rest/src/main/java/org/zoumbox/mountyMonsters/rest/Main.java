@@ -25,6 +25,7 @@ public class Main {
                 new GsonProviderOptionsBuilder()
                         .gson(new Gson()) // build custom Gson instance using GsonBuilder methods
                         .addMediaTypes(MediaType.APPLICATION_JSON_TYPE) // specify custom media types
+                        .addMediaTypes(MediaType.APPLICATION_JSON_TYPE.withCharset("utf-8"))
                         .build()) {
         };
         rc.register(provider);
