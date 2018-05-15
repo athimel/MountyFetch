@@ -21,8 +21,7 @@ public class MonsterParser {
      * @return Les informations déduites à propos du monstre
      */
     public static ImmutableMonster fromRawName(String name) {
-        String unescaped = StringEscapeUtils.unescapeHtml4(name);
-        ImmutableMonster result = MonsterBuilder.fromName(unescaped);
+        ImmutableMonster result = MonsterBuilder.fromName(name);
         result = MonsterBuilder.extractTemplate(result);
         result = MonsterBuilder.extractFamilyAndNival(result);
         result = MonsterBuilder.finalizeExtraction(result);

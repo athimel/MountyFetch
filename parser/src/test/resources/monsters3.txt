@@ -1,0 +1,3034 @@
+479472;Gowap Apprivoisé [Ancêtre];-48;-15;-33
+463300;Gowap Apprivoisé [Ancêtre];-32;-36;-44
+471867;Gowap Apprivoisé [Ancêtre];-54;-32;-2
+441933;Gowap Apprivoisé [Ancêtre] Bambi;-3;-5;-31
+491536;Gowap Apprivoisé [Ancêtre] DeKaLoGgo;-28;-86;-31
+565864;Gowap Apprivoisé [Ancêtre];7;-9;-22
+515393;Gowap Apprivoisé [Ancêtre] Bourik;-8;-3;-30
+438937;Gowap Apprivoisé [Ancêtre] KILOPA MALICIA;-15;-70;-34
+669834;Gowap Apprivoisé [Ancêtre];-19;-89;-35
+456897;Gowap Apprivoisé [Ancêtre];-48;1;-33
+455901;Gowap Apprivoisé [Ancêtre];-36;-65;-33
+479473;Gowap Apprivoisé [Ancêtre];-102;-74;-1
+5569547;Gowap Apprivoisé [Ancêtre];-77;0;-22
+437237;Gowap Apprivoisé [Ancêtre] Le Loup;-41;-78;-6
+3159234;Gowap Apprivoisé [Ancêtre];-97;-35;-7
+439229;Gowap Apprivoisé [Ancêtre];-90;-83;-30
+439581;Gowap Apprivoisé [Ancêtre] Couillon;-55;-32;-3
+444582;Gowap Apprivoisé [Ancêtre];-1;-19;-33
+4251499;Gowap Apprivoisé [Ancêtre];-97;-97;-6
+450675;Gowap Apprivoisé [Ancêtre] Propowap;0;-10;-26
+457466;Gowap Apprivoisé [Ancêtre];-20;-12;-37
+451447;Gowap Apprivoisé [Ancêtre];-7;-54;-31
+451302;Gowap Apprivoisé [Ancêtre];-28;-19;-22
+455440;Gowap Apprivoisé [Ancêtre];-37;-21;-5
+452149;Gowap Apprivoisé [Ancêtre];-100;-38;-6
+5958475;Pseudo-Dragon [Supérieur];-99;2;-34
+457851;Gowap Apprivois&eacute; [Ancêtre] Bouricot;-75;-4;-23
+472217;Gowap Apprivoisé [Ancêtre];-76;-61;-30
+459346;Gowap Apprivoisé [Ancêtre] Joe Burns;-58;-27;-39
+461930;Gowap Apprivoisé [Ancêtre] Avec Toutes Ses Mouches;-10;-52;-32
+462240;Gowap Apprivoisé [Ancêtre] Claudus Anas;-16;-7;-37
+463301;Gowap Apprivoisé [Ancêtre];-18;-20;-40
+464952;Gowap Apprivoisé [Ancêtre];-1;-22;-1
+604367;Gowap Apprivoisé [Ancêtre];-38;-30;-1
+482407;Gowap Apprivoisé [Ancêtre] Gowap;-34;-101;-40
+494637;Gowap Apprivoisé [Ancêtre];-7;-55;-32
+495816;Gowap Apprivoisé [Ancêtre];-27;-28;-33
+502171;Gowap Apprivoisé [Ancêtre] La Fusée Bleue;-6;-48;-31
+5897951;Diablotin Ronfleur [Suprême];-75;-83;-17
+504303;Gowap Apprivoisé [Ancêtre];4;-83;-30
+509017;Gowap Apprivoisé [Ancêtre];-28;-56;-22
+513458;Gowap Apprivoisé [Ancêtre] Bidoch;-8;-3;-31
+514805;Gowap Apprivoisé [Ancêtre];-71;-92;-42
+519068;Gowap Apprivoisé [Ancêtre] Le Djinn;-41;-79;-5
+535984;Gowap Apprivoisé [Ancêtre] "Brinx";-19;-87;-32
+548990;Gowap Apprivoisé [Ancêtre] Kasipouass;-35;-28;-29
+531086;Gowap Apprivoisé [Ancêtre];-36;-29;-29
+543033;Gowap Apprivoisé [Ancêtre];-10;-47;-30
+536585;Gowap Apprivoisé [Ancêtre];-100;-37;-6
+555836;Gowap Apprivoisé [Ancêtre];-35;-28;-29
+563591;Gowap Apprivoisé [Ancêtre] Pipo;-23;-76;-29
+547277;Gowap Apprivoisé [Ancêtre];-31;-29;-31
+563241;Gowap Apprivoisé [Ancêtre];-40;-47;-16
+563343;Gowap Apprivoisé [Ancêtre] Frénétique;-84;-45;-33
+571195;Gowap Apprivoisé [Ancêtre] gaga de KOL;-21;-85;-31
+593019;Gowap Apprivoisé [Ancêtre];-27;-29;-31
+6008565;Cockatrice Fouisseuse [Vétéran];-43;-69;-19
+610983;Gowap Apprivoisé [Ancêtre];-57;-121;-33
+603185;Gowap Apprivoisé [Ancêtre] Néoprène;-52;-33;-3
+603843;Gowap Apprivoisé [Ancêtre];-24;-21;-44
+608165;Gowap Apprivoisé [Ancêtre];-38;-31;-29
+615521;Gowap Apprivoisé [Ancêtre];-76;-2;-19
+620617;Gowap Apprivoisé [Ancêtre] Troupal des Justes;-40;-47;-16
+836376;Gowap Apprivoisé [Ancêtre];3;-80;-31
+623387;Gowap Apprivoisé [Ancêtre];-53;-1;-25
+633092;Gowap Apprivoisé [Ancêtre] kokakolak;-28;-78;-31
+631783;Gowap Apprivoisé [Ancêtre] Gowap du Pendragon;-38;-101;-37
+632823;Gowap Apprivoisé [Ancêtre] girafonnet des abimes;-53;2;-31
+637607;Gowap Apprivoisé [Ancêtre] koko de GAL;-24;-82;-31
+644499;Gowap Apprivoisé [Ancêtre] La Louve;-41;-77;-5
+662223;Gowap Apprivoisé [Ancêtre];-19;-87;-32
+655012;Gowap Apprivoisé [Ancêtre];-35;-28;-29
+669141;Gowap Apprivoisé [Ancêtre];-53;2;-31
+664691;Gowap Apprivoisé [Ancêtre];-26;-80;-33
+691277;Gowap Apprivoisé [Ancêtre];-10;-8;-4
+698685;Gowap Apprivoisé [Ancêtre];-20;-30;-5
+719995;Gowap Apprivoisé [Ancêtre];3;3;-32
+767525;Gowap Apprivoisé [Ancien] à anonyme;-35;-28;-29
+772060;Gowap Apprivoisé [Ancêtre];-75;-15;-22
+770511;Gowap Apprivoisé [Ancêtre];-9;-46;-28
+781649;Gowap Apprivoisé [Ancien];-28;-35;-21
+795003;Gowap Apprivoisé [Ancêtre];-31;-52;-17
+796657;Gowap Apprivoisé [Ancien] Moi, Melckior, je m'engage à partir...;-130;-129;-6
+809249;Gowap Apprivoisé [Ancien];-18;-88;-35
+877257;Gowap Apprivoisé [Ancêtre];-57;-34;-34
+853015;Gowap Apprivoisé [Ancêtre];0;-124;-39
+842565;Gowap Apprivoisé [Ancien];-9;-49;-30
+848042;Gowap Apprivoisé [Ancien] L\'Ours est grand;-71;-59;-30
+855130;Gowap Apprivoisé [Ancien] Gowpi;-22;-91;-33
+6038273;Yéti [Nouveau];5;-46;-16
+6027408;Hellrot Cogneur [Novice];-88;0;-38
+870213;Gowap Apprivoisé [Ancêtre];-63;-97;-12
+872126;Gowap Apprivoisé [Ancêtre] KASTWA;-62;-93;-9
+928982;Gowap Apprivoisé [Ancien] Amih Gow;-77;-73;-37
+5977837;Diablotin [Majeur];-57;-19;-30
+901611;Gowap Apprivoisé [Ancêtre];-113;-70;-8
+898931;Gowap Apprivoisé [Ancien];-135;-135;-1
+905445;Gowap Apprivoisé [Ancêtre];-20;-33;-43
+960321;Gowap Apprivoisé [Ancien];-98;-37;-7
+912157;Gowap Apprivoisé [Ancêtre] Lakedogog;-28;-82;-31
+929785;Gowap Apprivoisé [Ancêtre];-58;-27;-39
+944426;Gowap Apprivoisé [Ancêtre];-76;-33;-33
+947506;Gowap Apprivoisé [Ancien] ZimZwap;-70;-82;-6
+953412;Gowap Apprivoisé [Ancien] CéduSol'Hid;-52;-33;-2
+963135;Gowap Apprivoisé [Ancêtre] Eridanos;-87;-61;-13
+993545;Gowap Apprivoisé [Ancien] MILHOUZE VAN HOUTRÕLL;-35;-28;-29
+977077;Gowap Apprivoisé [Ancêtre];-63;-97;-12
+1010961;Gowap Apprivoisé [Ancêtre];-21;-50;-31
+1026227;Gowap Apprivoisé [Ancêtre];-22;-81;-33
+1037871;Gowap Apprivoisé [Ancêtre];-8;-99;-29
+6035555;Frondeur Kobold [Nouveau];3;-98;-5
+1045147;Gowap Apprivoisé [Ancêtre];-83;-38;-28
+1053177;Gowap Apprivoisé [Ancêtre];-33;-29;-28
+1048888;Gowap Apprivoisé [Ancien] Appleton;-36;-101;-37
+1052718;Gowap Apprivoisé [Ancien];-30;-31;-30
+5963026;Spectre [Antique];-40;-84;-33
+1860726;Gowap Apprivoisé [Ancêtre];-44;-78;-5
+1093421;Gowap Apprivoisé [Ancêtre] qu'il ne faut pas taper;-6;-48;-31
+1096407;Gowap Apprivoisé [Ancêtre];-35;-28;-29
+1111541;Gowap Apprivoisé [Ancien] Akala volo;-32;-35;-35
+1122118;Gowap Apprivoisé [Ancêtre];-23;-27;-31
+1143533;Gowap Apprivoisé [Ancêtre];-54;-32;-3
+1207090;Gowap Apprivoisé [Ancêtre];-14;-33;-43
+1145671;Gowap Apprivoisé [Ancien];-20;-30;-5
+1190391;Gowap Apprivoisé [Ancien] Nétoïtõõ;-31;-29;-31
+1169251;Gowap Apprivoisé [Ancêtre];-39;-101;-39
+1177798;Gowap Apprivoisé [Ancêtre];-110;-89;-34
+1181050;Gowap Apprivoisé [Ancêtre];-86;-32;-37
+5941727;Petit Squelette [Ancestral];-79;-93;-12
+2302678;Gowap Apprivoisé [Ancien];-76;-62;-30
+1417552;Gowap Apprivoisé [Ancêtre];-44;-10;-30
+6038087;Elémentaire d'Eau Invocateur [Initial];-28;-5;-43
+2277546;Gowap Sauvage [Ancêtre];-54;-36;-35
+1714410;Gowap Apprivoisé [Ancêtre];-38;-29;-29
+5464371;Gowap Apprivoisé [Ancêtre];-18;-88;-33
+1721907;Gowap Apprivoisé [Ancêtre] Kalogogo;-16;-82;-31
+1344089;Gowap Apprivoisé [Ancêtre];-30;-80;-32
+2100686;Gowap Apprivoisé [Ancêtre];-79;0;-36
+1253444;Gowap Apprivoisé [Ancien] toutérin 3D RetM;-25;-80;-32
+1401969;Gowap Apprivoisé [Ancêtre];-38;-95;-41
+1344090;Gowap Apprivoisé [Ancêtre];-30;-80;-32
+2765283;Gowap Sauvage [Ancien];-58;-49;-31
+1346575;Gowap Apprivoisé [Ancêtre];-27;-28;-32
+1968404;Gowap Apprivoisé [Ancien];-13;-50;-33
+1384504;Gowap Apprivoisé [Ancêtre];-29;-81;-33
+1708065;Gowap Apprivoisé [Ancêtre] LEONIDAS  JC;1;4;-32
+1909722;Gowap Apprivoisé [Ancien] Fidèle de Tagadatroll;-49;-12;-33
+5259216;Gowap Apprivoisé [Ancêtre];-37;-26;-28
+1482087;Gowap Apprivoisé [Ancêtre] Kado de Jos;-39;-95;-38
+1275339;Gowap Apprivoisé [Ancêtre];-59;-65;-38
+2025641;Gowap Apprivoisé [Ancien];5;-40;-28
+1854097;Gowap Apprivoisé [Ancêtre];-16;-20;-44
+1358869;Gowap Apprivoisé [Ancien];-55;-18;-35
+1387451;Gowap Apprivoisé [Ancêtre];-23;-91;-31
+1408226;Gowap Apprivoisé [Ancêtre];-79;-34;-30
+1470238;Gowap Apprivoisé [Ancêtre];-43;-52;-44
+6025468;Veskan du Chaos [Jeune];-9;-7;-39
+1408713;Gowap Apprivoisé [Ancêtre] Farouche;-41;-89;-34
+1411026;Gowap Apprivoisé [Ancien];-100;-91;-32
+5969125;Squelette [Antique];-45;-97;-26
+1493630;Gowap Apprivoisé [Ancêtre];-7;-49;-30
+5975149;Squelette [Séculaire];-72;-68;-19
+5958853;Petite Bulette [Doyenne];-10;0;-42
+1534545;Gowap Apprivoisé [Ancien];-21;-61;-31
+2059900;Gowap Apprivoisé [Ancêtre];-28;-100;-28
+2224150;Gowap Apprivoisé [Ancien];-101;-127;-14
+1370413;Gowap Apprivoisé [Ancêtre];-55;-15;-44
+2036207;Gowap Apprivoisé [Ancêtre] Zébulon;-62;-76;-9
+1364541;Gowap Apprivoisé [Ancien] reze hervé Gali;-57;-1;-11
+1774582;Gowap Apprivoisé [Ancien] Olive;-50;-41;-29
+2080712;Gowap Apprivoisé [Ancêtre];-40;-78;-5
+2216404;Gowap Apprivoisé [Ancêtre];-35;-28;-29
+4116730;Gowap Apprivoisé [Ancêtre] Adooobe;-50;-65;-44
+5958446;Diablotin [Supérieur];-90;-24;-35
+1944773;Gowap Apprivoisé [Ancien];-38;-101;-38
+1907131;Gowap Apprivoisé [Ancêtre];-69;-21;-32
+1526855;Gowap Apprivoisé [Ancien];-59;-123;-33
+1544287;Gowap Apprivoisé [Ancien];-25;-65;-1
+2777013;Gowap Apprivoisé [Ancêtre];3;0;-40
+1740634;Gowap Apprivoisé [Ancêtre];-8;-3;-30
+2144133;Gowap Apprivoisé [Ancien];-91;-7;-35
+1855308;Gowap Apprivoisé [Ancien];-55;-31;-3
+1806448;Kilamo et La Mouche [Légendaire];-9;-38;-6
+2151728;Gowap Apprivoisé [Ancien];-41;-30;-40
+1980485;Gowap Apprivois&eacute; [Ancêtre] FrisQueTte;-91;-88;-43
+2522799;Gowap Apprivoisé [Ancêtre];-8;-43;-27
+1826263;Gowap Apprivoisé [Ancêtre];-3;-5;-27
+1835678;Gowap Apprivoisé [Ancêtre];-53;-32;-2
+6019924;Mouch'oo Sauvage Corrompu [Adulte];-83;-68;-34
+2012005;Gowap Apprivoisé [Ancêtre];-100;-40;-6
+5146935;Gowap Apprivoisé [Ancien];-23;-93;-34
+1897893;Gowap Apprivoisé [Ancêtre];-53;2;-31
+6029540;Golem d'Argile [Jeune];-39;0;-30
+2250187;Gowap Apprivoisé [Ancien];-7;-14;-32
+6029967;Caillouteux [Jeune];-59;-26;-4
+4982710;Gowap Apprivoisé [Ancien];-7;-46;-32
+2404929;Gowap Apprivoisé [Ancêtre] Hibou;-13;-19;-22
+1967973;Gowap Apprivoisé [Ancêtre];-9;-46;-32
+5925239;Caillouteux [Légendaire];-2;-31;-18
+1983622;Gowap Apprivoisé [Ancêtre] KOkol Ag;-26;-86;-31
+1906913;Gowap Apprivoisé [Ancien] kokol Agg;-24;-66;-31
+2151727;Gowap Apprivoisé [Ancien] à réactions lentes;-5;-48;-30
+2358792;Gowap Apprivoisé [Ancêtre];-27;-32;-33
+5242719;Gowap Apprivoisé [Ancien];-22;-50;-36
+2170546;Gowap Apprivoisé [Ancien] Pantagruel aux Bras Ballants;-40;-93;-43
+5289455;Gowap Apprivoisé [Ancêtre];-29;-48;-16
+2019621;Gowap Apprivoisï¿½ [Ancêtre];-74;-5;-28
+2301116;Gowap Apprivoisé [Ancêtre];-53;2;-31
+2385284;Gowap Apprivoisé [Ancêtre];-50;3;-16
+2278133;Gowap Apprivoisé [Ancêtre];-55;-32;-3
+2387890;Gowap Apprivoisé [Ancêtre];-39;2;-27
+6034370;Kobold Malade [Nouveau];-77;-50;-15
+6038209;Sagouin [Bébé];-93;-20;-5
+2699898;Gowap Apprivoisé [Ancêtre];7;-84;-31
+6033002;Rocketeux Effrayé [Nouveau];-20;-18;-10
+2403748;Gowap Apprivoisé [Ancêtre];-8;-40;-4
+6024530;Gargouille Colossale [Jeune];-96;-38;-18
+2507051;Gowap Apprivoisé [Ancêtre];-71;-83;-6
+2895789;Gowap Apprivoisé [Ancien];-12;-65;-8
+3097600;Gowap Apprivoisé [Ancêtre];-14;-57;-31
+2512763;Gowap Apprivoisé [Ancien];-35;-15;-15
+2664004;Gowap Apprivoisé [Ancêtre] Sombre Poil;-3;-51;-33
+2853000;Gowap Apprivoisé [Ancien] Cactée vibrante;-40;-93;-40
+2606458;Gowap Apprivoisé [Ancêtre];-9;-46;-30
+3097601;Gowap Apprivoisé [Ancien] Sociable;-8;-51;-31
+2636255;Gowap Apprivoisé [Ancêtre];-12;-8;-3
+2681863;Gowap Apprivoisé [Ancien];-9;-50;-32
+2849251;Gowap Apprivoisé [Ancêtre];-53;-40;-29
+2850411;Gowap Apprivoisé [Ancêtre];-33;-37;-36
+2945255;Gowap Apprivoisé [Ancêtre];-78;-54;-30
+2818873;Gowap Apprivoisé [Ancien] POLYCARPE  JC;3;1;-32
+3168514;Gowap Apprivoisé [Ancien];-35;-15;-15
+2817802;Gowap Apprivoisé [Ancêtre] HIPPOLYTE  JC;3;1;-34
+5996964;Pseudo-Dragon [Favori];-90;-9;-7
+2797341;Gowap Apprivoisé [Ancêtre];-8;-100;-30
+2998769;Gowap Apprivoisé [Ancien];-23;-80;-32
+2944623;Gowap Apprivoisé [Ancêtre];-80;-54;-30
+2979560;Gowap Apprivoisé [Ancien] Gavroche;-36;-106;-1
+2818209;Gowap Apprivoisé [Ancien] GATINIEN  JC;3;1;-34
+2948832;Golem de cuir [Légendaire] à ne pas frapper;-6;-94;-37
+2887640;Gowap Apprivoisé [Ancêtre];-9;-46;-30
+2894983;Gowap Apprivoisé [Ancien];-29;-46;-16
+6030657;Tubercule Tueur Corrompu [Bébé];-69;-47;-27
+4496203;Gowap Apprivoisé [Ancien];-1;1;-28
+3160246;Gowap Apprivoisé [Ancêtre];-24;-94;-32
+4513552;Gowap Apprivoisé [Ancêtre] Ablette;-129;-130;-30
+3070748;Gowap Apprivoisé [Ancêtre];5;-3;-41
+5975367;Gros Squelette [Séculaire];-5;-63;-13
+2914247;Gowap Apprivoisé [Ancien] Bernardo de Sapetoku;-40;-93;-37
+3071304;Gowap Apprivoisé [Ancien];5;-82;-29
+2949168;Gowap Apprivois&eacute; [Ancêtre] ;-48;-65;-37
+2998126;Gowap Apprivoisé [Ancien];-63;-80;-41
+4117103;Gowap Apprivoisé [Ancêtre] Zebulon;-50;-65;-42
+3175479;Gowap Apprivoisé [Ancêtre];-37;-38;-29
+4342029;Gowap Apprivoisé [Ancêtre];-18;-89;-35
+3052277;Gowap Apprivoisé [Ancien];-10;-51;-32
+5281939;Gowap Apprivoisé [Ancêtre];-60;-1;-11
+3080026;Gowap Apprivoisé [Ancêtre];-28;-32;-44
+3215158;Gowap Apprivoisé [Ancien];5;-82;-29
+3099744;Gowap Apprivoisé [Ancêtre];-59;-82;-1
+3202325;Gowap Apprivoisé [Ancêtre];5;-92;-31
+3311719;Gowap Apprivoisé [Ancien];-33;-10;-37
+5961212;Goblin [Doyen];-88;-65;-15
+3131258;Gowap Apprivoisé [Ancien];-47;-1;-24
+3122160;Gowap Apprivoisé [Ancêtre] à poils aux pattes;-8;-54;-31
+3298175;Gowap Apprivoisé [Ancien];-29;-29;-32
+3174886;Gowap Apprivoisé [Ancêtre] Phydel;-50;-65;-42
+3248891;Gowap Apprivoisé [Ancien];-6;-46;-30
+3220622;Gowap Apprivoisé [Ancien];-27;-79;-31
+3261767;Gowap Apprivoisé [Ancien];-25;-65;-1
+4937347;Gowap Apprivoisé [Ancien];-77;0;-22
+5412011;Gowap Apprivoisé [Ancêtre];-36;-21;-5
+3171555;Gowap Apprivoisé [Ancêtre];-28;-96;-28
+3299565;Gowap Apprivoisé [Ancien];-27;-14;-18
+5489963;Diablotin [Suprême];-17;-63;-10
+4247250;Gowap Apprivoisé [Ancêtre];-94;-7;-38
+3151170;Gowap Apprivoisé [Ancêtre];-58;-50;-31
+5464065;Gowap Apprivoisé [Ancien];-24;-94;-31
+3203426;Gowap Apprivoisé [Ancien];-18;-91;-23
+3200394;Gowap Apprivoisé [Ancêtre];-28;-79;-30
+3192194;Gowap Apprivoisé [Ancêtre];-56;-19;-25
+3318858;Gowap Apprivoisé [Ancêtre];-54;-8;-11
+4278000;Gowap Sauvage [Ancien];-46;-55;-39
+3260876;Gowap Apprivoisé [Ancien] Bouriko veut bouger, Calynea, aide-moi..;-130;-128;-6
+3228400;Gowap Apprivoisé [Ancêtre];-69;-16;-30
+3229107;Gowap Apprivoisé [Ancien];-69;-16;-30
+3259307;Gowap Apprivoisé [Ancêtre];-46;-55;-39
+5044241;Nâ-Hàniym-Hééé [Antique] Fidèle de Tagadatroll;-49;-12;-33
+4454910;Gowap Apprivoisé [Ancien];-55;-34;-3
+5020445;Gowap Apprivoisé [Ancien] Jolly Jumper;-56;-75;-34
+4326085;Gowap Apprivoisé [Ancêtre] Zephyr;-50;-65;-44
+3298435;Gowap Apprivoisé [Ancêtre];-32;-30;-31
+3292538;Gowap Apprivoisé [Ancêtre];-8;-99;-30
+3268730;Gowap Apprivoisé [Ancien];-22;-58;-14
+4498693;Gowap Apprivoisé [Ancêtre];-8;-41;-3
+3268731;Gowap Apprivoisé [Ancien];-22;-58;-14
+3268426;Gowap Apprivoisé [Ancêtre];-48;-58;-25
+4690419;Gowap Apprivoisé [Ancien];-43;1;-27
+4272284;Gowap Apprivoisé [Ancien];-26;-11;-19
+4005377;Gowap Apprivoisé [Ancêtre] Viserion;-39;-95;-38
+3303709;Gowap Apprivoisé [Ancêtre];-5;-5;-27
+3314954;Gowap Apprivoisé [Ancêtre];-48;-99;-23
+4029149;Gowap Apprivoisé [Ancêtre];-3;-11;-41
+3298144;Gowap Apprivoisé [Ancêtre];-88;-73;-42
+5999801;Prince Pseudo-Dragon [Favori];-94;-35;-20
+6029485;Veskan du Chaos [Jeune];-12;-5;-39
+4076352;Gowap Apprivoisé [Ancien];-100;-92;-33
+6012935;Gnoll Effrayé [Adulte];-48;-27;-20
+5996965;Diablotin [Favori];-90;-32;-16
+4521018;Gowap Apprivoisé [Ancêtre];-53;2;-31
+5184566;Gnu Domestique Ronfleur [Ancien];-99;-74;-20
+4226757;Gowap Apprivoisé [Ancien] Dizygote The Blues;-40;-93;-34
+4128506;Gowap Apprivoisé [Ancêtre];-24;-32;-36
+5969699;Zombie [Antique];-98;-67;-17
+4423172;Gowap Apprivoisé [Ancêtre];-24;-94;-31
+4101483;Gowap Apprivoisé [Ancêtre] HEPTA  JC;3;1;-32
+4080525;Gowap Apprivoisé [Ancêtre];-55;-32;-3
+4270071;Gowap Apprivoisé [Ancêtre];-10;-64;-10
+4070568;Gowap Apprivoisé [Ancêtre];5;-82;-29
+4509027;Gowap Apprivoisé [Ancêtre];-22;-22;-44
+4108248;Gowap Apprivoisé [Ancien];-19;-28;-5
+4219668;Gowap Apprivoisé [Ancêtre];-9;-40;-3
+4117595;Gowap Apprivoisé [Ancêtre] Flinch;-50;-65;-42
+4511299;Golem de métal [Légendaire] propriété de Kylmor;-20;-42;-21
+4102784;Gowap Apprivoisé [Ancien] SIXTE  JC;1;3;-32
+4247591;Gowap Apprivoisé [Ancien];-27;-95;-28
+5994830;Mimique [Briscard];-78;-62;-41
+5997027;Diablotin [Favori];-35;-61;-30
+4256128;Gowap Apprivoisé [Ancien];-6;-73;-43
+4246301;Gowap Apprivoisé [Ancien];-27;-3;-24
+4247249;Gowap Apprivoisé [Ancêtre];-42;-14;-34
+4523326;Gowap Apprivoisé [Ancêtre];-58;-3;-11
+4521735;Gowap Apprivoisé [Ancêtre];-53;2;-31
+4207011;Gowap Apprivoisé [Ancêtre];-54;-32;-2
+4224650;Gowap Apprivoisé [Ancêtre];-36;-31;-29
+4696868;Gowap Apprivoisé [Ancêtre];-55;-4;-39
+4373548;Gowap Apprivoisé [Ancien];-50;-65;-44
+4343095;Gowap Apprivoisé [Ancêtre];-53;3;-31
+4800954;Gowap Apprivoisé [Ancêtre];-100;-92;-33
+4247708;Gowap Apprivoisé [Ancêtre];-130;-130;-31
+4310229;Gowap Apprivoisé [Ancien];-20;-33;-43
+4324967;Gowap Apprivoisé [Ancêtre];-94;-95;-42
+4224880;Gowap Apprivoisé [Ancêtre];-42;-92;-42
+4165246;Gowap Apprivoisé [Ancêtre];-8;-40;-4
+4423922;Gowap Apprivoisé [Ancêtre];-24;-94;-31
+6002416;Elémentaire d'Eau Fanatique [Favori];-94;-3;-39
+4458309;Gowap Apprivoisé [Ancêtre] Béliérophore Sacré;-29;-30;-31
+4453727;Gowap Apprivoisé [Ancêtre];-53;-17;-35
+4371556;Gowap Apprivoisé [Ancêtre];-2;-69;-15
+6036194;Sorcière [Nouvelle];-13;-33;-39
+4326712;Gowap Apprivoisé [Ancien];-27;-101;-33
+4309988;Gowap Apprivoisé [Ancien];-20;-33;-43
+6036965;Chimère [Nouvelle];-70;1;-22
+4273084;Gowap Apprivoisé [Ancien];-7;-42;-3
+4247436;Gowap Apprivoisé [Ancêtre];-38;-30;-31
+4246726;Gowap Apprivoisé [Ancêtre];-37;-30;-28
+4326718;Gowap Apprivoisé [Ancien];-24;-94;-31
+4326287;Gowap Apprivoisé [Ancêtre] Tayoooo;-50;-65;-42
+4326286;Gowap Apprivoisé [Ancêtre] Alizée;-50;-65;-42
+4837267;Gowap Apprivoisé [Ancêtre];-17;-100;-30
+4522159;Gowap Apprivoisé [Ancêtre];-53;2;-31
+4322475;Gowap Apprivoisé [Ancêtre];-58;-1;-11
+4271951;Gowap Apprivoisé [Ancêtre];-25;-10;-16
+4328245;Gowap Apprivoisé [Ancien];-24;-94;-33
+4542775;Gowap Apprivoisé [Ancêtre] à l'air de rien;-2;-48;-31
+4326567;Gowap Apprivoisé [Ancêtre] Buzzzz;-50;-65;-42
+6034014;Erinyes [Initiale];-34;-32;-13
+6034017;Erinyes [Initiale];-11;-1;-11
+6024519;Scout Golem de Chair [Adulte];2;-23;-19
+4325692;Gowap Apprivoisé [Ancêtre] Fizzzz;-50;-65;-42
+5404932;Gowap Apprivoisé [Ancien];-23;-22;-32
+4341319;Gowap Apprivoisé [Ancêtre];-6;-48;-31
+6026009;Araignée Géante [Immature];-100;-96;-8
+4449464;Gowap Apprivoisé [Ancêtre];-56;-4;-11
+5142991;Gowap Apprivoisé [Ancêtre];-9;-46;-30
+6033220;Ver Carnivore Géant [Nouveau];-4;-36;-19
+6035691;Grosse Pititabeille [Larve];-87;2;-5
+4521281;Gowap Apprivoisé [Ancêtre];-53;2;-31
+5080868;Gowap Apprivoisé [Ancien];-33;-29;-30
+4580209;Gowap Apprivoisé [Ancêtre] HERCULE  JC;0;3;-30
+5969704;Gowap Apprivoisé [Chef de harde];-97;-96;-6
+4488839;Gowap Apprivoisé [Ancêtre];-27;-28;-33
+4508280;Gowap Apprivoisé [Ancêtre];-22;-22;-44
+4493937;Gowap Apprivoisé [Ancien];-84;-40;-28
+6025138;Gorgone [Jeune];-75;-100;-24
+6026772;Rat-Garou [Jeune];-77;-32;-14
+4539480;Gowap Apprivoisé [Ancien];-9;-40;-3
+4985518;Gowap Apprivoisé [Ancêtre] Philthy;-45;-22;-39
+4778841;Gowap Apprivoisé [Ancêtre];-11;-7;-4
+4722877;Gowap Apprivoisé [Ancien] BATES  JC;4;2;-33
+5912056;Pseudo-Dragon [Suprême];-2;-90;-12
+4953098;Gowap Apprivoisé [Ancêtre];1;-6;-28
+4709055;Gowap Apprivoisé [Ancêtre];-49;-15;-33
+4721154;Gowap Apprivoisé [Ancien];1;-43;-36
+5480289;Gowap Apprivoisé [Ancêtre];-51;-35;-31
+4834806;Gowap Apprivoisé [Ancien];0;0;-30
+4643881;Gowap Apprivoisé [Ancêtre];-51;-36;-30
+4746373;Gowap Apprivoisé [Ancêtre];-48;-99;-22
+4644178;Gowap Apprivoisé [Ancien] Sushi;-51;-17;-35
+4723630;Gowap Apprivoisé [Ancêtre] AQUILINO  JC;1;3;-32
+4951039;Gowap Apprivoisé [Ancien] Boule de Poils;2;3;-33
+6032850;Worg [Nouveau];-16;-55;-19
+5963751;Scarabée Géant Morticole [Mûr];-31;-89;-24
+6038585;Sorcière Ronfleuse [Nouvelle];-71;-73;-33
+6038596;Worg Coriace [Nouveau];4;-90;-25
+4672563;Gowap Apprivoisé [Ancien] Viserion;-39;-95;-38
+4683089;Gowap Apprivoisé [Ancien];-25;-100;-30
+4652740;Gowap Apprivoisé [Ancêtre];-16;-62;-28
+4568147;Gowap Apprivoisé [Ancêtre] KARL GUSTAV  JC;3;1;-32
+4580206;Gowap Apprivoisé [Ancêtre] DIANE  JC;2;3;-34
+5659170;Gowap Apprivoisé [Ancien];-5;-48;-31
+4653659;Gowap Apprivoisé [Ancêtre];-23;-91;-31
+5231969;Gowap Apprivoisé [Ancêtre];-12;-8;-3
+4723631;Gowap Apprivoisé [Ancêtre] BESICLES  JC;1;3;-32
+5996316;Spectre Cogneur [Vénérable];-69;-4;-41
+6038356;Momie [Naissante];-46;0;-7
+4749138;Rat Géant Cogneur [Ancien];-83;-98;-14
+4992321;Gowap Sauvage [Ancêtre];-39;-79;-6
+6029811;Petit Yuan-ti [Jeune];-83;-91;-25
+6033199;Golem de Chair Fou [Nouveau];-86;-50;-23
+6038631;Nuage d'Insectes [Larve];6;-7;-10
+6026767;Tigre-Garou [Jeune];-63;-11;-29
+5253590;Gowap Apprivoisé [Ancêtre];-44;-77;-5
+6038884;Grand Frondeur Caillouteux [Nouveau];-60;-27;-4
+4740074;Gowap Apprivoisé [Ancêtre];-2;-83;-31
+4672564;Gowap Apprivoisé [Ancêtre];-39;-95;-37
+4677105;Gowap Apprivoisé [Ancêtre];-2;-69;-15
+6029950;Caillouteux [Jeune];-68;-61;-11
+6029946;Caillouteux [Jeune];3;-47;-15
+5134630;Gowap Apprivoisé [Ancêtre];-97;-96;-6
+6025544;Croquemitaine [Récent];-21;-24;-8
+4668390;Gowap Apprivoisé [Ancien] P\'tit Poulet;-12;-64;-8
+4778361;Gowap Apprivoisé [Ancêtre];-27;-28;-31
+5018072;Gowap Apprivoisé [Ancêtre];-98;-94;-6
+4642935;Gowap Apprivoisé [Ancien];-52;-37;-36
+4935242;Gowap Apprivoisé [Ancien];-77;0;-21
+4802088;Gowap Apprivoisé [Ancien];-55;-30;-2
+6036735;Crasc Médius Parasitus [Nouveau];-94;-95;-41
+5085195;Gowap Apprivoisé [Ancêtre];-95;-81;-39
+4723502;Gowap Apprivoisé [Ancêtre] DAPHNE  JC;1;1;-29
+6030295;Strige [Immature];-60;-27;-5
+5996944;Pseudo-Dragon de Premier Cercle [Favori];-69;-38;-40
+5800456;Gowap Apprivoisé Coriace [Ancien];-24;-81;-32
+5977856;Pseudo-Dragon de Premier Cercle [Majeur];-69;-96;-11
+4702371;Gowap Apprivoisé [Ancêtre];-74;-6;-25
+6005024;Gros Zombie [Vénérable];-53;0;-12
+5010133;Nâ-Hàniym-Hééé [Ancestral] Création trollesque;-48;-12;-33
+4938893;Gowap Apprivoisé [Ancien];-77;2;-22
+4932988;Gowap Apprivoisé [Ancien];-10;-43;-31
+6015647;Croquemitaine Cogneur [Ancien];-81;-46;-19
+5178077;Gowap Apprivoisé [Ancêtre];-76;-61;-30
+6008509;Cockatrice [Vétéran];-97;-18;-13
+5969873;Squelette [Antique];-69;-87;-11
+5209910;Gowap Apprivoisé [Ancien];-131;-130;-30
+5180173;Gowap Apprivoisé [Ancien];-52;-17;-35
+4908483;Gowap Apprivoisé [Ancêtre];-8;-2;-39
+6015318;Amibe Géante [Adulte];-6;-28;-18
+6037882;Rocketeux Cogneur [Nouveau];-36;-82;-12
+5986076;Goblin [Briscard];-77;-84;-15
+4836411;Gowap Apprivoisé [Ancien] des Adorateurs du Poisson d'Avril;-133;-77;-1
+6022375;Squelette [Récent];-83;-1;-10
+5981272;Zombie Médicastre [Séculaire];-57;-78;-25
+5479771;Gowap Apprivoisé [Ancien];5;2;-1
+6019928;Gowap Apprivois&eacute; [Jeune];-32;-22;-23
+6014299;Bouj'Dla [Adulte];-67;-82;-37
+5991707;Zombie [Séculaire];-53;-72;-19
+5806437;Gowap Sauvage Enragé [Ancien];-129;-130;-3
+6032556;Bouj'Dla [Nouveau];3;0;-39
+5969549;Zombie [Antique];-97;-67;-14
+6023686;Squelette [Récent];-56;-76;-11
+5949461;Mimique [Doyen];-53;-64;-12
+5123921;Gowap Apprivoisé [Ancêtre];-11;-65;-8
+5259217;Gowap Apprivoisé [Ancêtre];-53;-8;-10
+6034166;Glouton [Bébé];-3;-48;-44
+5192082;Gowap Apprivoisé [Ancien];-49;-19;-33
+4932906;Gowap Apprivoisé [Ancêtre];-28;-79;-30
+6006109;Ver Carnivore Géant [Vétéran];-34;-57;-27
+6036295;Cockatrice [Nouvelle];0;-67;-10
+4898236;Gowap Apprivoisé [Ancêtre];-54;-32;-3
+6037295;Méduse [Nouvelle];-1;-34;-9
+5602145;Familier [Mythique];-91;-88;-42
+6037177;Elémentaire d'Eau Cogneur [Initial];-52;-11;-38
+5296121;Gowap Apprivoisé [Ancêtre] Gow Rit Yeux;-48;-65;-37
+6032360;Fungus Géant [Nouveau];-41;-13;-18
+6033973;Croquemitaine [Naissant];-85;-16;-6
+5587139;Gowap Apprivoisé [Ancêtre];-8;-52;-22
+6025778;Spectre [Récent];-56;-16;-43
+4954961;Gowap Apprivoisé [Ancien];-43;-77;-6
+5800107;Gowap Apprivoisé Ronfleur [Ancien];-31;-45;-29
+4857680;Gowap Apprivoisé [Ancêtre];-49;-15;-33
+5636606;Gowap Apprivoisé [Ancêtre];-51;-1;-24
+5209912;Gowap Apprivoisé [Ancêtre];-132;-131;-32
+6014045;Pseudo-Dragon [Mineur];-75;-87;-19
+4971325;Gowap Apprivoisé [Ancêtre];3;-80;-31
+5401028;Gowap Apprivoisé [Ancien];-86;-23;-25
+5287970;Gowap Apprivoisé [Ancêtre];-23;-92;-35
+5479735;Gowap Apprivoisé [Ancien];-9;-40;-3
+5962518;Pseudo-Dragon [Supérieur];-97;-3;-25
+5251824;Gowap Apprivoisé [Ancêtre];-35;-30;-27
+4873117;Gowap Apprivoisé [Ancêtre];-21;-57;-24
+6008609;Diablotin [Favori];-88;-16;-25
+4901395;Gowap Apprivoisé [Ancêtre];-41;-93;-36
+6007194;Tubercule Tueur [Adulte];-63;-34;-27
+5393403;Gowap Apprivoisé [Ancêtre];-86;-24;-24
+5514872;Gowap Apprivoisé [Ancien];-30;-18;-36
+6025629;Lutin [Jeune];-44;-66;-24
+6006829;Limace Géante [Imago];-78;-22;-32
+5798877;Gowap Apprivoisé Cogneur [Ancien];-29;-79;-32
+6032217;Yéti [Nouveau];-77;-13;-13
+6038694;Crasc Médius [Nouveau];0;-1;-32
+6038470;Gros Boggart [Nouveau];-67;-36;-4
+6037046;Bouj'Dla [Nouveau];-81;-32;-35
+5455088;Gowap Apprivoisé [Ancêtre];-38;-30;-31
+4938894;Gowap Apprivoisé [Ancêtre];-75;0;-20
+5991134;Pseudo-Dragon [Majeur];-27;-73;-8
+6021506;Ver Carnivore Géant [Adulte];-99;-50;-31
+6013176;Sorcier Minotaure [Adulte];-89;-77;-14
+6017596;Lézard Géant [Adulte];-18;-16;-15
+5251062;Poisson Rouge;-25;-100;-30
+5111236;Gowap Apprivoisé [Ancêtre];-52;-71;-43
+5949977;Nécrophage [Antique];-79;-96;-29
+5478109;Gowap Apprivoisé [Ancêtre];-58;-3;-11
+6020179;Pseudo-Dragon de Second Cercle [Mineur];-72;-1;-22
+4964145;Gowap Apprivoisé [Ancien];-31;-45;-30
+4908704;Gowap Apprivoisé [Ancêtre];-8;-6;-40
+5084792;Gowap Apprivoisé [Ancêtre];-98;-80;-39
+5966309;Pseudo-Dragon [Supérieur];-76;-85;-17
+6024060;Elémentaire d'Eau [Novice];-22;-63;-40
+6017006;Diablotin Malade [Mineur];-95;2;-35
+6022585;Ver Carnivore Géant [Jeune];-43;-42;-42
+4932989;Gowap Apprivoisé [Ancien];-10;-43;-31
+6034641;Golem d'Argile [Nouveau];-78;-92;-31
+5953098;Gowap Apprivoisé [Chef de harde];-23;-81;-33
+6037674;Ours-Garou [Nouveau];-90;-103;-41
+6034340;Ettin [Nouveau];-10;-28;-12
+5933285;Pseudo-Dragon [Suprême];-31;-72;-10
+5805386;Gowap Sauvage Malade [Ancien];-132;-128;-11
+5962640;Cockatrice Corrompue [Doyenne];-97;-46;-19
+5906879;Squelette [Ancestral];-97;-59;-16
+5809805;Gowap Apprivoisé Cogneur [Ancien];-40;-47;-17
+6038943;Abishaii Bleu Corrompu [Initial];-41;-41;-42
+6026055;Pseudo-Dragon [Novice];-70;-20;-26
+6038905;Caillouteux [Nouveau];-40;-54;-4
+6027499;Gorgone [Jeune];-40;-16;-28
+6027496;Esprit-Follet [Jeune];-65;-82;-32
+6035062;Manticore Gargantuesque [Nouvelle];-62;-20;-25
+6028639;Xorn de Troisième Cercle [Novice];-5;-73;-38
+6028885;Prince Pseudo-Dragon [Novice];-77;-66;-41
+6036980;Fungus Violet Fouisseur [Nouveau];-54;-35;-7
+6029601;Kobold Agressif [Jeune];-58;-18;-4
+5977813;Diablotin Cogneur [Majeur];-71;-19;-17
+5958473;Pseudo-Dragon de Troisième Cercle [Supérieur];-84;-28;-15
+5970709;Squelette [Antique];-41;-87;-8
+5288388;Gowap Apprivoisé [Ancêtre];-48;-99;-23
+6037281;Mille-Pattes Géant [Larve];-14;-100;-32
+5916814;Caillouteux [Légendaire];-68;-91;-13
+6014049;Pseudo-Dragon [Mineur];-90;-6;-29
+6038972;Chimère Traqueuse [Nouvelle];-89;-70;-32
+6017133;Pseudo-Dragon [Mineur];4;-51;-38
+5739338;Gowap Apprivoisé [Ancien];-26;-15;-17
+5976715;Golem de Chair [Briscard];-94;-6;-34
+6020189;Pseudo-Dragon [Mineur];-57;-57;-34
+6036942;Chimère [Nouvelle];-62;-26;-27
+5996957;Diablotin [Favori];-53;-94;-27
+5958494;Gros Diablotin [Supérieur];-100;-32;-15
+5958468;Diablotin Coriace [Supérieur];-68;-51;-25
+6028899;Pseudo-Dragon de Second Cercle [Novice];-24;-14;-44
+6033470;Gros Gremlins [Nouveau];-11;-36;-15
+6033523;Tertre Errant Cracheur [Nouveau];-68;-62;-42
+6032798;Basilisk [Nouveau];-57;-25;-22
+6027187;Minotaure Effrayé [Jeune];-40;-31;-15
+6037833;Héros Orque [Nouveau];-49;-84;-12
+6002574;Pseudo-Dragon Cogneur [Favori];-77;-43;-37
+6032576;Bouj'Dla Placide Cracheur [Nouveau];-38;-30;-31
+6032566;Bouj'Dla Placide Esculape [Jeune];-29;-26;-33
+6029341;Nécrophage Cogneur [Récent];-12;-36;-25
+6011300;Pseudo-Dragon [Mineur];-70;-45;-27
+6031074;Nuage d'Insectes [Larve];-85;-18;-13
+6033496;Glouton [Bébé];-57;-71;-39
+6037119;Petit Tigre-Garou [Nouveau];-17;-41;-34
+5970476;Petit Pseudo-Dragon [Supérieur];-27;-71;-10
+5980882;Pseudo-Dragon [Majeur];-81;-12;-28
+6030917;Glouton Corrompu [Bébé];-15;-11;-39
+6038646;Lézard Géant [Nouveau];-86;-72;-8
+5980857;Anaconda des Catacombes Cogneur [Briscard];-54;-70;-23
+6033932;Champi-Glouton [Nouveau];-14;-89;-5
+5629374;Gowap Apprivoisé [Ancêtre];-133;-133;-1
+5805380;Gowap Sauvage Malade [Ancien];-130;-133;-5
+6008204;Homme-Lézard [Vétéran];-79;-36;-8
+6002617;Gros Diablotin [Favori];-40;-84;-18
+6033129;Crasc Parasitus [Nouveau];-137;-17;-26
+5966985;Squelette [Antique];-62;-93;-15
+6032867;Scout Lutin [Nouveau];-28;-95;-16
+5999782;Naga [Vétéran];-32;-92;-36
+5908346;Pseudo-Dragon [Suprême];-80;-90;-29
+6037112;Guerrier Tigre-Garou [Nouveau];-66;-77;-37
+6030741;Ogre [Jeune];-89;3;-13
+5908218;Worg Cogneur [Légendaire];-134;-134;-8
+6029590;Lézard Géant Traqueur [Jeune];-39;-16;-17
+5771330;Gowap Apprivoisé [Ancien];-25;-81;-31
+5876307;Squelette Implacable [Ancestral];-1;-72;-19
+5564228;Gowap Apprivoisé [Ancien];-5;-48;-33
+6036336;Scorpion Géant [Larve];-20;-74;-21
+6025632;Slaad Gargantuesque [Jeune];-10;-100;-27
+6037846;Amibe Gigantesque [Nouvelle];-85;-95;-18
+6035930;Manticore Malade [Nouvelle];-7;-61;-15
+5910068;Squelette [Ancestral];-72;-73;-13
+6025809;Tubercule Tueur [Enfançon];-91;-30;-28
+6038387;Crasc parasitus [Nouveau];-54;-4;-29
+6034011;Erinyes [Initiale];-33;-32;-14
+6015083;Scarabée Géant [Juvénile];-7;-58;-22
+6035373;Crasc Malade [Nouveau];-21;-24;-8
+6038641;Mouch'oo Sauvage Fouisseur [Nouveau];-72;-6;-24
+6037732;Spectre Archaïque [Naissant];-33;-90;-30
+5806292;Gowap Apprivoisé Corrompu [Ancien];-51;-36;-31
+5881692;Zombie [Ancestral];-51;-82;-21
+5960883;Slaad Malade [Doyen];-132;-133;-5
+6038965;Abishaii Vert Corrompu [Initial];-55;-51;-39
+6038944;Petit Abishaii Bleu [Initial];-39;-42;-42
+6024428;Lézard Géant [Jeune];-71;-5;-25
+6024494;Crasc Traqueur [Jeune];-115;-96;-30
+5994485;Ver Carnivore Géant [Briscard];-32;-5;-37
+6027450;Veskan du Chaos [Jeune];-9;-3;-39
+5805384;Gowap Apprivoisé Cogneur [Ancien];-29;-79;-32
+6012930;Shaman Gnoll [Adulte];-55;-58;-27
+6030391;Scarabée Géant [Larve];-31;-18;-19
+6020175;Pseudo-Dragon des Abysses [Mineur];-71;-93;-30
+5799761;Gowap Sauvage Enragé [Ancien];-132;-133;-7
+6030703;Frondeur Ettin [Nouveau];-23;-1;-44
+5949473;Mimique [Doyen];-39;-55;-12
+6023826;Squelette Implacable [Récent];-64;-83;-24
+6036610;Manticore [Nouvelle];-52;-2;-29
+5599211;Gowap Apprivoisé [Ancien];-9;-52;-31
+6038358;Momie [Naissante];-49;-41;-6
+6006143;Champi-Glouton [Vétéran];-40;3;-43
+6033603;Ectoplasme Mentat [Naissant];-11;-70;-40
+5813698;Gowap Apprivoisé Cogneur [Ancien];-24;-94;-33
+6027765;Scorpion Géant [Immature];-8;-70;-17
+5954660;Pseudo-Dragon [Supérieur];-26;-90;-29
+6036377;Méduse [Nouvelle];-7;-35;-11
+5968842;Squelette [Antique];-100;-65;-20
+6037762;Ours-Garou Berserker [Nouveau];-66;-67;-41
+5818397;Rocketeux [Légendaire];-63;-78;-37
+5812376;Gowap Apprivoisé Cogneur [Ancien];-130;-128;-18
+6029249;Ver Carnivore Géant [Jeune];-69;-73;-22
+5863609;Pseudo-Dragon de Quatrième Cercle [Suprême];-74;-85;-7
+5996961;Diablotin [Favori];-88;-39;-19
+6033370;Raquettou [Nouveau];-23;-81;-2
+5985601;Petit Pseudo-Dragon [Majeur];-44;-68;-20
+6002047;Kobold Effrayé [Vétéran];-73;-23;-5
+6038908;Héros Caillouteux [Nouveau];-30;-45;-4
+5947519;Diablotin [Supérieur];-68;-62;-14
+5991102;Pseudo-Dragon [Majeur];-69;-91;-22
+5946243;Kobold [Doyen];-66;-91;-21
+6030782;Lutin Corrompu [Nouveau];-33;-26;-15
+5583002;Gowap Apprivoisé [Ancien];-30;-14;-16
+6033003;Rocketeux Ronfleur [Nouveau];-21;-24;-8
+6036461;Hellrot [Initial];-97;-53;-33
+5770696;Gowap Apprivoisé [Ancien];-23;-84;-33
+6033130;Crasc [Nouveau];-137;-16;-26
+6033720;Worg [Nouveau];-45;-32;-21
+6013005;Zombie [Ancien];-19;-80;-5
+5799584;Gowap Apprivoisé [Ancien];-84;-40;-28
+6032575;Bouj'Dla Placide [Nouveau];-37;-25;-30
+5898015;Diablotin [Suprême];-42;-47;-26
+6035879;Amibe Géante Cogneuse [Nouvelle];-14;-38;-24
+6035883;Spectre [Naissant];-64;-70;-33
+5969519;Squelette [Antique];-61;-93;-15
+6038430;Crasc [Nouveau];-72;-70;-30
+5687700;Diablotin [Suprême];-75;-41;-14
+6028984;Zombie [Récent];-67;-25;-18
+6012312;Tigre-Garou Cogneur [Adulte];-29;-50;-43
+5947566;Pseudo-Dragon des Abysses [Supérieur];-63;-37;-32
+5667262;Gowap Apprivoisé [Ancien];-8;-47;-28
+6015360;Frondeur Rocketeux [Adulte];-51;-79;-16
+6004844;Hurleur Cogneur [Vétéran];-128;-131;-30
+6016391;Spectre Psychophage [Ancien];-84;-43;-31
+5667987;Gowap Apprivoisé [Ancien];-33;-37;-36
+5677451;Gowap Apprivoisé [Ancêtre];-60;-11;-32
+5952505;Croquemitaine Mentat [Antique];-75;-99;-31
+6005703;Pseudo-Dragon [Favori];-42;-1;-26
+6030203;Veskan du Chaos Agressif [Jeune];-7;-7;-39
+5399842;Gowap Apprivoisé [Ancêtre];-36;-106;-1
+6034038;Rocketeux [Nouveau];-21;-9;-4
+6035546;Héros Golem de Chair [Nouveau];-10;-78;-26
+6013587;Frondeur Rocketeux [Adulte];-79;-50;-12
+5966251;Petit Pseudo-Dragon [Supérieur];-100;-63;-18
+6024493;Crasc Parasitus [Jeune];-115;-95;-29
+6012800;Méduse [Adulte];-5;-94;-26
+6016922;Manticore Malade [Adulte];-74;-39;-19
+6032210;Yéti Agressif [Nouveau];-59;-31;-14
+6035958;Cockatrice [Nouvelle];-59;-15;-21
+6030386;Scarabée Géant Corrompu [Larve];-1;-62;-6
+5954599;Pseudo-Dragon [Supérieur];-94;3;-23
+6020697;Erinyes de Cinquième Cercle [Mineure];-50;-68;-25
+6023237;Pseudo-Dragon Coriace [Novice];-66;-3;-43
+6034006;Erinyes [Initiale];-36;-10;-19
+6012018;Kobold [Adulte];5;-75;-10
+6031796;Pseudo-Dragon [Initial];-26;1;-39
+5800443;Gowap Apprivoisé Cogneur [Ancien];-46;-65;-38
+5465017;Gowap Apprivoisé [Ancien];-24;-94;-33
+6020148;Zombie [Ancien];-18;-94;-8
+6021147;Croquemitaine [Ancien];-47;-87;-21
+5961706;Zombie Corrompu [Antique];-94;-60;-14
+6023022;Squelette [Récent];-100;-6;-18
+5994067;Pseudo-Dragon Cogneur [Majeur];-86;-44;-32
+5950885;Pseudo-Dragon [Supérieur];-90;-77;-28
+5527727;Gowap Apprivoisé [Ancien];-75;2;-20
+5907528;Squelette [Ancestral];-75;-65;-10
+6023217;Pseudo-Dragon [Novice];-95;-15;-15
+6003769;Grand Frondeur Kobold [Vétéran];-84;-42;-31
+6001792;Kobold [Vétéran];-89;-99;-16
+5998467;Lutin [Vétéran];-3;-77;-20
+6037722;Tertre Errant Cracheur [Nouveau];-82;-77;-39
+5843497;Gowap Apprivoisé [Ancien];-30;-28;-34
+6037098;Feu Follet [Nouveau];-37;-46;-44
+6019034;Familier [Adulte];-98;-81;-39
+6017542;Amibe Géante [Adulte];-36;-80;-24
+6036145;Thri-kreen [Larve];-27;-42;-21
+6038240;Yéti [Nouveau];-21;-13;-20
+5936739;Pseudo-Dragon Malade [Suprême];-91;-90;-19
+6025705;Elémentaire de Feu [Novice];-61;-28;-43
+6023215;Gros Pseudo-Dragon [Novice];-99;-25;-43
+6000126;Gorgone Fouisseuse [Vétéran];-98;1;-43
+6029582;Bondin [Jeune];-90;-15;-15
+6033705;Kobold [Nouveau];-39;-93;-3
+6038123;Ver Carnivore Géant Traqueur [Nouveau];-84;-70;-27
+5598478;Gowap Apprivoisé [Ancien];-9;-52;-31
+5976486;Sorcière [Briscarde];7;-89;-43
+5598802;Gowap Apprivoisé [Ancien];-15;-61;-28
+6029542;Tigre-Garou [Jeune];0;-80;-27
+6017000;Diablotin Invocateur [Mineur];-81;-56;-35
+6030326;Ogre [Jeune];-42;-16;-16
+6029364;Lézard Géant [Jeune];-75;-26;-10
+5811006;Gowap Sauvage Malade [Ancien];-128;-128;-10
+5464370;Gowap Apprivoisé [Ancêtre];-24;-94;-31
+5863494;Diablotin Coriace [Suprême];-68;-60;-36
+6033497;Glouton Attentionné [Bébé];-57;-71;-39
+5958534;Diablotin [Supérieur];3;-63;-14
+6025970;Molosse Satanique [Novice];-97;-75;-18
+5976092;Molosse Satanique [Majeur];-99;-50;-31
+5982496;Ogre [Briscard];-1;-69;-25
+5599082;Gowap Apprivoisé [Ancien];-17;-60;-31
+5971299;Furgolin Effrayé [Doyen];-130;-128;-20
+6029265;Slaad Cogneur [Jeune];-46;-77;-12
+6025499;Tigre-Garou [Jeune];-52;-52;-21
+5974639;Squelette Corrompu [Séculaire];-93;-70;-8
+6034112;Rat-Garou Malade [Nouveau];-10;-87;-11
+6032583;Bouj'Dla Placide [Nouveau];-2;3;-32
+6001558;Ver Carnivore Géant [Vétéran];-58;-73;-26
+6002621;Diablotin [Favori];-35;-14;-16
+6033580;Géant de Pierre Effrayé [Nouveau];-80;-51;-29
+5944779;Squelette Corrompu [Ancestral];-72;-69;-19
+6033886;Feu Follet [Nouveau];-76;-21;-41
+5999808;Pseudo-Dragon [Favori];-66;-95;-8
+5771331;Gowap Apprivoisé [Ancien];-28;-79;-31
+5612162;Gowap Apprivoisé [Ancien];-35;-29;-31
+6017095;Pseudo-Dragon [Mineur];-10;4;-41
+5774705;Gowap Apprivoisé [Ancien];-29;-81;-33
+5956808;Worg Cogneur [Doyen];-131;-128;-11
+5962536;Archiatre Pseudo-Dragon [Supérieur];-48;-66;-26
+6038966;Elémentaire de Terre [Initial];-6;-84;-43
+5809762;Gowap Apprivoisé [Ancien];-88;-24;-25
+6005657;Pseudo-Dragon [Favori];-99;-15;-12
+5944232;Pseudo-Dragon [Suprême];-78;-34;-26
+5985596;Diablotin [Majeur];-96;-71;-10
+5966274;Diablotin [Supérieur];-72;-10;-33
+6016533;Rat Géant Malade [Jeune];-128;-133;-2
+6010400;Ver Carnivore Géant [Adulte];-25;-11;-34
+5962994;Gnu Sauvage [Chef de harde];-129;-131;-1
+5527726;Gowap Apprivoisé [Ancien];-62;-88;-9
+6034681;Bondin Traqueur [Nouveau];-20;1;-23
+6014059;Pseudo-Dragon [Mineur];-64;-13;-30
+6027830;Veskan du Chaos [Jeune];-8;-5;-39
+5594817;Gowap Apprivoisé [Ancêtre] Nyctoulop;-94;-97;-17
+6038595;Worg Fouisseur [Nouveau];4;-89;-25
+5966252;Diablotin [Supérieur];-83;-43;-20
+5958440;Squelette Psychophage [Antique];-15;-92;-15
+6026666;Furgolin [Jeune];-10;-29;-31
+6008708;Pseudo-Dragon [Favori];-14;-90;-27
+5990872;Sorcier Gremlins [Briscard];-92;-58;-10
+6023261;Pseudo-Dragon de Cinquième Cercle [Novice];-47;-5;-28
+5999809;Pseudo-Dragon Malade [Favori];-62;-83;-11
+6016538;Rat Géant [Jeune];-7;-80;-14
+6016529;Rat Géant [Jeune];-99;-41;-12
+6031685;Slaad [Nouveau];-37;-93;-8
+6019526;Worg Fustigateur [Adulte];-69;-31;-31
+6030668;Lézard Géant Colossal [Nouveau];-18;-15;-17
+6010088;Gargouille [Adulte];-91;-33;-11
+6038512;Esprit-Follet Cracheur [Nouveau];-87;-73;-32
+6008641;Diablotin [Favori];-50;-96;-26
+6017022;Diablotin [Mineur];-77;-56;-29
+6028280;Gorgone Cogneuse [Jeune];-40;-22;-40
+5902196;Squelette [Ancestral];-72;-86;-16
+5774320;Golem de cuir [Légendaire];-19;-78;-25
+6032843;Lézard Gargantuesque [Nouveau];-14;-3;-12
+6002664;Pseudo-Dragon [Favori];-11;-50;-9
+6032069;Anaconda des Catacombes Corrompu [Nouveau];-37;-9;-31
+6027395;Ours-Garou [Jeune];-32;-76;-38
+5977817;Diablotin [Majeur];-92;-29;-22
+6025972;Ame-en-peine [Récente];-28;-81;-17
+5799346;Gowap Apprivoisé [Ancien];-51;-36;-31
+6036442;Gremlins [Nouveau];-30;-33;-14
+6019200;Sorcier Kobold [Adulte];-4;-84;-19
+5997023;Diablotin [Favori];-8;-79;-31
+6037801;Bondin [Nouveau];-6;-75;-15
+6036371;Ogre [Nouveau];6;-52;-10
+6020796;Bouj'Dla [Adulte];-89;2;-32
+6030947;Elémentaire de Terre de Troisième Cercle [Initial];-70;-65;-42
+5927355;Squelette [Ancestral];-69;-74;-14
+6032828;Chimère Cracheuse [Nouvelle];-63;-26;-27
+6038499;Abishaii Bleu [Initial];-15;-68;-34
+6023230;Diablotin [Novice];-78;-94;-36
+5934013;Gnu Sauvage Fouisseur [Ancien];-127;-131;-2
+5995366;Caillouteux Malade [Briscard];-132;-129;-6
+5956859;Harpie [Doyenne];-50;-85;-28
+6024424;Basilisk [Jeune];-88;-9;-39
+5999122;Croquemitaine [Vénérable];-52;-58;-25
+5811891;Gowap Sauvage Malade [Ancien];-132;-131;-7
+6038079;Grand Frondeur Golem d'Argile [Nouveau];-16;-29;-36
+5917042;Naga [Légendaire];-83;-69;-35
+6030364;Scarabée Géant [Larve];-30;-2;-14
+6037743;Champion Ours-Garou [Nouveau];-20;-25;-39
+6032065;Ours-Garou Mutant [Nouveau];2;-89;-35
+5770568;Gowap Apprivoisé [Ancien];-22;-80;-33
+5975063;Xorn Cogneur [Majeur];-11;-32;-41
+6037772;Shaman Tigre-Garou [Nouveau];-34;-89;-28
+5890495;Zombie [Ancestral];-89;-54;-21
+5958566;Diablotin [Supérieur];-13;-3;-16
+5975057;Zombie [Séculaire];-68;-74;-27
+6020543;Homme-Lézard Effrayé [Adulte];-42;-24;-11
+6030557;Glouton Corrompu [Bébé];-15;-23;-39
+5809176;Gowap Apprivoisé Coriace [Ancien];-51;-36;-31
+5948955;Gowap Apprivoisé [Chef de harde];-28;-21;-32
+6034012;Erinyes [Initiale];-30;-54;-13
+5598801;Gowap Apprivoisé [Ancien];-13;-56;-31
+6025958;Naga [Jeune];-90;-51;-21
+6016588;Fungus Violet Ronfleur [Adulte];-51;-81;-7
+6038191;Rocketeux Berserker [Nouveau];4;-4;-9
+6030278;Scorpion Géant [Immature];-77;-29;-31
+6017046;Diablotin [Mineur];-48;-29;-28
+6025890;Reine Strige [Immature];-92;-99;-30
+6033970;Chimère [Nouvelle];5;-100;-22
+6021286;Gowap Apprivoisé [Jeune];-83;-3;-30
+6018016;Nuage d'Insectes Fouisseur [Juvénile];-25;-32;-18
+6009725;Gros Hurleur [Vétéran];-44;-9;-34
+6032052;Esprit-Follet Traqueur [Nouveau];-6;-76;-32
+5800598;Gowap Apprivoisé [Ancêtre];-32;-32;-32
+6035216;Ankheg [Larve];-3;-6;-25
+5985233;Bulette [Briscarde];-92;-24;-42
+6031603;Homme-Lézard Fou [Nouveau];-20;-69;-14
+5908265;Amibe Géante [Légendaire];-97;-63;-27
+6030773;Rat-Garou [Nouveau];-53;-19;-7
+5595390;Gowap Apprivoisé [Ancien];-11;-54;-31
+6013585;Harpie Malade [Adulte];-130;-132;-15
+6020929;Bouj'Dla Placide Cracheur [Adulte];-18;-35;-44
+5920890;Squelette Cogneur [Ancestral];-84;-56;-17
+5996980;Archiatre Pseudo-Dragon [Favori];-69;-93;-23
+5679725;Gowap Apprivoisé [Ancien];-60;-11;-32
+6018108;Spectre [Ancien];-3;-25;-41
+6023233;Petit Pseudo-Dragon [Novice];-67;-58;-36
+6017563;Fungus Violet [Adulte];-36;-11;-7
+6032817;Gorgone Corrompue [Nouvelle];-56;-34;-32
+6036283;Manticore [Nouvelle];-54;-44;-18
+6034643;Gorgone [Nouvelle];-37;-71;-18
+6003022;Spectre [Vénérable];-43;-76;-33
+5985586;Diablotin [Majeur];-98;-8;-34
+5949465;Mimique [Doyen];-54;-61;-12
+5994054;Pseudo-Dragon [Majeur];-87;-90;-23
+6035763;Elémentaire de Terre [Initial];-40;-65;-39
+5463478;Gowap Apprivoisé [Ancien];-30;-28;-33
+6026260;Elémentaire d'Eau Cogneur [Novice];-91;-68;-37
+6033875;Tigre-Garou [Nouveau];-66;-7;-23
+5996942;Pseudo-Dragon [Favori];-82;-50;-29
+5963504;Squelette [Antique];-96;-44;-7
+5996989;Diablotin [Favori];-61;-6;-33
+6037056;Glouton [Bébé];-56;-92;-41
+6033556;Molosse Satanique Fanatique [Initial];-57;-84;-33
+6030678;Gorgone [Nouvelle];-47;-32;-22
+6038034;Dindon Du Glacier [Bébé];-28;-29;-32
+6000055;Ver Carnivore [Vétéran];-45;-88;-37
+5949471;Gros Mimique [Doyen];-58;-33;-12
+5992729;Rocketeux Mutant [Briscard];-64;-35;-37
+5974318;Archiatre Pseudo-Dragon [Majeur];-5;-63;-16
+6033273;Ombre de Roches Fouisseuse [Nouvelle];-14;-21;-24
+5414184;Gowap Apprivoisé [Ancêtre];-21;-85;-44
+6004942;Fungus Géant [Vétéran];-74;-66;-18
+5647725;Gowap Apprivoisé [Ancien];-29;-21;-31
+5954594;Pseudo-Dragon [Supérieur];-99;-57;-27
+5926539;Scarabée Géant [Accompli];-84;-67;-20
+5769155;Pseudo-Dragon [Suprême];-53;-62;-7
+6033636;Minotaure Effrayé [Nouveau];-25;-11;-24
+6025954;Naga Ronfleur [Jeune];-31;-20;-27
+6026066;Pseudo-Dragon [Novice];-30;-27;-38
+6026067;Pseudo-Dragon [Novice];-47;-7;-28
+6007678;Squelette Implacable [Vénérable];-94;-10;-25
+5974305;Pseudo-Dragon [Majeur];-6;-69;-10
+6025937;Naga [Jeune];-89;-62;-25
+5799333;Gowap Apprivoisé Cogneur [Ancêtre];-29;-79;-32
+5966320;Diablotin [Supérieur];-39;-12;-24
+5985646;Diablotin [Majeur];-62;-26;-19
+5831965;Diablotin [Suprême];-81;-10;-38
+5947562;Gros Pseudo-Dragon [Supérieur];-46;-28;-29
+5954607;Pseudo-Dragon de Premier Cercle [Supérieur];-63;-65;-30
+6038248;Yéti Agressif [Nouveau];-72;-36;-17
+6031058;Rocketeux [Nouveau];-61;-10;-13
+5798215;Gowap Apprivoisé [Ancien];-19;-47;-3
+5995261;Slaad Fouisseur [Briscard];-18;-78;-22
+6019975;Scorpion Géant [Juvénile];-25;-3;-26
+6024769;Tubercule Tueur [Enfançon];-31;-82;-27
+6033554;Gros Xorn [Initial];-18;-80;-33
+6031619;Homme-Lézard Agressif [Nouveau];-68;-60;-15
+6015681;Ver Carnivore Géant [Adulte];-39;-65;-35
+6036326;Scorpion Géant [Larve];-40;-16;-28
+6003637;Esprit-Follet [Vétéran];-94;-45;-38
+6032267;Basilisk [Nouveau];-93;-10;-19
+5975150;Squelette Implacable [Séculaire];-59;-42;-30
+5802117;Gowap Sauvage Malade [Ancien];-133;-133;-4
+5973710;Araignée Géante Ronfleuse [Développée];-98;-30;-25
+5980914;Pseudo-Dragon [Majeur];-29;-88;-7
+6034989;Succube [Initiale];-86;-42;-28
+6032357;Fungus Géant [Nouveau];-27;-45;-18
+6035923;Rat-Garou [Nouveau];-43;-87;-16
+6034674;Amibe Géante [Nouvelle];-55;-51;-19
+5800845;Gowap Apprivoisé [Ancien];-31;-45;-26
+6020636;Lézard Géant [Adulte];-55;-59;-11
+6008622;Pseudo-Dragon Malade [Favori];-86;-95;-30
+6022583;Tigre-Garou [Jeune];-73;-63;-39
+6038653;Squelette [Naissant];5;-18;-2
+5790544;Gowap Sauvage [Ancien];-31;-29;-31
+6038963;Petit Chevalier du Chaos [Initial];-17;-6;-42
+5963775;Squelette [Antique];-10;-76;-15
+5964356;Zombie Mentat [Antique];-62;-91;-15
+5897809;Gowap Apprivoisé [Ancien];-130;-130;-1
+6036578;Mille-Pattes Géant [Larve];-80;-82;-28
+5980904;Pseudo-Dragon [Majeur];-45;-59;-35
+6032988;Worg [Nouveau];-95;-5;-5
+5928283;Squelette Cogneur [Ancestral];-58;-98;-29
+6038030;Sorcière [Nouvelle];-67;-2;-35
+6035877;Gorgone Coriace [Nouvelle];-21;-45;-21
+5644971;Gowap Apprivoisé [Ancien];-98;-97;-6
+6039002;Abishaii Vert [Initial];-79;-69;-27
+6019128;Amibe Géante Colossale [Adulte];-16;-61;-33
+6030065;Golem de Chair [Jeune];-68;-53;-22
+6020033;Croquemitaine Cogneur [Ancien];-93;-2;-14
+6003654;Orque [Vétéran];-88;-74;-10
+6025552;Lézard Géant Fouisseur [Jeune];-39;-16;-17
+5985688;Prince Diablotin [Majeur];-12;-77;-27
+6038964;Dindon du Chaos Coriace [Bébé];-10;2;-35
+5599399;Gowap Apprivoisé [Ancien];-9;-52;-31
+5599400;Gowap Apprivoisé [Ancien];-95;-96;-6
+6016549;Rat Géant [Jeune];-1;-61;-22
+6014270;Tubercule Tueur [Jeune];-88;4;-28
+6035845;Géant des Gouffres [Nouveau];5;-37;-44
+6031431;Nâ-Hàniym-Hééé [Naissant];-89;-98;-2
+6023253;Pseudo-Dragon [Novice];-59;-79;-29
+6008716;Pseudo-Dragon [Favori];-5;-35;-24
+5614746;Gowap Apprivoisé [Ancien] de l'Équilibre;-2;-23;-1
+6017132;Diablotin [Mineur];0;-65;-29
+6038104;Abishaii Bleu [Initial];-93;-96;-41
+5853366;Croquemitaine [Ancestral];-49;-75;-43
+6017507;Ver Carnivore Géant Fouisseur [Adulte];-87;-25;-32
+5996984;Pseudo-Dragon [Favori];-79;-53;-12
+5993903;Harpie [Briscarde];-83;-89;-22
+6034281;Gorgone Fustigatrice [Nouvelle];-47;-25;-26
+5985584;Prince Diablotin [Majeur];-93;-14;-44
+6025902;Naga [Jeune];-28;-9;-19
+6029651;Petit Squelette [Récent];-83;-51;-18
+6033601;Ectoplasme [Naissant];-9;-68;-41
+5991951;Basilisk Colossal [Briscard];-91;-14;-42
+6014069;Pseudo-Dragon de Premier Cercle [Mineur];-42;-22;-23
+6020149;Zombie Malade [Ancien];-17;-94;-8
+5964007;Squelette [Antique];-80;-63;-12
+5581605;Gowap Apprivoisé [Ancien];-76;2;-24
+6030571;Petit Glouton [Bébé];-19;-11;-40
+6022892;Golem de cuir [Jeune];-29;0;-35
+5971135;Zombie [Antique];-52;-82;-12
+6035466;Kobold Agressif [Nouveau];-88;-69;-5
+6025121;Esprit-Follet Ronfleur [Jeune];-65;-83;-37
+6026396;Shaman Golem de Chair [Jeune];-84;-28;-22
+6003656;Orque [Vétéran];-72;-99;-10
+6005213;Gorgone [Vétéran];-99;-30;-34
+5564674;Gowap Apprivoisé [Ancien];-38;-30;-29
+6038502;Petit Ectoplasme [Naissant];-30;-34;-38
+6024835;Ver Carnivore Géant [Jeune];-52;-83;-29
+5803147;Gowap Apprivoisé [Ancien];-5;-110;-30
+6014427;Rocketeux [Adulte];-99;-66;-13
+5940315;Diablotin [Suprême];-62;-94;-20
+6009776;Kobold [Vétéran];-46;-72;-18
+6036984;Maître Squelette [Naissant];-44;-27;-18
+5985712;Diablotin [Majeur];-18;-98;-23
+5980862;Anaconda des Catacombes [Briscard];-94;-89;-27
+5898002;Archiatre Pseudo-Dragon [Suprême];-94;-3;-15
+6008625;Diablotin [Favori];-73;-34;-28
+5999802;Pseudo-Dragon [Favori];-75;-19;-22
+5984389;Gnu Domestique [Mature];-8;-3;-32
+5996937;Diablotin [Favori];-88;-85;-28
+5947521;Diablotin [Supérieur];-99;-1;-16
+5529988;Gowap Apprivoisé [Ancêtre];-65;-6;-10
+6030007;Spectre [Récent];-10;-20;-28
+5994048;Pseudo-Dragon [Majeur];-74;-33;-8
+6038038;Yuan-ti Fou [Nouveau];-69;-78;-31
+6021197;Manticore [Adulte];-12;-37;-20
+5981230;Golem de Chair [Briscard];-88;-7;-25
+5996340;Ver Carnivore Géant Cracheur [Vétéran];-5;-70;-32
+5711104;Gowap Apprivoisé [Ancien];-98;-99;-17
+6004763;Gremlins [Vétéran];-68;-66;-12
+5917831;Worg Malade [Légendaire];-131;-129;-12
+5958451;Pseudo-Dragon [Supérieur];-99;-50;-31
+6005712;Pseudo-Dragon [Favori];2;-24;-17
+6038423;Crasc Colossal [Nouveau];-22;-5;-37
+6032368;Fungus Géant [Nouveau];-57;-48;-18
+5983199;Ver Carnivore Géant [Briscard];-26;-48;-32
+6030711;Ame-en-peine [Naissante];-48;-12;-14
+6027814;Paysan Géant des Gouffres [Jeune];-79;-15;-44
+6038136;Banshee [Naissante];-36;-87;-30
+5960373;Zombie [Antique];-26;-81;-26
+5975388;Croquemitaine [Séculaire];-51;-95;-23
+5635836;Gowap Apprivoisé [Ancien];-98;-97;-6
+6007720;Worg Malade [Vétéran];-130;-129;-16
+6010384;Gnu Sauvage [Jeune];-134;-128;-1
+6033328;Cockatrice Colossale [Jeune];-10;-97;-19
+6000215;Nécrophage [Vénérable];-87;0;-22
+6033503;Abishaii Bleu des Abysses [Initial];-41;-12;-42
+6032350;Fungus Géant Malade [Nouveau];-4;-29;-18
+6035050;Shaman Tigre-Garou [Nouveau];-67;-76;-37
+5963625;Squelette [Antique];-74;-97;-8
+6037796;Grosse Manticore [Nouvelle];-59;-5;-18
+5464763;Gowap Apprivoisé [Ancêtre];-24;-94;-31
+5897977;Diablotin [Suprême];-64;-97;-19
+6037731;Héros Géant de Pierre [Nouveau];-62;-7;-39
+6016575;Fungus Violet Fustigateur [Adulte];-29;-39;-8
+6038692;Crasc Médius Parasitus [Nouveau];-8;-3;-30
+5966310;Diablotin [Supérieur];-70;-61;-27
+6009928;Ver Carnivore Géant Frénétique [Vétéran];-78;-13;-33
+6036939;Chimère Ronfleuse [Nouvelle];-28;-29;-32
+5928650;Maître Squelette [Ancestral];-98;-87;-42
+5985620;Diablotin [Majeur];-87;-62;-20
+6034165;Glouton [Bébé];-1;-49;-44
+6036498;Veskan du Chaos [Nouveau];-9;-6;-39
+5999105;Ankheg [Imago];-2;-36;-35
+5960483;Rat Géant Enragé [Chef de harde];-129;-132;-5
+5958450;Diablotin [Supérieur];-91;-10;-28
+6036870;Nuage d'Insectes [Larve];-12;-37;-20
+6033477;Hellrot [Initial];-8;-31;-38
+5974224;Sagouin Vorace [Mature];-70;0;-11
+5961943;Squelette [Antique];-73;-37;-20
+6008138;Gremlins [Vétéran];-3;-62;-11
+6030990;Spectre [Naissant];-45;-22;-40
+6016826;Ver Carnivore Géant Fustigateur [Adulte];2;-15;-42
+6013568;Worg [Adulte];-54;-25;-19
+6032050;Esprit-Follet Colossal [Nouveau];-7;-76;-32
+6032849;Worg Cogneur [Nouveau];-2;-69;-12
+5613555;Gowap Apprivoisé [Ancien];-13;-32;-14
+5960869;Squelette Mentat [Antique];-48;-100;-26
+5974274;Pseudo-Dragon [Majeur];-71;-26;-35
+6021694;Gowap Apprivoisé [Jeune];-97;-96;-17
+6037207;Kobold [Nouveau];-43;-41;-3
+5985580;Diablotin [Majeur];-94;-18;-28
+6031746;Petit Pseudo-Dragon [Initial];-44;-49;-44
+6036431;Gros Abishaii Vert [Initial];-47;-56;-39
+6019133;Ectoplasme [Ancien];-47;-77;-41
+6019134;Golem d'Argile [Adulte];-65;-31;-37
+6038632;Nuage d'Insectes [Larve];4;-9;-12
+5981925;Scout Golem de Chair [Briscard];-25;-14;-42
+6019772;Nuée de Vermine [Juvénile];-9;-75;-42
+6038866;Caillouteux [Nouveau];-38;-76;-3
+6028626;Archiatre Abishaii Vert [Novice];-87;-93;-36
+6031598;Homme-Lézard [Nouveau];-17;-11;-4
+5620583;Gowap Apprivoisé [Ancien];-44;-64;-38
+6032151;Gorgone Fouisseuse [Nouvelle];-68;-22;-31
+6011871;Xorn Corrompu [Mineur];-6;-23;-41
+5954380;Basilisk [Doyen];-64;-46;-33
+5812591;Gowap Apprivoisé [Ancien];-39;-29;-29
+6002549;Diablotin de Second Cercle [Favori];-76;-90;-33
+5971489;Gros Zombie [Antique];-96;-89;-18
+6038395;Crasc Médius Parasitus [Nouveau];-23;-81;-33
+6012932;Gnoll [Adulte];-84;-60;-26
+6028873;Pseudo-Dragon Invocateur [Novice];-66;-85;-31
+5989787;Capitan Nécromant [Séculaire];-77;-55;-18
+5799595;Gowap Sauvage Enragé [Ancien];-132;-128;-15
+6014080;Petit Pseudo-Dragon [Mineur];-1;-47;-14
+6035848;Banshee [Naissante];-50;-11;-32
+6030301;Raquettou [Jeune];-37;-54;-16
+6036109;Esprit-Follet Coriace [Nouveau];-93;-46;-38
+5993851;Spectre [Séculaire];2;-62;-37
+5799292;Petit Gowap Apprivoisé [Ancêtre];6;3;-32
+5423408;Gowap Apprivoisé [Ancien];-61;-96;-14
+5809111;Gowap Apprivoisé Coriace [Ancien];-53;-44;-29
+6012920;Frondeur Gnoll [Adulte];-132;-130;-13
+6033977;Méduse Ronfleuse [Nouvelle];-33;-11;-24
+6012917;Gnoll Malade [Adulte];-32;2;-5
+6021386;Golem d'Argile [Adulte];-65;-95;-42
+5846121;Gowap Apprivoisé [Ancien];-7;-56;-30
+6026021;Worg [Jeune];-94;-27;-13
+6038381;Crasc parasitus [Nouveau];-70;-72;-24
+6027909;Mouch'oo Sauvage [Jeune];-13;-19;-30
+6020674;Erinyes [Mineure];-43;-46;-25
+6036351;Scorpion Géant [Larve];-10;-28;-25
+6036235;Glouton [Bébé];-39;-95;-39
+6023061;Ver Carnivore Géant [Jeune];-88;-57;-32
+5651819;Gowap Apprivoisé [Ancien];-28;-28;-33
+5969463;Squelette [Antique];-100;-66;-20
+6011334;Pseudo-Dragon [Mineur];6;-23;-28
+6008543;Limace Géante Ronfleuse [Imago];-67;-49;-41
+6027991;Tigre-Garou [Jeune];-92;-19;-21
+6038555;Tubercule Tueur [Bébé];-41;-2;-32
+6034659;Familier [Nouveau];-34;-63;-21
+6022021;Gowap Apprivoisé [Enfançon];-97;-96;-17
+6010359;Nuée de Vermine Malade [Juvénile];-43;-15;-36
+6031608;Homme-Lézard Agressif [Nouveau];-1;-59;-14
+6038265;Yéti [Nouveau];-32;-45;-17
+5953047;Maître Zombie [Antique];-60;-78;-33
+5667988;Gowap Apprivoisé [Ancien];-33;-37;-36
+5913247;Golem de cuir [Légendaire];-34;-101;-40
+6032055;Veskan du Chaos [Nouveau];-6;-3;-39
+6032840;Rocketeux [Nouveau];-37;-31;-14
+5973795;Petit Zombie [Séculaire];-65;-95;-8
+6029214;Limace Géante Corrompue [Immature];-77;-43;-24
+6026783;Nécrophage Malade [Récent];-31;-32;-19
+5363036;Gowap Apprivoisé [Ancêtre];-77;1;-5
+5967842;Squelette [Antique];-85;-64;-6
+6026425;Gros Worg [Jeune];-46;-43;-8
+6002551;Diablotin [Favori];-95;-90;-29
+6024492;Crasc Parasitus [Jeune];-115;-95;-30
+6023057;Manticore Malade [Jeune];-62;-54;-22
+5977814;Pseudo-Dragon de Troisième Cercle [Majeur];-75;-40;-24
+6024461;Guerrier Rocketeux [Jeune];-30;-13;-15
+5893485;Squelette [Ancestral];-99;-50;-31
+6017084;Diablotin [Mineur];-21;-73;-43
+6037700;Veskan du Chaos [Nouveau];-11;2;-44
+6029642;Fungus Violet [Jeune];-6;-9;-7
+6004534;Petit Kobold [Vétéran];-61;-61;-21
+6028051;Shaman Orque [Jeune];-29;-11;-7
+6029829;Sorcière [Jeune];-81;-32;-32
+6033855;Veskan du Chaos [Nouveau];-9;-4;-39
+6018821;Sagouin Cogneur [Jeune];-17;-95;-7
+6026779;Nécrophage [Récent];-32;-56;-31
+6038078;Archiatre Succube [Initiale];-32;-23;-33
+6038519;Petit Dindon du Chaos [Bébé];-8;-3;-30
+5876877;Zombie [Ancestral];-47;-93;-16
+6010727;Rocketeux Guérisseur [Adulte];-19;-29;-13
+5958486;Diablotin [Supérieur];-64;-69;-17
+5958491;Pseudo-Dragon [Supérieur];-92;-41;-12
+5645427;Gowap Apprivoisé [Ancien];-53;-34;-28
+5959103;Petit Zombie [Antique];-70;-11;-32
+6020499;Ver Carnivore Géant [Adulte];-99;-56;-34
+6026371;Golem de Chair Corrompu [Jeune];-16;-14;-24
+5944787;Nécrophage [Ancestral];-46;-96;-38
+6024890;Méduse [Jeune];-1;-71;-10
+6007581;Ombre [Vénérable];-64;-4;-16
+6028409;Amibe Géante Esculape [Jeune];-85;-27;-19
+5465018;Gowap Apprivoisé [Ancien];-24;-94;-33
+6026054;Pseudo-Dragon [Novice];-49;-34;-29
+5808778;Gowap Apprivoisé Enragé [Ancien];-58;-34;-34
+5802060;Gowap Sauvage Enragé [Ancien];-132;-129;-5
+6017048;Diablotin [Mineur];-35;-40;-38
+5980739;Sagouin [Mature];-61;-91;-18
+5886735;Zombie [Ancestral];-52;-93;-28
+6036236;Petit Glouton [Bébé];-39;-95;-39
+6036358;Scorpion Géant [Larve];-41;-47;-17
+5811696;Gowap Apprivoisé Fouisseur [Ancêtre];-68;-89;-28
+6001121;Gowap Apprivoisé [Adulte];-25;-100;-30
+6038125;Tigre-Garou [Nouveau];-21;-84;-22
+6037009;Gros Mimique [Nouveau];-3;-5;-31
+6011333;Pseudo-Dragon [Mineur];-9;-52;-8
+5991967;Ame-en-peine [Séculaire];-7;-32;-21
+6030570;Glouton [Bébé];-16;-11;-39
+6027251;Gowap Apprivoisé [Enfançon];-23;-80;-33
+6002598;Pseudo-Dragon [Favori];-77;-50;-26
+5959470;Squelette [Antique];-6;-86;-14
+5811300;Gowap Apprivoisé Cogneur [Ancien];-30;-80;-32
+5799586;Gowap Apprivoisé [Ancien];-50;-65;-44
+6010597;Gremlins [Adulte];-65;-96;-21
+5939164;Nécrophage [Ancestral];-75;-85;-43
+5950605;Tigre-Garou [Doyen];-57;-71;-39
+6022356;Lézard Géant Esculape [Jeune];-81;-38;-12
+6038085;Bouj'Dla [Nouveau];-74;-82;-40
+6029354;Rat-Garou [Jeune];-93;-7;-6
+6035465;Amibe Géante [Nouvelle];-14;-40;-14
+6016960;Basilisk [Adulte];-81;-48;-40
+6030050;Amibe Gigantesque [Jeune];-64;-62;-17
+6033611;Gobelin Magique [Nouveau];-129;-130;-31
+5950745;Lutin Malade [Doyen];-133;-130;-11
+6035449;Manticore Colossale [Nouvelle];-61;-31;-44
+6028723;Ectoplasme Mentat [Récent];-55;-32;-39
+6033177;Ours-Garou [Nouveau];0;-1;-32
+6032577;Bouj'Dla Placide [Nouveau];-54;-30;-39
+6030530;Tertre Errant [Nouveau];-40;-17;-41
+5521083;Gowap Apprivoisé [Ancêtre];-44;-64;-38
+5916945;Tubercule Tueur [Ancien];-10;-95;-28
+5798883;Gowap Apprivoisé Vorace [Ancien];-48;-65;-37
+5598629;Gowap Apprivoisé [Ancêtre];-6;-49;-32
+5949015;Croquemitaine [Antique];-89;-55;-30
+6007152;Guerrier Goblin [Vétéran];-8;-21;-15
+6029235;Grande Frondeuse Sorcière [Jeune];-53;-37;-39
+6017137;Pseudo-Dragon Coriace [Mineur];7;-37;-10
+6030771;Rat-Garou Alchimiste [Nouveau];-51;-19;-7
+5931056;Frondeur Yéti [Légendaire];-80;-37;-38
+6025088;Gros Spectre [Récent];-83;-11;-44
+6033642;Ame-en-peine [Naissante];-25;-35;-18
+6002645;Diablotin [Favori];-35;-6;-25
+6038547;Xorn Malade [Initial];-27;-21;-40
+6028030;Golem de Chair [Jeune];-63;-3;-20
+6024863;Worg Malade [Jeune];-103;-78;-5
+6017092;Diablotin [Mineur];-12;-32;-37
+6008688;Pseudo-Dragon [Favori];0;-98;-28
+6023449;Squelette [Récent];-77;-9;-7
+6005655;Pseudo-Dragon [Favori];-95;-44;-25
+5405031;Gowap Apprivoisé [Ancien];-23;-22;-33
+5585958;Gowap Apprivoisé [Ancien];-9;-55;-21
+5968932;Squelette [Antique];-81;-63;-8
+5982460;Tubercule Tueur [Mature];-65;-69;-28
+6034332;Lézard Géant [Nouveau];-65;-51;-16
+6012063;Caillouteux [Adulte];-66;-61;-11
+6023252;Diablotin [Novice];-53;-66;-44
+5999818;Pseudo-Dragon [Favori];-69;-94;-21
+6037831;Paysanne Méduse [Nouvelle];-43;-83;-9
+6009286;Gremlins Cogneur [Vétéran];7;-69;-20
+6025934;Naga [Jeune];-62;-89;-16
+5538185;Gowap Apprivoisé [Ancien];-38;-75;-15
+5961628;Gros Croquemitaine [Antique];-92;-95;-25
+5977788;Gros Pseudo-Dragon [Majeur];-64;-51;-26
+6029583;Bondin Gargantuesque [Jeune];-89;-16;-15
+5703054;Gowap Apprivoisé [Ancien];-95;-31;-36
+6006824;Worg Malade [Vétéran];-131;-132;-27
+6010928;Naga [Adulte];-65;-74;-20
+5770656;Gowap Apprivoisé [Ancien];-24;-82;-28
+6030067;Rocketeux [Jeune];-68;-5;-16
+6036259;Incube [Initial];-4;-20;-36
+6023703;Nuage d'Insectes [Immature];-8;-35;-21
+6036337;Scorpion Géant Lobotomisateur [Larve];-40;-16;-28
+6036264;Ame-en-peine Coriace [Naissante];-24;-84;-16
+6032348;Fungus Géant [Nouveau];-9;-41;-18
+6027045;Petit Veskan du Chaos [Jeune];-10;-2;-39
+6009343;Molosse Satanique Cogneur [Favori];-131;-133;-19
+6025940;Naga [Jeune];-41;-64;-31
+6023755;Basilisk [Jeune];-75;-50;-32
+6035813;Bouj'Dla [Nouveau];-48;-33;-38
+6035908;Shaman Golem d'Argile [Nouveau];-73;-97;-25
+6005951;Yuan-ti Effrayé [Vétéran];-57;-69;-32
+5999835;Pseudo-Dragon Cogneur [Favori];-60;-9;-38
+6038126;Hurleur [Nouveau];-1;-56;-13
+6031535;Guerrière Méduse [Nouvelle];-25;-53;-15
+6017984;Bondin [Adulte];-52;-24;-33
+6015970;Esprit-Follet Cracheur [Adulte];-65;-81;-37
+5971892;Squelette Malade [Antique];-85;-85;-14
+6019088;Anaconda des Catacombes [Adulte];-41;-43;-29
+6020887;Bouj'Dla Placide [Adulte];-24;-31;-43
+6019555;Ombre de Roches [Adulte];-2;-68;-34
+6013926;Ver Carnivore Géant Ronfleur [Adulte];-36;-20;-27
+6023483;Croquemitaine [Récent];-88;-27;-18
+5802045;Gowap Apprivoisé Vorace [Ancien];-52;-36;-31
+6012080;Caillouteux [Adulte];-55;-16;-9
+5804573;Gowap Apprivoisé [Ancêtre] Mistral Gagnant;-40;-93;-37
+6018219;Ver Carnivore Géant [Adulte];-54;-71;-29
+6038073;Yuan-ti Malade [Nouveau];-65;-41;-40
+6036556;Xorn Corrompu [Initial];-31;-48;-41
+6030403;Sagouin [Bébé];-87;-75;-18
+6026746;Ver Carnivore Géant [Jeune];-67;-30;-24
+6021203;Loup-Garou [Adulte];-84;-78;-21
+6028731;Golem de Chair [Jeune];-29;-68;-14
+6019981;Scorpion Géant [Juvénile];-65;-47;-20
+6033981;Nécrophage Ronfleur [Naissant];2;-91;-19
+6028898;Pseudo-Dragon de Second Cercle [Novice];-44;-27;-42
+5964941;Rat Géant Enragé [Chef de harde];-131;-130;-11
+6037353;Homme-Lézard [Nouveau];-21;-24;-8
+6014092;Pseudo-Dragon [Mineur];-10;-19;-27
+5997053;Archiatre Diablotin [Favori];0;-22;-24
+6035467;Kobold [Nouveau];-87;-72;-4
+6023228;Diablotin [Novice];-91;-96;-33
+5970487;Pseudo-Dragon [Supérieur];-7;-63;-22
+6017025;Pseudo-Dragon [Mineur];-77;-64;-25
+6036623;Worg Cracheur [Nouveau];-39;-77;-12
+5991758;Gremlins [Briscard];-87;-38;-17
+6031722;Pseudo-Dragon Invocateur [Initial];-84;-87;-44
+5975245;Gorgone [Briscarde];-93;-75;-41
+6030296;Strige [Immature];-57;-4;-4
+6022587;Gorgone Esculape [Jeune];-79;-24;-23
+6038987;Géant de Pierre Fou [Nouveau];-98;-73;-31
+6007000;Yéti [Vétéran];-67;-21;-19
+6017023;Pseudo-Dragon [Mineur];-98;-47;-29
+6032079;Anaconda des Catacombes [Nouveau];-37;-79;-11
+5993820;Pititabeille Cogneuse [Développée];-89;-29;-4
+6034957;Hellrot Coriace [Initial];-5;-10;-40
+5940175;Gowap Apprivoisé [Ancien];-27;-21;-36
+5962537;Petit Pseudo-Dragon [Supérieur];-46;-98;-18
+5971423;Tigre-Garou Guérisseur [Doyen];7;-96;-33
+6019959;Scorpion Géant [Juvénile];-20;-73;-21
+6023303;Pseudo-Dragon [Novice];-27;-19;-32
+5967571;Squelette [Antique];-100;-88;-7
+5910462;Gowap Apprivoisé [Ancien];-11;-9;-4
+5959621;Scarabée Géant [Mûr];6;-80;-33
+6031494;Gros Ectoplasme [Naissant];-1;-72;-34
+6038360;Momie [Naissante];-36;3;-6
+5907341;Squelette [Ancestral];-62;-34;-9
+5961368;Squelette [Antique];-77;-93;-14
+6019138;Amibe [Adulte];-58;-88;-28
+6031023;Ver Carnivore Géant Corrompu [Nouveau];-3;-82;-26
+6004762;Gremlins [Vétéran];-66;-64;-12
+6029209;Spectre [Récent];-62;-97;-25
+5770870;Gowap Apprivoisé [Ancêtre];-23;-80;-33
+6028567;Abishaii Rouge [Novice];-70;-65;-42
+6024418;Xorn Malade [Novice];-1;-72;-29
+5883658;Scarabée Géant Ouvrier [Accompli];-75;-97;-16
+6036787;Spectre Nécromant [Naissant];-16;-54;-37
+6009050;Tigre-Garou [Vétéran];-63;-29;-34
+6038124;Tigre-Garou [Nouveau];-21;-82;-22
+5598479;Gowap Apprivoisé [Ancien];-9;-52;-31
+6034723;Amibe Géante [Nouvelle];-61;-16;-15
+5809964;Gowap Apprivoisé [Ancien];-8;-55;-31
+6030774;Squelette [Naissant];-86;-42;-4
+6009615;Ver Carnivore Géant [Vétéran];5;-44;-26
+6025607;Araignée Géante [Immature];-46;-87;-9
+6037705;Ombre de Roches Ronfleuse [Nouvelle];-64;0;-43
+5812472;Gowap Apprivoisé [Ancien];-29;-79;-32
+6014056;Pseudo-Dragon [Mineur];-69;-96;-24
+5969460;Nécrophage [Antique];-48;-100;-39
+6035910;Sorcier Minotaure [Nouveau];-18;-100;-25
+5996936;Pseudo-Dragon de Premier Cercle [Favori];-66;-88;-23
+5928950;Familier [Mythique];-90;-88;-44
+6019942;Limace Géante [Juvénile];-35;-7;-20
+6020201;Pseudo-Dragon [Mineur];-59;-29;-27
+6034361;Rat-Garou [Nouveau];-73;-40;-28
+6038556;Tubercule Tueur [Bébé];-41;-2;-32
+6029602;Méduse [Jeune];-31;3;-21
+5966248;Diablotin [Supérieur];-85;-2;-13
+5589626;Gowap Apprivois&eacute; [Ancêtre];-15;-61;-28
+5810078;Gowap Apprivoisé [Ancien];-38;-29;-29
+5983286;Méduse [Briscarde];-36;-57;-35
+5958464;Diablotin [Supérieur];-88;-94;-26
+6006896;Nuage d'Insectes [Imago];2;-24;-31
+6022220;Xorn [Novice];-62;-65;-34
+5770869;Gowap Apprivoisé [Ancien];-9;-52;-33
+6030069;Shaman Rocketeux [Jeune];-70;4;-24
+6004699;Nâ-Hàniym-Hééé [Vénérable] le suivant de foch.;4;-44;-32
+6030558;Glouton Ronfleur [Bébé];-14;-23;-39
+5740906;Gowap Apprivoisé [Ancien];-26;-14;-18
+5654964;Gowap Apprivoisé [Ancien];-60;-1;-11
+5936901;Zombie Corrompu [Ancestral];-88;-63;-16
+6034680;Bondin [Nouveau];-31;-4;-20
+5928370;Rat Géant Corrompu [Ancien];-83;-65;-20
+6017001;Pseudo-Dragon [Mineur];-86;-44;-31
+5803772;Gowap Apprivoisé Enragé [Ancien];-37;-21;-6
+6030070;Rocketeux [Jeune];-77;-9;-7
+6034000;Erinyes [Initiale];5;-59;-12
+6027956;Basilisk Cogneur [Jeune];-80;-47;-27
+5910567;Squelette [Ancestral];-71;-66;-10
+6013590;Rocketeux [Adulte];-64;-37;-28
+6003768;Kobold [Vétéran];-77;-45;-7
+6012924;Gnoll Effrayé [Adulte];-74;-25;-22
+6002603;Diablotin [Favori];-51;-13;-15
+6038045;Veskan du Chaos Ronfleur [Nouveau];-15;3;-44
+5997385;Tubercule Tueur [Adulte];-64;-82;-29
+6038115;Petite Gorgone [Nouvelle];-53;-29;-15
+5928714;Petite Ame-en-peine [Ancestrale];-72;-99;-27
+5563934;Gowap Apprivoisé [Ancien];-5;-48;-30
+6014046;Pseudo-Dragon [Mineur];-65;-60;-22
+6038178;Basilisk Malade [Nouveau];-67;-18;-26
+6020199;Pseudo-Dragon de Premier Cercle [Mineur];-28;-80;-38
+5962527;Pseudo-Dragon de Premier Cercle [Supérieur];-74;-74;-34
+5478763;Gowap Apprivoisé [Ancien];-38;-75;-15
+6035058;Gorgone Fouisseuse [Nouvelle];-7;-29;-18
+6016295;Croquemitaine [Ancien];-70;-41;-31
+6010598;Gremlins [Adulte];-67;-93;-22
+6012433;Spectre [Ancien];-24;-50;-44
+6033861;Xorn [Initial];-71;-44;-31
+5903525;Zombie Malade [Ancestral];-60;-84;-20
+6012950;Harpie [Adulte];-59;-52;-17
+5807779;Gowap Apprivoisé [Ancien];-16;-7;-37
+6034671;Tigre-Garou [Nouveau];-1;-9;-26
+5901629;Pseudo-Dragon [Suprême];-42;-91;-34
+6020187;Pseudo-Dragon [Mineur];-35;-77;-35
+6034664;Lézard Géant Corrompu [Nouveau];-61;-20;-14
+6028414;Ame-en-peine [Récente];-5;1;-19
+5801554;Gowap Apprivoisé Cogneur [Ancien] Tanh Gow;-48;-65;-37
+6002599;Diablotin [Favori];-68;-58;-8
+5973118;Gorgone Fustigatrice [Briscarde];-92;-16;-29
+5973011;Squelette [Séculaire];-51;-94;-24
+6038008;Gros Bouj'Dla [Nouveau];-51;-4;-44
+6027590;Rocketeux Effrayé [Jeune];-52;-17;-9
+5515592;Gowap Apprivoisé [Ancien];-40;-18;-36
+6011299;Pseudo-Dragon [Mineur];-97;-51;-9
+6014975;Paysanne Méduse [Adulte];-60;-46;-24
+6023779;Worg Cracheur [Jeune];-10;-24;-15
+6008501;Ver Carnivore Géant Ronfleur [Vétéran];-65;-74;-34
+6038230;Gargouille [Nouvelle];-35;-32;-7
+6025551;Lézard Géant Frénétique [Jeune];-39;-17;-17
+6038513;Sorcière [Nouvelle];-69;-35;-35
+6005103;Sorcier Gremlins [Vétéran];-69;-67;-12
+6035992;Crasc parasitus [Nouveau];-71;-71;-24
+6003936;Gnu Domestique [Adulte];-8;-3;-32
+6027205;Zombie [Récent];-21;-45;-21
+5813525;Gowap Apprivoisé Fouisseur [Ancien];-50;-65;-44
+5600228;Gowap Apprivoisé [Ancêtre];-32;-48;-26
+6007567;Ombre Archaïque [Vénérable];-19;-52;-10
+5525843;Gowap Apprivoisé [Ancêtre];3;-43;-37
+5809977;Gowap Apprivoisé Enragé [Ancien];-128;-129;-17
+6033635;Croquemitaine Psychophage [Naissant];-27;-94;-22
+5640882;Gowap Apprivoisé [Ancien];-96;-35;-7
+5952288;Zombie [Antique];-63;-74;-27
+6038918;Crasc Parasitus [Nouveau];-69;-98;-8
+6019971;Scorpion Géant [Juvénile];-66;-47;-20
+5928364;Rat Géant Cogneur [Ancien];-131;-131;-4
+6027815;Shaman Géant des Gouffres [Jeune];-79;-13;-44
+6012452;Petit Rocketeux [Adulte];-19;-95;-12
+6026669;Champion Furgolin [Jeune];-68;-29;-38
+6029861;Sorcier Géant de Pierre [Jeune];-75;-9;-27
+6032011;Succube de Cinquième Cercle [Initiale];-36;-67;-38
+6035699;Petit Chonchon [Nouveau];-6;-89;-43
+6031311;Ombre Malade [Naissante];-8;-3;-7
+5910705;Gowap Apprivoisé [Ancien];-101;-74;-1
+5992363;Lézard Gigantesque [Briscard];-32;-97;-28
+5852548;Gremlins [Légendaire];-87;-36;-17
+5613556;Gowap Apprivoisé [Ancien];-12;-32;-13
+5897956;Petit Pseudo-Dragon [Suprême];-72;-58;-17
+6038859;Grand Frondeur Caillouteux [Nouveau];-35;-2;-4
+6030405;Sagouin Malade [Bébé];-85;-79;-9
+6030406;Sagouin [Bébé];-70;-77;-7
+6024081;Ankheg [Immature];-27;-49;-35
+6030298;Raquettou [Jeune];-80;4;-3
+6036318;Scorpion Géant [Larve];-78;-33;-23
+6017112;Diablotin [Mineur];-21;-50;-40
+5496135;Gowap Apprivoisé [Ancêtre];-61;-96;-14
+6033468;Héros Gremlins [Nouveau];-3;-29;-14
+6039007;Bondin Malade [Nouveau];-93;-80;-21
+5969048;Squelette [Antique];-73;-64;-10
+6035589;Grouilleux [Nouveau];-4;-3;-5
+5658740;Gowap Apprivoisé [Ancien];-11;-54;-31
+5985630;Diablotin [Majeur];-83;-16;-16
+6017009;Pseudo-Dragon des Abysses [Mineur];-75;4;-23
+6026679;Furgolin Effrayé [Jeune];-134;-131;-20
+6016589;Fungus Violet [Adulte];-51;-81;-7
+6024629;Abishaii Noir de Second Cercle [Novice];-71;-20;-26
+5742739;Petit Diablotin [Suprême];-70;-56;-20
+6025481;Sorcière Guérisseuse [Jeune];-76;-26;-37
+6017020;Gros Diablotin [Mineur];-61;-78;-31
+6033683;Rocketeux Agressif [Nouveau];-21;4;-12
+6002627;Diablotin [Favori];-8;2;-6
+5892386;Squelette Malade [Ancestral];-92;-45;-30
+5564648;Nâ-Hàniym-Hééé [Ancestral] Morceau de Hyades;-50;-9;-32
+6017064;Diablotin [Mineur];-45;-52;-35
+6027637;Rocketeux Ronfleur [Jeune];-50;-86;-13
+6016433;Ver Carnivore Géant Esculape [Adulte];-72;-27;-41
+6022282;Basilisk [Jeune];-20;-88;-26
+6023276;Diablotin [Novice];-36;-48;-42
+5930776;Zombie [Ancestral];-66;-59;-21
+6029347;Lézard Géant [Jeune];-18;-90;-20
+6038638;Crasc [Nouveau];-1;1;-11
+6034035;Rocketeux [Nouveau];-20;-9;-4
+6037790;Maîtresse Ame-en-peine [Naissante];-3;-48;-27
+6033882;Tigre-Garou Agressif [Nouveau];-10;-39;-21
+5811060;Gowap Apprivoisé Fouisseur [Ancien];-51;-36;-31
+6038419;Crasc [Nouveau];-30;-30;-30
+5764939;Diablotin [Suprême];-42;4;-32
+6031548;Abishaii Bleu Fanatique [Initial];-8;-30;-42
+6038113;Géant de Pierre Mutant [Nouveau];-29;-94;-26
+6033602;Ectoplasme [Naissant];-10;-71;-40
+5965121;Ver Carnivore Géant [Doyen];-37;-69;-41
+6034730;Spectre Mentat [Naissant];-71;-6;-44
+5891063;Diablotin [Suprême];-56;-100;-39
+6036097;Coccicruelle [Larve];4;-79;-41
+6037712;Hellrot [Initial];-95;-28;-32
+6017072;Diablotin [Mineur];-49;-1;-43
+6004478;Gnu Sauvage [Adulte];-130;-134;-1
+6038848;Géant des Gouffres Fou [Nouveau];-34;-87;-42
+6038637;Crasc Parasitus [Nouveau];-2;2;-11
+6038633;Zombie Médicastre [Naissant];-43;-45;-4
+6026673;Furgolin Effrayé [Jeune];-134;-127;-20
+6011312;Pseudo-Dragon [Mineur];-71;-49;-24
+6038698;Lézard Géant [Nouveau];-29;-28;-10
+6034595;Champion Yuan-ti [Nouveau];-26;-57;-40
+5954664;Pseudo-Dragon [Supérieur];-24;0;-6
+6034955;Petit Elémentaire de Feu [Initial];-24;2;-44
+6038924;Abishaii Rouge [Initial];-26;-65;-44
+6034271;Petite Gorgone [Nouvelle];-20;-82;-19
+6034272;Gorgone [Nouvelle];-21;-81;-19
+5896993;Worg Cracheur [Légendaire];-127;-129;-11
+6032110;Frondeuse Sorcière [Nouvelle];-45;-53;-34
+6038551;Shaman Sorcière [Nouvelle];-19;-37;-34
+6033612;Petite Gorgone [Nouvelle];-35;-85;-21
+6017093;Pseudo-Dragon [Mineur];-9;-15;-35
+5993959;Paysan Rocketeux [Briscard];-55;-62;-18
+6037101;Elémentaire d'Eau [Initial];-40;-16;-28
+6034651;Basilisk [Nouveau];-30;-75;-24
+5797131;Gowap Apprivoisé [Ancien];-91;-63;-39
+6019172;Raquettou [Adulte];-53;-88;-11
+6019166;Limace Géante Coriace [Juvénile];-60;-35;-34
+6012068;Caillouteux [Adulte];-92;4;-13
+6020928;Bouj'Dla Placide [Adulte];-20;-31;-44
+6033212;Molosse Satanique de Troisième Cercle [Initial];-51;-75;-17
+6031044;Bondin [Nouveau];-27;-25;-24
+6014036;Pseudo-Dragon [Mineur];-55;-42;-30
+5994077;Archiatre Pseudo-Dragon [Majeur];-65;-100;-24
+6029965;Caillouteux [Jeune];-23;-73;-9
+5997386;Tubercule Tueur [Adulte];-64;-82;-29
+6013964;Frondeur Rocketeux [Adulte];7;-62;-20
+6032424;Crasc Cogneur [Nouveau];2;-24;-33
+6031475;Grouilleux [Jeune];-18;-2;-13
+5872889;Petit Lutin [Légendaire];-54;-70;-15
+6026246;Elémentaire d'Eau Corrompu [Novice];-78;-6;-42
+6038464;Boggart [Nouveau];-6;-44;-6
+6014297;Bouj'Dla [Adulte];-67;-84;-37
+5990218;Ettin Guérisseur [Briscard];-70;-92;-30
+6013706;Esprit-Follet Fouisseur [Adulte];-65;-83;-37
+6014393;Worg [Adulte];0;-87;-20
+5806922;Petit Gowap Apprivoisé [Ancien];-25;-80;-32
+6033274;Championne Méduse [Nouvelle];-36;-70;-17
+6035092;Elémentaire de Feu [Initial];-30;-56;-43
+5916800;Scout Caillouteux [Légendaire];-66;-91;-13
+6036544;Yuan-ti Mutant [Nouveau];-44;-44;-30
+6034020;Erinyes [Initiale];-17;-38;-13
+5807787;Gowap Apprivoisé Attentionné [Ancien];-32;-46;-29
+6004558;Molosse Satanique Cogneur [Favori];-133;-132;-20
+6033000;Tutoki [Nouveau];-23;-81;-2
+6035957;Molosse Satanique [Initial];-2;-31;-20
+6036440;Chonchon [Nouveau];-1;-36;-43
+6038543;Prince Xorn [Initial];-78;-69;-41
+6008626;Pseudo-Dragon [Favori];-93;-24;-24
+6013502;Zombie Implacable [Ancien];-64;-71;-25
+6034037;Rocketeux Agressif [Nouveau];-20;-7;-5
+6038003;Coccicruelle Morticole [Larve];-75;-97;-42
+6038272;Yéti [Nouveau];-62;-73;-20
+6024743;Basilisk Fouisseur [Jeune];-36;-56;-18
+6036280;Ver Carnivore Géant Cracheur [Nouveau];5;-17;-35
+6031164;Raquettou [Nouveau];-51;-64;-18
+5990417;Méduse [Briscarde];-28;-46;-30
+6023260;Diablotin de Cinquième Cercle [Novice];-81;-15;-34
+6014100;Pseudo-Dragon Coriace [Mineur];-2;-67;-32
+6023148;Harpie Malade [Jeune];-35;-47;-22
+6025413;Tertre Errant [Jeune];-84;-55;-43
+6015008;Molosse Satanique [Mineur];-79;-76;-26
+6034337;Tigre-Garou [Nouveau];-63;-10;-29
+6033872;Golem d'Argile Ronfleur [Nouveau];-63;-31;-37
+6028359;Gorgone [Jeune];-48;-81;-21
+6038614;Elémentaire d'Eau [Initial];-32;-23;-33
+6032152;Gorgone Ronfleuse [Nouvelle];-68;-22;-31
+6014429;Rocketeux [Adulte];-98;-64;-13
+6036310;Strige [Larve];-3;-42;-5
+5973053;Squelette [Séculaire];-74;-97;-8
+6003655;Orque [Vétéran];-89;-73;-11
+6026389;Golem d'Argile Mutant [Jeune];-98;-38;-32
+6012053;Caillouteux Alchimiste [Adulte];-81;-49;-24
+6026330;Spectre Médicastre [Récent];-13;-98;-35
+6026010;Araignée Géante Malade [Immature];-99;-97;-7
+6008731;Diablotin [Favori];-8;-78;-11
+5922520;Diablotin [Suprême];-56;-68;-18
+5947516;Pseudo-Dragon de Quatrième Cercle [Supérieur];-50;-82;-12
+6024920;Champi-Glouton Effrayé [Jeune];-88;-82;-16
+5961163;Abishaii Vert [Supérieur];-57;-17;-43
+6024753;Ver Carnivore Géant [Jeune];-86;-15;-24
+5770168;Gowap Apprivoisé [Ancêtre];0;0;-40
+6035818;Glouton [Bébé];7;-37;-42
+6026801;Chauve-Souris Gigantesque [Enfançon];-53;-53;-6
+6038989;Elémentaire de Feu de Second Cercle [Initial];-52;-81;-41
+5966314;Diablotin [Supérieur];-12;-51;-37
+6015552;Tutoki Esculape [Adulte];-57;-54;-28
+6038396;Crasc Médius Parasitus [Nouveau];-39;-97;-33
+6038086;Bouj'Dla [Nouveau];-75;-81;-40
+6022237;Nécrophage Cogneur [Récent];-73;-47;-17
+6030756;Fungus Violet [Nouveau];-62;-7;-8
+6035195;Harpie Fustigatrice [Nouvelle];-50;-12;-6
+6035193;Harpie [Nouvelle];-48;-13;-6
+6028703;Ours-Garou [Jeune];-72;-4;-41
+5985621;Pseudo-Dragon Cogneur [Majeur];-59;-100;-15
+6015959;Esprit-Follet [Adulte];-98;-39;-34
+6038069;Elémentaire d'Eau Cogneur [Initial];-53;-9;-38
+6022700;Spectre [Récent];-86;-37;-30
+5960324;Zombie Psychophage [Antique];-100;-66;-18
+6034630;Ver Carnivore Géant [Nouveau];-28;-4;-20
+6001790;Gowap Apprivoisé [Adulte];-8;-14;-13
+5997767;Shaman Furgolin [Vétéran];-131;-131;-20
+6038919;Crasc Traqueur [Nouveau];-66;-95;-8
+5938995;Zombie [Ancestral];-69;-86;-31
+5801848;Gowap Sauvage Enragé [Ancien];-133;-128;-15
+6032379;Strige Ouvrière [Larve];-12;-60;-3
+6038258;Yéti [Nouveau];-32;-28;-19
+6025850;Ver Carnivore Géant Coriace [Jeune];-41;-43;-26
+6030052;Lézard Géant [Jeune];-34;-1;-15
+5800991;Gowap Apprivoisé Cogneur [Ancien];-30;-29;-32
+5979584;Gnoll [Briscard];-63;-65;-17
+6017868;Tigre-Garou Alchimiste [Adulte];-66;-75;-43
+6028230;Veskan du Chaos [Jeune];-11;-7;-39
+6029907;Tigre-Garou Effrayé [Jeune];-12;-38;-24
+6024669;Gremlins [Jeune];-29;-35;-7
+6038953;Glouton [Bébé];-9;-101;-44
+6031630;Homme-Lézard [Nouveau];-65;-64;-17
+6036946;Chimère [Nouvelle];-44;-65;-33
+6035867;Esprit-Follet Fouisseur [Nouveau];-79;-92;-32
+6031423;Paysan Yuan-ti [Nouveau];5;-70;-35
+6038271;Yéti [Nouveau];-38;-74;-18
+6022255;Spectre [Récent];-45;-5;-37
+6020167;Pseudo-Dragon [Mineur];-92;-54;-29
+6020210;Pseudo-Dragon [Mineur];-20;-68;-26
+6038132;Gros Ectoplasme [Naissant];-57;-23;-36
+6002665;Diablotin des Abysses [Favori];-8;-44;-20
+6013855;Tertre Errant [Adulte];-31;1;-40
+5858079;Golem de cuir [Légendaire];-51;-17;-27
+6019132;Ectoplasme [Ancien];-46;-79;-41
+6036179;Veskan du Chaos [Nouveau];-10;-5;-39
+6020203;Pseudo-Dragon Coriace [Mineur];-35;-22;-41
+6038394;Crasc Médius Parasitus [Nouveau];-25;-79;-32
+5949355;Sorcière [Doyenne];7;-88;-44
+5968678;Monstre Rouilleur [Doyen];-84;-33;-31
+5936754;Pseudo-Dragon [Suprême];-88;-23;-19
+6015685;Grand Frondeur Hurleur [Adulte];-43;-36;-29
+6038877;Caillouteux [Nouveau];7;-18;-1
+6036482;Glouton [Bébé];-5;-7;-41
+6036263;Ame-en-peine [Naissante];-25;-84;-16
+6039003;Sorcière Coriace [Nouvelle];-89;-87;-36
+6028662;Spectre Implacable [Récent];-54;-32;-33
+5989741;Minotaure Corrompu [Briscard];-64;-38;-34
+6035606;Worg [Nouveau];-93;-17;-14
+6029600;Kobold Alchimiste [Jeune];-59;-19;-5
+6038194;Manticore [Nouvelle];-99;-90;-20
+5768064;Gowap Apprivoisé [Ancien];0;0;-40
+5977626;Ver Carnivore Géant Frénétique [Briscard];-54;-10;-43
+6013567;Worg [Adulte];-62;-42;-28
+6017073;Pseudo-Dragon des Abysses [Mineur];-46;-19;-32
+6011288;Pseudo-Dragon [Mineur];-87;-60;-17
+6025791;Spectre Archaïque [Récent];-99;-9;-25
+6032797;Mille-Pattes Géant [Larve];-13;-65;-31
+6038628;Yuan-ti [Nouveau];-51;-1;-40
+6025498;Tigre-Garou Cogneur [Jeune];-100;-35;-32
+6038421;Crasc [Nouveau];-24;-53;-28
+5997774;Furgolin [Vétéran];-39;-42;-28
+6014033;Pseudo-Dragon [Mineur];-88;-92;-29
+6014037;Pseudo-Dragon [Mineur];-83;-28;-23
+6016493;Lézard Géant Coriace [Adulte];-65;-51;-16
+5768458;Gowap Apprivoisé [Ancien];0;-4;-40
+6030008;Mille-Pattes Géant [Immature];-12;-59;-28
+6035912;Raquettou [Nouveau];-9;-70;-14
+6030184;Hellrot [Novice];-57;-17;-33
+6031040;Paysan Tigre-Garou [Nouveau];-31;-84;-19
+6032352;Fungus Géant [Nouveau];-17;-22;-18
+6027708;Elémentaire de Feu [Novice];-61;-28;-43
+5874329;Diablotin [Suprême];-78;-2;-22
+5966273;Pseudo-Dragon [Supérieur];-78;-10;-12
+5922098;Gnu Sauvage Coriace [Ancien];-134;-128;-3
+6038874;Caillouteux [Nouveau];-31;-24;-3
+6037315;Lutin [Nouveau];-54;-29;-8
+6002573;Diablotin [Favori];-61;-78;-29
+6033132;Crasc Ronfleur [Nouveau];-136;-17;-26
+5999797;Pseudo-Dragon [Favori];-84;-81;-22
+5941870;Sagouin [Ancien];-25;-53;-15
+6035812;Bouj'Dla [Nouveau];-50;-33;-38
+6035504;Elémentaire d'Air [Initial];-24;-27;-44
+6033056;Chonchon [Nouveau];-60;-46;-44
+6008457;Amibe Géante [Vétéran];-66;-53;-19
+6036587;Orque [Nouveau];-3;2;-14
+6037785;Hurleur Ronfleur [Nouveau];-21;-83;-18
+5953617;Abishaii Noir [Supérieur];-50;-98;-26
+6020790;Bouj'Dla Cogneur [Adulte];-10;-62;-44
+5971676;Zombie [Antique];-75;-62;-26
+5983855;Gremlins Coriace [Briscard];-41;-73;-26
+6020024;Petit Nuage d'Insectes [Juvénile];-49;-51;-12
+6029063;Petit Chonchon [Jeune];-56;-71;-42
+6015635;Spectre [Ancien];-29;-30;-30
+6034369;Méduse [Nouvelle];-49;-72;-12
+5965573;Worg Malade [Doyen];-130;-130;-9
+5774881;Gowap Apprivoisé [Ancien];-25;-100;-30
+5962516;Pseudo-Dragon [Supérieur];-80;-40;-11
+5997498;Petit Raquettou [Vétéran];-76;-35;-6
+6037008;Fungus Violet Malade [Nouveau];-3;-5;-31
+6002560;Pseudo-Dragon [Favori];-90;-25;-9
+6036136;Thri-kreen [Larve];-17;-74;-17
+6036331;Scorpion Géant [Larve];-33;-35;-16
+6038542;Limace Géante Lobotomisatrice [Larve];-68;-78;-31
+6030310;Amibe Géante [Jeune];-76;-96;-16
+6038594;Amibe Géante Colossale [Nouvelle];2;-88;-27
+6018820;Sagouin [Jeune];-18;-97;-7
+6038137;Ankheg [Larve];-41;-42;-21
+6021797;Tertre Errant [Adulte];-30;-72;-40
+6021025;Bulette Corrompue [Adulte];-57;-55;-44
+5997761;Shaman Furgolin [Vétéran];-133;-135;-20
+6037918;Grosse Nuée de Vermine [Larve];-60;-3;-29
+5987253;Guerrier Gnoll [Briscard];-97;-37;-29
+6034724;Amibe Géante Traqueuse [Nouvelle];-57;-22;-17
+6005686;Pseudo-Dragon [Favori];-19;-100;-13
+6038021;Tertre Errant [Nouveau];-23;-74;-38
+6038416;Crasc [Nouveau];-53;-36;-24
+5990219;Ettin [Briscard];-70;-90;-30
+6008530;Amibe Géante [Vétéran];-48;-63;-21
+6017094;Diablotin [Mineur];-22;-3;-28
+6008643;Diablotin [Favori];-99;-90;-22
+6035842;Voleur Golem d'Argile [Nouveau];-21;-33;-42
+6033706;Kobold [Nouveau];-38;-92;-3
+6033887;Feu Follet [Nouveau];-76;-20;-41
+6033885;Feu Follet Gargantuesque [Nouveau];-77;-20;-41
+6032086;Anaconda des Catacombes [Nouveau];-55;-62;-18
+6019538;Hurleur Malade [Adulte];-128;-133;-9
+6013193;Frondeur Champi-Glouton [Adulte];-56;-37;-11
+6036197;Spectre Cogneur [Naissant];-35;2;-26
+6038899;Grand Frondeur Caillouteux [Nouveau];3;-35;-4
+6038901;Caillouteux [Nouveau];5;-20;-2
+6036864;Abishaii Bleu [Initial];-9;-80;-39
+6037314;Gnu Sauvage [Bébé];-25;-10;-1
+6022859;Bulette [Jeune];-41;-44;-40
+6020671;Erinyes Ronfleuse [Mineure];-3;-18;-26
+6013589;Rocketeux [Adulte];-80;-50;-11
+5976164;Golem de Chair [Briscard];-91;-7;-24
+6026074;Pseudo-Dragon [Novice];1;-96;-28
+6034323;Tigre-Garou [Nouveau];-70;-51;-19
+5966312;Diablotin de Troisième Cercle [Supérieur];-7;-79;-31
+6035986;Crasc parasitus [Nouveau];-23;0;-31
+6035807;Veskan du Chaos [Nouveau];-49;-38;-42
+5971601;Worg Cracheur [Doyen];-72;-43;-19
+6019654;Molosse Satanique Cogneur [Mineur];-5;-132;-28
+5961762;Nécrophage [Antique];-47;-96;-39
+6023103;Méduse [Jeune];-74;-40;-20
+5946537;Squelette [Antique];-68;-20;-21
+5998470;Lutin [Vétéran];2;-76;-16
+6031324;Ombre [Récente];-4;-39;-7
+5802127;Gowap Apprivoisé Enragé [Ancien];-129;-132;-30
+6016574;Squelette [Ancien];-87;-72;-18
+6009036;Ettin Malade [Vétéran];4;-56;-15
+5940323;Diablotin [Suprême];-84;-11;-39
+6008873;Gnu Sauvage [Adulte];-127;-130;-3
+6037802;Bondin Coriace [Nouveau];-3;-84;-19
+6033974;Gros Croquemitaine [Naissant];-6;-96;-9
+6038228;Familier [Nouveau];-8;-3;-29
+6012090;Caillouteux [Adulte];-36;-7;-15
+6023064;Gorgone [Jeune];-96;-48;-29
+5955595;Paysan Kobold [Doyen];-61;-80;-22
+6003743;Basilisk [Vétéran];-79;-43;-33
+6036343;Scorpion Géant [Larve];-40;-16;-28
+6030066;Rocketeux [Jeune];-77;-8;-6
+5910475;Squelette Cogneur [Ancestral];-73;-76;-13
+6031072;Nuage d'Insectes [Larve];-85;-20;-13
+6017024;Diablotin Cogneur [Mineur];-77;-27;-33
+5996985;Diablotin [Favori];-61;-46;-33
+6002596;Prince Pseudo-Dragon [Favori];-80;-95;-44
+6031288;Scorpion Géant Ronfleur [Larve];-12;-59;-28
+6020053;Zombie Cogneur [Ancien];-65;-67;-9
+5966247;Pseudo-Dragon Ronfleur [Supérieur];-96;-17;-21
+6028843;Loup-Garou Malade [Jeune];-70;-44;-26
+6019170;Kobold [Adulte];-75;-86;-14
+6036577;Spectre [Naissant];-43;-61;-23
+6036486;Dindon Du Glacier [Bébé];-30;-27;-15
+6028704;Banshee Coriace [Récente];-91;2;-42
+6036774;Sorcière [Nouvelle];-43;-45;-28
+6015302;Amibe Géante [Adulte];-1;-31;-29
+6008601;Diablotin Cogneur [Favori];-83;-54;-34
+5802778;Gowap Apprivoisé Enragé [Ancêtre];-48;-65;-37
+6038880;Caillouteux [Nouveau];-76;-35;-1
+6023076;Squelette Corrompu [Récent];-70;-89;-10
+6020917;Bouj'Dla Placide [Adulte];-97;-99;-36
+5969624;Squelette Cogneur [Antique];-81;-77;-24
+6035192;Harpie [Nouvelle];-49;-11;-6
+6026086;Gros Pseudo-Dragon [Novice];-11;-54;-44
+6038050;Bouj'Dla Esculape [Nouveau];-35;-37;-41
+6036480;Bouj'Dla Esculape [Nouveau];-85;-48;-36
+6002624;Pseudo-Dragon [Favori];-42;-19;-21
+6034728;Guerrier Rocketeux [Nouveau];-54;-25;-14
+5811010;Gowap Sauvage Enragé [Ancien];-128;-128;-18
+5954011;Kobold [Doyen];-37;-69;-16
+5964404;Spectre [Antique];-81;-94;-36
+6028985;Zombie Implacable [Récent];-80;-46;-12
+6008194;Scout Méduse [Vétéran];-99;-47;-28
+5998648;Mimique Ronfleur [Vétéran];-64;-62;-3
+6030023;Ver Carnivore Géant [Jeune];-7;-74;-37
+6025792;Golem d'Argile Effrayé [Jeune];-73;-18;-36
+6037118;Golem d'Argile Berserker [Nouveau];-18;-28;-36
+6015961;Esprit-Follet [Adulte];-98;-39;-34
+6011152;Champi-Glouton [Adulte];-14;-100;-21
+6017004;Diablotin [Mineur];-93;3;-38
+6038992;Hellrot [Initial];-31;-21;-37
+6033719;Worg Ronfleur [Nouveau];-44;-48;-12
+6029134;Hellrot [Novice];-4;-59;-37
+6024080;Behir Ronfleur [Jeune];-31;-60;-33
+5980860;Anaconda des Catacombes [Briscard];-37;-46;-22
+6034111;Lézard [Nouveau];-39;-47;-5
+6028238;Tubercule Tueur [Enfançon];-86;-90;-28
+6032715;Golem d'Argile Corrompu [Nouveau];-77;-55;-30
+5962514;Pseudo-Dragon [Supérieur];-99;-53;-37
+5915580;Diablotin de Troisième Cercle [Suprême];-70;-81;-15
+5839440;Rocketeux [Légendaire];-62;-78;-36
+6021053;Glouton Cogneur [Jeune];-75;-98;-40
+6020502;Rocketeux [Adulte];0;-68;-15
+5985719;Archiatre Pseudo-Dragon [Majeur];-26;-19;-17
+6038254;Yéti [Nouveau];-32;-57;-17
+5972761;Squelette [Séculaire];-93;-70;-8
+5912045;Pseudo-Dragon [Suprême];-2;-94;-16
+6038852;Caillouteux Effrayé [Nouveau];-32;-15;-2
+5971953;Fungus Violet Ronfleur [Doyen];-96;1;-8
+6038057;Abishaii Rouge [Initial];-14;-61;-43
+5974014;Tubercule Tueur [Mature];-6;-90;-31
+6032120;Shaman Géant de Pierre [Nouveau];-99;2;-38
+6020896;Bouj'Dla Placide [Adulte];-9;-58;-32
+6002013;Cockatrice [Vétéran];-10;-98;-18
+5983168;Nécrophage Coriace [Séculaire];-94;-18;-22
+5808521;Gowap Sauvage Malade [Ancien];-72;-47;-24
+6032549;Bouj'Dla [Nouveau];-5;-51;-31
+6025923;Naga [Jeune];-78;-87;-29
+5952282;Gorgone [Doyenne];-95;-35;-34
+6015361;Héros Rocketeux [Adulte];-52;-78;-16
+6013928;Paysan Minotaure [Adulte];-4;-50;-27
+5980957;Pseudo-Dragon [Majeur];6;-55;-28
+5980958;Pseudo-Dragon [Majeur];-25;-25;-7
+5999798;Pseudo-Dragon [Favori];-82;-81;-23
+6037055;Glouton [Bébé];-46;-97;-36
+6014067;Pseudo-Dragon [Mineur];-51;-58;-23
+6035608;Worg [Nouveau];-85;4;-15
+6034727;Rocketeux [Nouveau];-56;-27;-15
+6011290;Pseudo-Dragon [Mineur];-78;-36;-32
+5994080;Pseudo-Dragon [Majeur];-57;-39;-34
+6037047;Bouj'Dla Fustigateur [Nouveau];-83;-31;-35
+5974225;Sagouin [Mature];-71;1;-11
+5923409;Nécrophage [Ancestral];-35;-100;-23
+5811163;Gowap Apprivoisé Malade [Ancien];-25;-80;-35
+6038070;Golem d'Argile [Nouveau];-32;-6;-25
+6033894;Tigre-Garou [Nouveau];-41;-43;-21
+6024061;Ver Carnivore Géant [Jeune];-11;-71;-24
+6014229;Ver Carnivore Géant Esculape [Adulte];-57;-43;-36
+6019095;Anaconda des Catacombes Coriace [Adulte];-73;-72;-26
+6029444;Paysan Gobelin Magique [Jeune];-130;-128;-35
+6036099;Glouton [Bébé];-74;-98;-39
+6037181;Loup-Garou [Nouveau];-60;-70;-14
+6036195;Succube [Initiale];-86;-74;-22
+6022806;Rocketeux [Jeune];-13;-17;-11
+6027746;Scorpion Géant [Immature];-3;-1;-25
+6035868;Esprit-Follet [Nouveau];-78;-94;-32
+6023297;Pseudo-Dragon Corrompu [Novice];-16;-81;-33
+6014047;Pseudo-Dragon Fanatique [Mineur];-67;-45;-28
+6029986;Thri-kreen Ouvrier [Immature];-88;-3;-33
+6034110;Lézard Géant [Nouveau];-41;-46;-5
+6037138;Tigre-Garou Effrayé [Nouveau];5;-68;-24
+5991666;Squelette [Séculaire];-72;-18;-24
+6027639;Paysan Rocketeux [Jeune];-52;-86;-13
+6036277;Slaad Fustigateur [Nouveau];-51;-10;-10
+6016333;Ankheg [Juvénile];5;-35;-31
+6010077;Rat-Garou Effrayé [Adulte];-6;-65;-12
+5790546;Gowap Apprivoisé [Ancien];-31;-47;-15
+6023780;Worg Malade [Jeune];-127;-134;-6
+5994474;Sagouin [Mature];-38;-69;-12
+6005994;Homme-Lézard [Vétéran];-68;-90;-26
+5886561;Croquemitaine Mentat [Ancestral];-76;-99;-31
+6030371;Scarabée Géant [Larve];-70;-19;-11
+6005700;Pseudo-Dragon [Favori];-76;-63;-21
+6008686;Pseudo-Dragon Malade [Favori];-25;-63;-21
+6022374;Squelette Nécromant [Récent];-83;-1;-10
+6016997;Pseudo-Dragon Cogneur [Mineur];-96;-96;-28
+6004147;Golem de Chair [Vétéran];-18;-100;-21
+5998480;Cockatrice Fustigatrice [Vétéran];-54;-57;-31
+6029927;Méduse [Jeune];-58;-34;-25
+5939946;Squelette [Ancestral];-13;-66;-25
+6038029;Sorcière [Nouvelle];-67;-2;-35
+5950495;Squelette [Antique];-99;-96;-28
+6006429;Lutin [Vétéran];-54;-73;-24
+6016848;Gorgone [Adulte];-51;-94;-30
+6032203;Yéti [Nouveau];-34;-1;-18
+6032126;Spectre Psychophage [Naissant];-21;-8;-36
+5951835;Zombie Malade [Antique];-71;-86;-31
+5947539;Diablotin [Supérieur];-92;-68;-21
+5970284;Squelette [Antique];-99;-62;-10
+6025628;Méduse [Jeune];0;-20;-17
+6038460;Boggart [Nouveau];-41;-17;-5
+5962517;Pseudo-Dragon [Supérieur];-58;-40;-16
+6025603;Amibe Géante [Jeune];-29;-24;-20
+6038988;Abishaii Vert Corrompu [Initial];-80;-67;-35
+6003850;Cockatrice [Vétéran];-4;-59;-26
+6022641;Petit Bondin [Jeune];-85;-54;-17
+6006077;Scorpion Géant Malade [Imago];-4;-80;-28
+6032823;Sorcière [Nouvelle];-44;-53;-34
+6035836;Ver Carnivore Gargantuesque [Nouveau];-74;-22;-26
+5871100;Frondeur Kobold [Légendaire];-131;-132;-5
+6025034;Zombie [Récent];-24;-43;-21
+5934803;Squelette [Ancestral];-81;-78;-24
+5923939;Gros Squelette [Ancestral];-95;-9;-14
+6028712;Kobold [Jeune];-39;-5;-7
+6032363;Fungus Géant [Nouveau];-73;-48;-18
+5958495;Pseudo-Dragon [Supérieur];-76;-34;-18
+5982515;Yéti [Briscard];-27;-81;-37
+6021055;Glouton [Jeune];-78;-100;-40
+6021056;Bulette Ronfleuse [Adulte];-9;-84;-43
+6034944;Familier [Nouveau];-50;-83;-38
+6007216;Petit Golem de Chair [Vétéran];-51;-74;-28
+5971026;Rat-Garou [Doyen];-96;-20;-18
+5963974;Plante Carnivore [Doyenne];-50;-71;-8
+6030728;Méduse [Nouvelle];1;-43;-19
+6028875;Pseudo-Dragon [Novice];-78;-66;-29
+6038241;Champion Yéti [Nouveau];-11;-5;-19
+6034113;Héros Rat-Garou [Nouveau];-10;-87;-11
+6036190;Esprit-Follet Cogneur [Nouveau];-22;-3;-32
+5789422;Pseudo-Dragon [Suprême];-97;-94;-15
+5966379;Pseudo-Dragon [Supérieur];-2;-95;-18
+6008624;Pseudo-Dragon [Favori];-95;-44;-26
+5991007;Squelette [Séculaire];-11;-92;-25
+6037074;Hellrot Corrompu [Initial];-23;-74;-40
+6024909;Monstre Rouilleur [Jeune];-31;-97;-5
+6036108;Esprit-Follet Colossal [Nouveau];-96;-45;-38
+6014271;Tubercule Tueur [Jeune];-88;4;-28
+6028988;Worg [Jeune];-40;-16;-28
+6037859;Lutin [Nouveau];-72;-71;-10
+6031024;Voleuse Sorcière [Nouvelle];-44;-54;-34
+6035194;Harpie [Nouvelle];-50;-12;-6
+6012923;Sorcier Gnoll [Adulte];-42;-84;-22
+5944247;Gros Pseudo-Dragon [Suprême];-51;-19;-12
+6025290;Behir [Jeune];-71;-91;-33
+5947543;Diablotin [Supérieur];-68;-44;-26
+6030710;Ame-en-peine [Naissante];-41;-19;-16
+5997024;Pseudo-Dragon [Favori];-26;-73;-9
+5950665;Gorgone Ronfleuse [Doyenne];-25;-56;-33
+6013677;Gowap Apprivoisé [Jeune];-28;-80;-30
+6008690;Pseudo-Dragon [Favori];-15;-27;-20
+6012937;Gnoll [Adulte];-91;-65;-23
+6031814;Pseudo-Dragon de Troisième Cercle [Initial];3;-31;-44
+6028658;Yuan-ti [Jeune];-26;-24;-25
+6018393;Tubercule Tueur [Jeune];-12;-62;-28
+6030269;Géant de Pierre [Jeune];-22;-67;-28
+6029603;Rocketeux [Jeune];-59;-10;-13
+6028759;Esprit-Follet [Jeune];-5;-78;-32
+6036963;Chimère [Nouvelle];-58;-31;-33
+6027367;Sorcière [Jeune];-44;-53;-34
+6030388;Scarabée Géant [Larve];-35;-34;-3
+5813298;Gowap Sauvage Malade [Ancien];-131;-130;-15
+6038172;Familier [Doyen];-114;-114;-40
+6038160;Ogre [Nouveau];-8;-96;-16
+5952253;Gorgone [Doyenne];-59;-58;-38
+5974262;Pseudo-Dragon de Second Cercle [Majeur];-80;-20;-12
+6035551;Gorgone [Nouvelle];-10;-11;-20
+6010937;Naga Malade [Adulte];-95;-45;-33
+6029529;Xorn Corrompu [Novice];-52;-45;-44
+6013968;Gorgone [Adulte];-64;-56;-39
+6017867;Gorgone Esculape [Adulte];-59;-74;-40
+5929135;Kobold Coriace [Légendaire];-60;-80;-22
+5978655;Gowap Apprivoisé [Mature];-45;-32;-22
+6026075;Pseudo-Dragon Coriace [Novice];-1;-61;-38
+5983414;Zombie Mentat [Séculaire];-79;-95;-21
+6030602;Xorn Malade [Initial];-18;-52;-24
+6038952;Glouton [Bébé];-9;-101;-44
+6008559;Slaad [Vétéran];-52;-35;-22
+5994087;Pseudo-Dragon [Majeur];-57;-95;-25
+6023604;Xorn [Mineur];-60;-64;-29
+6036281;Amibe Géante Colossale [Nouvelle];-53;-38;-28
+6019914;Shaman Golem d'Argile [Adulte];-39;-68;-41
+6033552;Behir Fustigateur [Nouveau];-40;-89;-29
+5972746;Petit Nécrophage [Séculaire];-61;-82;-18
+6009671;Spectre Corrompu [Vénérable];-40;-95;-39
+6007428;Sorcière Méduse [Vétéran];-5;-30;-15
+6033516;Champion Veskan du Chaos [Nouveau];-7;-6;-38
+6030986;Mille-Pattes Géant [Larve];1;-59;-22
+6031534;Méduse [Nouvelle];-35;-63;-15
+6025271;Behir [Jeune];-75;-30;-40
+5799758;Gowap Apprivoisé Corrompu [Ancien];-50;-65;-44
+6026671;Furgolin [Jeune];-15;-3;-18
+6015238;Golem d'Argile Malade [Adulte];-43;-59;-44
+6030772;Rat-Garou Malade [Nouveau];-50;-19;-7
+5923395;Spectre [Ancestral];-100;-54;-38
+6017044;Diablotin [Mineur];-72;-63;-26
+6023101;Hurleur [Jeune];-11;-3;-18
+5941865;Slaad Cogneur [Légendaire];-130;-131;-20
+5960872;Frondeur Rocketeux [Doyen];-129;-130;-11
+6007571;Ombre [Vénérable];-25;-73;-9
+5985624;Diablotin [Majeur];-38;-46;-29
+5985625;Pseudo-Dragon de Premier Cercle [Majeur];-70;-19;-20
+5798785;Gowap Sauvage Enragé [Ancien];-131;-131;-10
+5798796;Gowap Apprivoisé [Ancien];-30;-19;-22
+6011652;Voleur Rocketeux [Adulte];-78;-50;-11
+6038973;Géant de Pierre Cogneur [Nouveau];-93;-12;-33
+6033561;Abishaii Bleu [Initial];-40;-12;-42
+6038210;Sagouin [Bébé];-91;-21;-5
+5922542;Diablotin [Suprême];-62;-95;-19
+6035409;Mouch'oo Sauvage [Nouveau];-11;-41;-24
+6037976;Elémentaire d'Air [Initial];-24;-27;-44
+6011651;Rocketeux [Adulte];-68;-52;-10
+6038074;Tigre-Garou Coriace [Nouveau];-68;-48;-39
+5944260;Pseudo-Dragon [Suprême];-95;-5;-25
+6035055;Manticore Fustigatrice [Nouvelle];2;-51;-16
+6013588;Rocketeux [Adulte];-79;-51;-12
+6018392;Tubercule Tueur [Jeune];-12;-62;-28
+5958452;Diablotin de Quatrième Cercle [Supérieur];-96;-8;-41
+5799061;Gowap Apprivoisé [Ancêtre];-29;-79;-32
+5799067;Gowap Apprivoisé Ronfleur [Ancêtre];-75;-7;-25
+6037156;Goule Psychophage [Naissante];-21;-40;-10
+6034264;Gorgone Fustigatrice [Nouvelle];-14;-25;-28
+5944753;Slaad Coriace [Légendaire];-59;-36;-35
+5799177;Gowap Sauvage Enragé [Ancien];-128;-132;-6
+5799194;Gowap Apprivoisé Corrompu [Ancien];-32;-46;-26
+5977851;Diablotin [Majeur];-63;-66;-31
+6028052;Paysan Orque [Jeune];-30;-11;-7
+5799258;Gowap Apprivoisé Cogneur [Ancien];-40;-46;-17
+6023347;Archiatre Pseudo-Dragon [Novice];7;-10;-30
+5990366;Rat-Garou Effrayé [Briscard];-2;-76;-8
+6036098;Glouton [Bébé];-74;-99;-40
+6032278;Orque Effrayé [Nouveau];-57;-86;-12
+5799402;Gowap Sauvage Malade [Ancien];-128;-130;-3
+6030068;Rocketeux [Jeune];-66;-5;-16
+5799431;Gowap Apprivoisé [Ancien];-48;-65;-37
+5799432;Gowap Apprivoisé Fouisseur [Ancien];-48;-65;-37
+6019492;Ectoplasme [Ancien];-67;-91;-39
+6038900;Champion Caillouteux [Nouveau];-70;-44;-4
+5855845;Diablotin [Suprême];-94;-69;-18
+5973618;Gnu Sauvage [Mature];-131;-132;-1
+5911992;Pseudo-Dragon de Quatrième Cercle [Suprême];-83;-27;-12
+6035372;Crasc Parasitus [Nouveau];-21;-24;-8
+6028852;Hurleur [Jeune];-41;-36;-30
+5799536;Gowap Apprivoisé [Ancien] Ounishlapy;-40;-93;-36
+5799539;Gowap Apprivoisé [Ancien];-9;-64;-9
+5799565;Gowap Sauvage Malade [Ancien];-132;-130;-14
+6025785;Ours-Garou [Jeune];2;-73;-39
+6030286;Familier [Briscard];-41;2;-33
+6035211;Ankheg [Larve];-23;-47;-24
+6027052;Elémentaire d'Eau Corrompu [Novice];-23;-63;-40
+6008057;Manticore Frénétique [Vétéran];-72;-57;-26
+5799704;Gros Gowap Apprivoisé [Ancien];-26;-79;-32
+6008580;Worg Malade [Vétéran];-131;-130;-6
+6035038;Sorcière [Nouvelle];-25;-48;-37
+6013910;Gowap Apprivoisé [Jeune];-28;-80;-30
+6035686;Grosse Pititabeille [Larve];-89;0;-14
+6035675;Grosse Pititabeille [Larve];-86;2;-31
+6031599;Voleur Homme-Lézard [Nouveau];-48;-14;-11
+6025510;Gorgone [Jeune];-45;-71;-37
+6028878;Pseudo-Dragon [Novice];-79;-3;-36
+6029313;Fungus Violet Fouisseur [Jeune];-58;-75;-7
+6023251;Pseudo-Dragon [Novice];-67;-88;-22
+6008627;Diablotin [Favori];-79;-29;-17
+6026678;Furgolin [Jeune];-26;-70;-36
+6013816;Gorgone [Adulte];-1;-63;-40
+5977797;Diablotin Invocateur [Majeur];-86;-14;-33
+6016787;Petite Bulette [Adulte];-57;-71;-39
+5800352;Gowap Sauvage Malade [Ancien];-131;-128;-4
+6036174;Esprit-Follet [Nouveau];7;-29;-32
+6007325;Anaconda des Catacombes [Vétéran];-56;-31;-31
+5799983;Gowap Sauvage Malade [Ancien];-133;-133;-2
+5799984;Gowap Apprivoisé [Ancien] Ourobouros;-40;-93;-37
+5799986;Gowap Apprivoisé Corrompu [Ancien];-48;-65;-37
+6038135;Sorcière [Nouvelle];-64;-7;-31
+5799997;Gowap Apprivoisé Malade [Ancêtre];-129;-128;-32
+5994059;Pseudo-Dragon [Majeur];-81;-12;-30
+6036897;Hurleur [Nouveau];-13;-33;-24
+6032136;Voleuse Sorcière [Nouvelle];-67;1;-35
+6031595;Homme-Lézard [Nouveau];-20;-68;-14
+6002550;Pseudo-Dragon [Favori];-48;-96;-19
+6036594;Bondin [Nouveau];-80;-23;-18
+5800048;Gowap Apprivoisé [Ancien];5;-82;-30
+5933225;Pseudo-Dragon [Suprême];-41;3;-26
+6008597;Diablotin [Favori];-92;-84;-25
+6016017;Golem de Chair Mutant [Adulte];-3;-61;-33
+6030312;Ver Carnivore Géant [Jeune];-80;-45;-21
+5800114;Gowap Apprivoisé [Ancien];-25;-80;-32
+6034618;Ver Carnivore Géant [Nouveau];-92;-34;-26
+6020400;Sorcière [Adulte];-61;-28;-43
+5947582;Pseudo-Dragon [Supérieur];-32;-72;-10
+5940335;Diablotin de Quatrième Cercle [Suprême];-62;-95;-20
+6018313;Ver Carnivore Géant Cracheur [Adulte];-2;-39;-39
+6025496;Xorn Corrompu [Novice];-26;-15;-42
+5985759;Pseudo-Dragon Fanatique [Majeur];-4;-32;-36
+6008598;Pseudo-Dragon de Second Cercle [Favori];-67;-85;-27
+6038754;Méduse [Nouvelle];3;-4;-10
+6038221;Méduse [Nouvelle];-38;-2;-8
+5977831;Diablotin Coriace [Majeur];-42;-75;-27
+6033001;Rocketeux [Nouveau];-22;-18;-10
+5800367;Gowap Apprivoisé Cogneur [Ancien];-29;-79;-32
+5800401;Gowap Apprivoisé Corrompu [Ancien];-48;-65;-37
+6038907;Frondeur Caillouteux [Nouveau];-68;-4;-4
+5800415;Gowap Sauvage Malade [Ancien];-130;-132;-6
+6030697;Ombre de Roches Colossale [Nouvelle];-42;-36;-35
+6020221;Pseudo-Dragon [Mineur];0;-57;-30
+5800662;Gros Gowap Apprivoisé [Ancien];-31;-45;-26
+5800667;Gowap Apprivoisé [Ancêtre];-25;-80;-34
+6016573;Squelette [Ancien];-62;-51;-10
+5942535;Gros Croquemitaine [Ancestral];-76;-99;-31
+6025908;Naga Ronfleur [Jeune];-47;-19;-22
+6004560;Cockatrice Coriace [Vétéran];-8;-97;-17
+5800865;Gowap Apprivoisé [Ancien];-29;-79;-32
+5926670;Zombie [Ancestral];-77;-29;-21
+5800750;Gros Gowap Apprivoisé [Ancien];-31;-45;-26
+6010788;Spectre [Ancien];-4;-53;-44
+6038134;Sorcière [Nouvelle];-61;-8;-34
+6027750;Scorpion Géant Cogneur [Immature];-94;-53;-40
+5994822;Tigre-Garou [Briscard];5;-6;-29
+6037724;Ours-Garou [Nouveau];-54;-27;-31
+6019007;Esprit-Follet [Adulte];-65;-82;-32
+5915558;Diablotin Cogneur [Suprême];-99;-59;-17
+5800800;Gowap Apprivoisé [Ancien];7;-85;-32
+6035469;Kobold [Nouveau];-87;-72;-5
+6017985;Bondin Ronfleur [Adulte];-52;-23;-33
+5800932;Gowap Apprivoisé [Ancien] Danse avec les Crascs;-37;-93;-37
+6031537;Cockatrice Malade [Nouvelle];-93;-4;-21
+5801006;Gowap Apprivoisé [Ancêtre];-132;-131;-17
+6024299;Ame-en-peine [Récente];-87;-10;-22
+6014892;Mouch'oo Sauvage [Adulte];-5;-85;-43
+5975485;Molosse Satanique [Majeur];-99;-50;-31
+6027818;Ours-Garou Ronfleur [Jeune];-91;-2;-41
+5801059;Gowap Apprivoisé [Ancien];-131;-131;-17
+5970512;Pseudo-Dragon [Supérieur];-24;-25;-7
+6038080;Géant de Pierre Coriace [Nouveau];-11;-36;-36
+5801159;Gowap Apprivoisé Ronfleur [Ancien];-28;-45;-28
+6032010;Xorn Malade [Initial];-19;-79;-34
+6027254;Amibe Géante [Jeune];-77;-52;-22
+6023257;Pseudo-Dragon [Novice];-60;-37;-27
+6006153;Lézard Géant Coriace [Vétéran];-51;-88;-16
+6003222;Bouj'Dla Placide [Vétéran];-53;2;-32
+6035833;Tubercule Tueur Coriace [Bébé];-84;-35;-28
+6035428;Chimère [Nouvelle];-90;-53;-35
+5801755;Gowap Apprivoisé Attentionné [Ancien] de l'Équilibre;-2;-23;-1
+6001232;Gorgone [Vétéran];-67;-39;-35
+5801221;Gowap Apprivoisé Cogneur [Ancien];-29;-79;-32
+5966487;Sagouin [Chef de harde];-80;-2;-22
+5984767;Gnu Sauvage [Mature];-131;-131;-9
+6037775;Ver Carnivore Géant [Nouveau];-38;-67;-24
+5822593;Gowap Apprivoisé [Ancien];-55;-15;-44
+5801279;Gowap Apprivoisé Attentionné [Ancien];-31;-45;-29
+6002048;Shaman Kobold [Vétéran];-74;-23;-5
+5801296;Gowap Apprivoisé [Ancien];-51;-36;-31
+6013911;Gowap Apprivoisé [Jeune];-28;-79;-30
+6019493;Ectoplasme [Ancien];-68;-93;-39
+5801328;Gowap Apprivoisé Cogneur [Ancien];-129;-129;-33
+5801344;Gros Gowap Apprivoisé [Ancien] YokozunA;-5;-48;-31
+5801352;Gowap Apprivoisé [Ancêtre];-28;-79;-30
+5970012;Squelette [Antique];-72;-70;-19
+6010728;Rocketeux Effrayé [Vétéran];-18;-29;-13
+6008630;Pseudo-Dragon Malade [Favori];-96;-20;-28
+6025817;Basilisk Cracheur [Jeune];3;-94;-43
+5843617;Gowap Apprivoisé [Ancien];-32;-30;-35
+5801448;Gowap Sauvage Cogneur [Ancien];-71;-47;-22
+5801462;Gowap Apprivoisé Malade [Ancien];-130;-132;-9
+5801615;Gowap Apprivoisé Ronfleur [Ancêtre];-24;-81;-32
+6038049;Bouj'Dla Esculape [Nouveau];-31;-37;-41
+5801513;Gowap Apprivoisé Attentionné [Ancien];-24;-81;-32
+6038083;Succube de Quatrième Cercle [Initiale];-7;-19;-32
+5801609;Gowap Apprivoisé [Ancien];-25;-80;-32
+6018282;Golem d'Argile [Adulte];-31;-75;-31
+5801620;Gowap Apprivoisé Ronfleur [Ancien];-132;-131;-32
+6036319;Scorpion Géant [Larve];-50;-79;-22
+5970107;Squelette Coriace [Antique];-70;-72;-11
+5977791;Diablotin [Majeur];-97;-42;-27
+6029650;Amibe Géante Fouisseuse [Jeune];-37;-32;-15
+5801662;Gowap Sauvage Malade [Ancien];-132;-131;-15
+6032555;Bouj'Dla [Nouveau];2;1;-39
+5801688;Gowap Apprivoisé Fouisseur [Ancien];-86;-22;-24
+6012934;Gnoll Guérisseur [Adulte];-14;-30;-17
+5801731;Gowap Apprivoisé [Ancêtre];-30;-80;-32
+5801735;Gowap Apprivoisé [Ancien];-4;-19;-22
+6031512;Minotaure [Nouveau];-56;-26;-14
+5952813;Gowap Apprivoisé [Chef de harde];-23;-81;-33
+6020209;Pseudo-Dragon de Premier Cercle [Mineur];-4;-80;-28
+5801818;Gowap Apprivoisé Coriace [Ancien];-48;-65;-37
+6034479;Croquemitaine [Naissant];-6;-41;-35
+5801850;Gowap Apprivoisé Attentionné [Ancien];-30;-29;-32
+6021490;Xorn de Premier Cercle [Mineur];-99;-56;-44
+6007145;Basilisk [Vétéran];-80;-45;-35
+6010702;Rocketeux Alchimiste [Adulte];-13;-17;-11
+6036341;Scorpion Géant [Larve];-52;-80;-20
+5802708;Gowap Apprivoisé Ronfleur [Ancien];-75;-7;-25
+5991101;Pseudo-Dragon [Majeur];-56;-95;-27
+6009716;Gorgone [Vétéran];-26;-74;-24
+6034270;Yuan-ti [Nouveau];-9;-23;-27
+6029312;Fungus Violet [Jeune];-58;-75;-7
+6010276;Gros Bouj'Dla [Adulte];-100;-27;-42
+5801990;Gowap Apprivoisé [Ancien];-25;-80;-32
+5801991;Gowap Apprivoisé Attentionné [Ancien];-50;-65;-44
+5954608;Pseudo-Dragon [Supérieur];-78;-56;-32
+5802013;Gowap Apprivoisé Cogneur [Ancien];7;-85;-32
+5802016;Gowap Sauvage Malade [Ancien];-132;-132;-18
+6030279;Gorgone [Jeune];-55;-64;-31
+6002663;Diablotin [Favori];-15;-89;-12
+6024628;Succube de Second Cercle [Novice];-90;-26;-33
+5971488;Squelette Coriace [Antique];-92;-26;-26
+6023298;Diablotin [Novice];-26;-58;-39
+6023299;Pseudo-Dragon [Novice];-13;-72;-43
+6029531;Xorn Cogneur [Novice];-60;-25;-28
+6016455;Ombre de Roches Ronfleuse [Adulte];-82;-25;-43
+6001985;Spectre Coriace [Vénérable];-53;-89;-32
+6038370;Crasc parasitus [Nouveau];7;-19;-21
+6026043;Pseudo-Dragon [Novice];-95;-40;-18
+5950905;Pseudo-Dragon Malade [Supérieur];-69;-3;-28
+5802326;Gowap Apprivoisé Coriace [Ancêtre];-131;-131;-17
+5974714;Worg Cracheur [Briscard];-131;-128;-13
+5943140;Squelette [Ancestral];-3;-92;-26
+5802433;Gowap Sauvage Enragé [Ancien];-132;-131;-13
+6019943;Manticore [Adulte];-80;-32;-18
+5970346;Croquemitaine Mentat [Antique];-99;-95;-18
+5805723;Gowap Apprivoisé [Ancêtre];-6;-49;-31
+5803143;Gowap Apprivoisé [Ancien];-31;-45;-26
+5802831;Gowap Apprivoisé [Ancien];-31;-45;-29
+5940341;Diablotin des Abysses [Suprême];-61;-95;-10
+6031596;Homme-Lézard [Nouveau];-55;-68;-18
+5802477;Gowap Apprivoisé Cogneur [Ancien];-131;-132;-38
+5973562;Chimère Malade [Briscarde];-60;-97;-36
+5802494;Gowap Apprivoisé Cogneur [Ancien];-130;-131;-8
+5991104;Pseudo-Dragon [Majeur];-55;-54;-19
+5802508;Gros Gowap Apprivoisé [Ancien];-30;-29;-32
+6035400;Golem d'Argile Agressif [Nouveau];-69;-78;-32
+6035243;Slaad [Nouveau];-46;-67;-8
+6001289;Gowap Apprivoisé [Adulte];-25;-100;-30
+5802595;Gowap Apprivoisé Enragé [Ancien];-75;-7;-25
+6023051;Gorgone [Jeune];-91;-35;-24
+5802601;Gowap Apprivoisé Corrompu [Ancien];-29;-79;-32
+6017075;Pseudo-Dragon de Second Cercle [Mineur];-40;-12;-28
+5991093;Pseudo-Dragon [Majeur];-71;0;-20
+6009997;Golem de Chair [Vétéran];-93;-38;-17
+6014428;Rocketeux [Adulte];-99;-66;-13
+5964555;Squelette [Antique];-90;-27;-12
+5802675;Gowap Apprivoisé Attentionné [Ancien];-41;-46;-17
+6017029;Petit Pseudo-Dragon [Mineur];-84;0;-27
+6034304;Minotaure Malade [Nouveau];-28;-52;-9
+6009429;Gowap Apprivoisé [Adulte];-97;-96;-37
+6026319;Ours-Garou [Jeune];-15;-15;-42
+5802787;Gowap Apprivoisé [Ancien];-75;-7;-25
+5802837;Gowap Apprivoisé Attentionné [Ancêtre];-83;-40;-28
+6001122;Gowap Apprivoisé [Adulte];-25;-100;-30
+5802914;Gowap Apprivoisé [Ancêtre];-48;-65;-37
+6019788;Nuée de Vermine [Juvénile];-79;-30;-39
+6032775;Gorgone [Nouvelle];-35;-61;-30
+6024768;Tubercule Tueur [Enfançon];-31;-82;-27
+6038066;Tertre Errant [Nouveau];-87;-99;-41
+6025950;Naga Fustigateur [Jeune];-20;-56;-27
+6024902;Zombie [Récent];-94;-27;-22
+5803020;Gowap Apprivoisé Cogneur [Ancien];-129;-131;-20
+6029365;Lézard Géant Fouisseur [Jeune];-76;-26;-10
+6028842;Sorcier Loup-Garou [Jeune];-76;-57;-14
+6031467;Grouilleux [Nouveau];-14;-67;-7
+5993084;Harpie Cogneuse [Briscarde];-130;-133;-7
+6031161;Rocketeux Alchimiste [Nouveau];-60;-11;-11
+6036953;Chimère Frénétique [Nouvelle];-64;-52;-30
+5803096;Gowap Apprivoisé [Ancêtre];-75;-7;-25
+5803173;Gowap Apprivoisé Cogneur [Ancêtre];-29;-79;-32
+6035468;Kobold [Nouveau];-89;-70;-6
+5803176;Gowap Apprivoisé [Ancien];-31;-45;-26
+5940300;Pseudo-Dragon [Suprême];-99;-62;-16
+5940408;Pseudo-Dragon [Suprême];-46;-77;-15
+5811791;Gowap Sauvage Malade [Ancien];-130;-130;-22
+6037149;Goule [Naissante];-61;-71;-8
+6030293;Ver Carnivore Géant [Jeune];-15;-83;-21
+5803253;Pseudo-Dragon Cogneur [Suprême];-49;-89;-16
+5974304;Pseudo-Dragon [Majeur];-14;-85;-30
+6035221;Ankheg Morticole [Larve];-21;-13;-20
+6031513;Rocketeux [Nouveau];-54;-99;-11
+6028884;Pseudo-Dragon [Novice];-56;-92;-42
+5941312;Gorgone Cracheuse [Légendaire];-88;-8;-42
+6032762;Sorcier Géant de Pierre [Nouveau];-98;1;-38
+6019061;Basilisk Coriace [Adulte];1;-65;-22
+6037905;Nuée de Vermine [Larve];-45;-72;-25
+6035787;Dindon Du Glacier [Bébé];-32;-17;-7
+6012260;Veskan du Chaos [Adulte];-30;-44;-35
+6037148;Abishaii Noir Cogneur [Initial];-46;-10;-23
+5970061;Veskan du Chaos [Doyen];-67;-67;-35
+6037672;Coccicruelle [Larve];-77;-8;-41
+5905079;Pseudo-Dragon [Suprême];-78;-11;-19
+6027151;Ver Carnivore Géant Ronfleur [Jeune];-38;1;-30
+6034025;Erinyes Ronfleuse [Initiale];-7;-86;-20
+6008663;Diablotin [Favori];-26;-100;-42
+6031591;Paysan Homme-Lézard [Nouveau];-75;-33;-12
+5947558;Archiatre Pseudo-Dragon [Supérieur];-47;-70;-33
+6036551;Mouch'oo Sauvage [Nouveau];6;-10;-27
+6034327;Basilisk [Nouveau];-67;-55;-25
+5803611;Gros Gowap Apprivoisé [Ancêtre];-39;-39;-33
+6020537;Homme-Lézard [Adulte];-32;-92;-14
+5803634;Gowap Apprivoisé [Ancien];5;-82;-30
+6038864;Caillouteux Coriace [Nouveau];-58;-64;-2
+5804627;Gowap Apprivoisé [Ancien];-31;-45;-26
+6027695;Crasc Médius Parasitus [Jeune];-54;-31;-39
+6022227;Ver Carnivore Géant Ronfleur [Jeune];-3;-58;-43
+6034940;Fantôme [Naissant] de L.B.D.P;-100;-67;-44
+6034663;Lézard Géant Fouisseur [Nouveau];-60;-19;-14
+6032093;Anaconda des Catacombes [Nouveau];-49;4;-13
+5905656;Croquemitaine Ronfleur [Ancestral];-76;-99;-31
+5803887;Gowap Apprivoisé Coriace [Ancien];-30;-28;-33
+6037010;Crasc [Nouveau];0;-1;-32
+6017111;Pseudo-Dragon de Second Cercle [Mineur];-12;-77;-24
+5806305;Gowap Sauvage Malade [Ancien];-128;-132;-18
+5803782;Gowap Sauvage Malade [Ancien];-131;-128;-12
+6030954;Veskan du Chaos Coriace [Nouveau];-23;-9;-35
+5803834;Gowap Apprivoisé [Ancien];-16;-7;-37
+5803849;Gowap Apprivoisé [Ancien];-88;-23;-26
+5957836;Gnu Sauvage [Chef de harde];-133;-130;-2
+5803900;Gowap Sauvage Enragé [Ancien];-131;-131;-2
+5803909;Gowap Apprivoisé Attentionné [Ancien];-29;-79;-32
+5999697;Amibe Géante [Vétéran];-8;-70;-24
+5997051;Diablotin [Favori];-1;-65;-35
+6038955;Mille-Pattes Géant Lobotomisateur [Larve];-67;-75;-36
+6034673;Amibe Géante [Nouvelle];-55;-50;-21
+5804085;Gowap Apprivoisé Cogneur [Ancien];-29;-79;-32
+5804094;Gowap Apprivoisé Enragé [Ancien];-133;-130;-3
+5927745;Maître Zombie [Ancestral];-96;-61;-33
+5804786;Gowap Apprivoisé Coriace [Ancêtre];-16;-7;-37
+5804134;Gowap Apprivoisé Vorace [Ancêtre];-40;-47;-17
+5804137;Gowap Apprivoisé Fouisseur [Ancien];-37;-21;-6
+6012455;Gorgone [Adulte];-22;-2;-31
+6031419;Spectre Cogneur [Naissant];-65;-21;-36
+6033314;Slaad [Nouveau];-28;-88;-10
+5804191;Gowap Apprivoisé Corrompu [Ancien];-75;-7;-25
+6028338;Gorgone [Jeune];-37;-70;-20
+6017062;Diablotin [Mineur];-42;-89;-35
+6037137;Tubercule Tueur [Bébé];-26;-53;-29
+5996821;Basilisk [Vétéran];-11;-37;-32
+6017574;Zombie [Ancien];7;-27;-22
+6034648;Ver Carnivore Géant [Nouveau];-48;-16;-21
+5953526;Gnu Sauvage [Chef de harde];-132;-130;-1
+5804291;Gowap Sauvage Malade [Ancien];-129;-132;-9
+5804309;Gowap Apprivoisé [Ancien];-85;-22;-25
+5804315;Gowap Sauvage Enragé [Ancien];-129;-133;-4
+5804373;Gowap Apprivoisé [Ancien];-128;-130;-17
+5804384;Gowap Apprivoisé [Ancien];-48;-65;-37
+6031103;Rat-Garou [Nouveau];0;-37;-18
+5937564;Ver Carnivore Gigantesque [Légendaire];-1;-97;-42
+5804423;Gowap Sauvage Malade [Ancien];-129;-132;-18
+5985578;Diablotin [Majeur];-75;-50;-31
+5804505;Gowap Sauvage Malade [Ancien];-128;-128;-6
+6012270;Petit Incube [Mineur];-19;-98;-24
+5949466;Mimique [Doyen];-33;-65;-12
+6007192;Tubercule Tueur [Adulte];-63;-34;-27
+5992026;Zombie Ronfleur [Séculaire];-53;-72;-19
+6002552;Pseudo-Dragon [Favori];-98;-54;-35
+5948253;Petit Zombie [Antique];-97;-66;-16
+6017877;Basilisk Gargantuesque [Adulte];-72;-97;-28
+6032356;Fungus Géant Frénétique [Nouveau];-3;-33;-18
+6028632;Spectre [Récent];-35;-15;-41
+6038112;Golem d'Argile [Nouveau];-31;-83;-35
+6036322;Scorpion Géant Ronfleur [Larve];-54;-81;-19
+6038954;Glouton [Bébé];-9;-101;-44
+6033414;Banshee Cogneuse [Naissante];-3;-35;-42
+5804838;Gowap Apprivoisé [Ancien];-31;-45;-26
+6037883;Gros Rocketeux [Nouveau];-36;-83;-12
+6027435;Bouj'Dla [Jeune];-28;-77;-32
+6032565;Bouj'Dla Placide [Nouveau];-29;-33;-33
+6038192;Rocketeux Corrompu [Nouveau];5;-4;-9
+6038462;Boggart [Nouveau];3;-44;-7
+6021803;Gros Tubercule Tueur [Jeune];-45;-44;-27
+6008623;Diablotin Ronfleur [Favori];-81;-67;-27
+6029506;Sorcière Effrayée [Jeune];-46;-53;-34
+5807803;Gowap Apprivoisé Cogneur [Ancien];-131;-133;-32
+6026976;Ours-Garou [Jeune];-87;-25;-44
+6035594;Grouilleux [Nouveau];-62;-16;-5
+5966554;Zombie [Antique];-28;-99;-21
+5942100;Spectre [Ancestral];-26;-76;-38
+6020562;Gros Homme-Lézard [Adulte];-33;-68;-20
+5804927;Gowap Apprivoisé [Ancien];-25;-80;-32
+5933220;Diablotin [Suprême];-99;-60;-22
+5804933;Gowap Apprivoisé [Ancêtre];-14;-3;-36
+5804935;Gowap Sauvage Enragé [Ancien];-133;-130;-9
+6036438;Gros Chonchon [Nouveau];1;-38;-42
+6037190;Golem de Chair [Nouveau];-5;1;-19
+5804964;Gowap Apprivoisé Enragé [Ancien];-30;-28;-33
+5804975;Gowap Apprivoisé [Ancien];-131;-131;-18
+5805012;Gowap Apprivoisé [Ancien];-48;-65;-37
+5977177;Caillouteux Corrompu [Briscard];-13;-100;-13
+5805036;Gowap Sauvage Malade [Ancien];-130;-131;-9
+6029170;Veskan du Chaos [Jeune];-11;-4;-39
+6013296;Ame-en-peine [Ancienne];-94;-12;-20
+5805096;Gowap Apprivoisé Cogneur [Ancien];-130;-129;-1
+6020517;Scout Homme-Lézard [Adulte];-42;-25;-11
+5958493;Gros Pseudo-Dragon [Supérieur];-99;-37;-26
+5805163;Gowap Apprivoisé [Ancien] Gwapgwap;-87;-23;-24
+5996825;Worg Cogneur [Vétéran];-83;-14;-23
+6033312;Méduse [Nouvelle];-38;-94;-15
+5805276;Gowap Apprivoisé Cogneur [Ancien];-29;-79;-32
+5973521;Zombie [Séculaire];-91;-56;-21
+6012948;Ettin [Adulte];-90;-70;-24
+6011653;Rocketeux [Adulte];-82;-49;-11
+5948835;Gowap Apprivoisé [Chef de harde];4;-44;-42
+6020037;Rocketeux [Adulte];-52;-80;-16
+6038067;Tertre Errant [Nouveau];-96;-32;-37
+5805440;Gros Gowap Apprivoisé [Ancien];-27;-35;-27
+6037136;Elémentaire d'Eau [Initial];3;-40;-31
+6024059;Molosse Satanique de Troisième Cercle [Mineur];-17;-88;-32
+5805450;Gowap Apprivoisé [Ancien];-37;-21;-6
+5805463;Gowap Apprivoisé Fouisseur [Ancien];-75;-7;-25
+6037717;Voleur Tigre-Garou [Nouveau];-77;-86;-30
+6008619;Diablotin Cogneur [Favori];-59;-95;-29
+5805471;Gowap Apprivoisé [Ancien];-41;-46;-17
+5968688;Squelette Coriace [Antique];-100;-63;-20
+6037900;Nuée de Vermine [Larve];-40;-69;-28
+6024070;Bondin [Jeune];-74;-51;-21
+6033057;Chonchon [Nouveau];-61;-45;-44
+5805518;Gowap Apprivoisé [Ancien];-31;-45;-29
+6035574;Gorgone [Nouvelle];-44;-33;-22
+5805529;Gowap Apprivoisé Cogneur [Ancien];-46;-64;-38
+5805550;Gowap Apprivoisé Coriace [Ancien] Alessandro;-26;-66;-37
+5805555;Gowap Apprivoisé [Ancien];-41;1;-27
+6033944;Rocketeux Effrayé [Nouveau];-22;-44;-8
+6029984;Gorgone Malade [Jeune];-57;-37;-17
+5933972;Zombie [Ancestral];-74;-29;-21
+5805612;Gowap Apprivoisé [Ancien];-31;-45;-29
+6032156;Basilisk [Nouveau];-23;-28;-17
+5805626;Gowap Apprivoisé Malade [Ancien];-129;-132;-40
+6017603;Ver Carnivore Géant [Adulte];-67;-15;-32
+5998603;Spectre Mentat [Vénérable];-35;-66;-38
+5805678;Gowap Sauvage Malade [Ancien];-130;-129;-11
+5875965;Frondeur Rocketeux [Légendaire];-75;-78;-21
+6038159;Tubercule Tueur Enragé [Bébé];-83;-49;-27
+6025811;Tubercule Tueur [Enfançon];-91;-30;-28
+6038158;Tubercule Tueur [Bébé];-83;-49;-27
+5990873;Sorcier Gremlins [Briscard];-93;-58;-10
+5946251;Nécrophage [Antique];-80;-94;-28
+6035129;Hurleur [Nouveau];-4;-41;-28
+6023302;Diablotin [Novice];-20;-20;-43
+5805754;Gowap Apprivoisé [Ancien] Tony;-29;-69;-39
+6016882;Méduse [Adulte];-24;-67;-11
+5956522;Erinyes [Supérieure];-66;-68;-25
+5805872;Gowap Apprivoisé Fouisseur [Ancien];-31;-45;-30
+6032763;Chimère Fouisseuse [Nouvelle];-33;-6;-36
+5805922;Gowap Sauvage Malade [Ancien];-128;-131;-27
+6006480;Hurleur Guérisseur [Vétéran];-33;-6;-36
+6038255;Yéti [Nouveau];-23;-8;-13
+6029864;Succube de Troisième Cercle [Novice];-32;-56;-28
+5983452;Zombie [Séculaire];-84;-68;-12
+5805973;Gowap Apprivoisé Ronfleur [Ancien];-25;-80;-32
+5986814;Gorgone Malade [Briscarde];-60;-41;-37
+5806024;Gowap Sauvage Malade [Ancien];-132;-133;-2
+6014078;Pseudo-Dragon [Mineur];-29;-86;-18
+5933585;Croquemitaine Coriace [Ancestral];-70;-65;-42
+5806062;Gowap Apprivoisé Vorace [Ancien];-30;-28;-33
+6020792;Bouj'Dla [Adulte];-11;-63;-44
+6028860;Monstre Rouilleur [Jeune];-27;-9;-15
+5806078;Gowap Apprivoisé [Ancien];-25;-80;-32
+6023277;Pseudo-Dragon [Novice];-25;-66;-43
+5806095;Gowap Apprivoisé Cogneur [Ancien];-20;-91;-32
+5806097;Gowap Apprivoisé [Ancien];-8;-66;-14
+6033131;Crasc Esculape [Nouveau];-136;-16;-26
+5996828;Ame-en-peine [Vénérable];-72;-56;-31
+5806150;Gowap Apprivoisé Enragé [Ancien];-95;-98;-22
+5933239;Pseudo-Dragon [Suprême];-78;-52;-12
+5953063;Zombie Coriace [Antique];-68;-87;-32
+6028987;Worg [Jeune];-40;-16;-28
+6037068;Elémentaire d'Eau [Initial];-74;1;-36
+6020233;Pseudo-Dragon [Mineur];4;-49;-38
+5933236;Diablotin [Suprême];-52;-93;-32
+5921235;Zombie [Ancestral];-31;-73;-16
+5954314;Fungus Géant Cogneur [Doyen];-14;-68;-18
+6030740;Ogre [Jeune];-87;2;-13
+6017873;Mille-Pattes Géant [Juvénile];-71;-71;-30
+6010327;Minotaure Corrompu [Adulte];-75;-6;-32
+5806246;Gowap Apprivoisé Cogneur [Ancien];-95;-16;-44
+5975688;Gorgone [Briscarde];-21;-43;-41
+5806268;Gowap Apprivoisé Ronfleur [Ancien];-48;-65;-37
+6002625;Diablotin [Favori];-55;-13;-25
+5806314;Gowap Sauvage Malade [Ancien];-129;-128;-9
+6021121;Slaad [Adulte];-36;-72;-9
+5806449;Gowap Apprivoisé Malade [Ancêtre];-65;-128;-30
+6036441;Gremlins [Nouveau];-34;-22;-15
+5887708;Petit Pseudo-Dragon [Suprême];-49;-71;-33
+6010375;Strige Corrompue [Juvénile];5;-13;-14
+6023235;Pseudo-Dragon [Novice];-75;-35;-30
+5947560;Pseudo-Dragon [Supérieur];-46;-66;-20
+6018679;Gorgone Fustigatrice [Adulte];-60;-49;-39
+6035834;Tubercule Tueur [Bébé];-84;-35;-28
+6035835;Tubercule Tueur [Bébé];-84;-35;-28
+6032344;Fungus Géant [Nouveau];-28;-52;-18
+5806567;Gowap Apprivoisé [Ancien];-62;-53;-28
+6030625;Basilisk Coriace [Nouveau];-50;-57;-19
+6029599;Kobold [Jeune];-57;-18;-4
+6018969;Tigre-Garou Mutant [Adulte];-49;-83;-39
+6030396;Scarabée Géant [Larve];-18;-77;-14
+5966270;Diablotin Fanatique [Supérieur];-87;-32;-12
+5806647;Gowap Apprivoisé [Ancien];-31;-59;-22
+5966079;Ver Carnivore Géant Fouisseur [Doyen];-36;-56;-33
+5806678;Gowap Apprivois&eacute; Cogneur [Ancien];-48;-65;-37
+5991005;Squelette Implacable [Séculaire];-10;-91;-23
+6033138;Glouton [Bébé];-75;-100;-40
+5806702;Gros Gowap Apprivoisé [Ancien];-24;-81;-32
+6031147;Squelette [Récent];-98;-34;-2
+5806716;Gowap Apprivoisé Attentionné [Ancien];-31;-45;-29
+6029574;Bondin Coriace [Jeune];-17;-54;-34
+6032074;Anaconda des Catacombes [Nouveau];-6;-6;-19
+6018377;Tigre-Garou [Adulte];6;-5;-29
+6035380;Dindon du Chaos [Bébé];-10;0;-6
+5806756;Gowap Apprivoisé Cogneur [Ancien];-30;-80;-32
+5806757;Gowap Apprivoisé Cogneur [Ancien];-131;-131;-17
+5806771;Gros Gowap Apprivoisé [Ancien];-51;-36;-31
+6036503;Succube Cogneuse [Initiale];-28;-44;-39
+5806789;Gowap Sauvage Enragé [Ancien];-129;-133;-4
+5806791;Gowap Apprivoisé [Ancien];-14;-8;-3
+5806831;Gowap Apprivoisé Ronfleur [Ancien];-31;-45;-27
+5908329;Archiatre Diablotin [Suprême];-90;-31;-12
+6038348;Momie [Naissante];-9;-73;-7
+5806876;Gowap Apprivoisé [Ancien];-74;-59;-30
+5806880;Gowap Sauvage Malade [Ancien];-128;-132;-21
+5999598;Golem de Chair [Vétéran];-91;-62;-30
+6014035;Pseudo-Dragon [Mineur];-61;-74;-12
+6037866;Ettin Coriace [Nouveau];-85;-49;-17
+6038150;Lézard Géant Coriace [Nouveau];-68;-71;-14
+6033452;Cheval à Dents de Sabre [Bébé];-47;-61;-43
+6034001;Erinyes Cogneuse [Initiale];-38;1;-17
+5806990;Gowap Apprivoisé [Ancien];-28;-79;-30
+5982822;Nâ-Hàniym-Hééé [Séculaire];-33;-86;-44
+6037601;Homme-Lézard [Nouveau];-43;-95;-11
+6036338;Scorpion Géant Cogneur [Larve];-5;-12;-21
+6020694;Erinyes [Mineure];4;-50;-15
+5984766;Gnu Sauvage [Mature];-131;-131;-9
+5937778;Ame-en-peine [Ancestrale];-70;-92;-32
+6038051;Elémentaire d'Eau des Abysses [Initial];-17;-62;-36
+6021834;Gorgone [Adulte];-81;-20;-26
+6003377;Bouj'Dla Placide [Vétéran];-53;-37;-38
+5983249;Squelette [Séculaire];-79;-56;-10
+6031632;Frondeur Homme-Lézard [Nouveau];3;-35;-11
+5863502;Diablotin [Suprême];-98;-29;-35
+5960485;Rat Géant Malade [Chef de harde];-67;2;-27
+6033570;Tertre Errant Esculape [Nouveau];-45;-67;-39
+5949401;Amibe Géante [Doyenne];-40;-66;-22
+5807312;Gowap Apprivoisé Vorace [Ancien];-30;-80;-32
+6038525;Sorcière [Nouvelle];-63;-8;-31
+5954627;Pseudo-Dragon [Supérieur];-26;-92;-9
+5991091;Pseudo-Dragon des Abysses [Majeur];-84;-74;-20
+6030057;Fungus Violet [Jeune];-80;-41;-8
+5807374;Gowap Apprivoisé [Ancien];-51;-36;-31
+6013751;Zombie [Ancien];-51;-82;-21
+5999842;Pseudo-Dragon [Favori];-54;-76;-27
+5807406;Gowap Sauvage Malade [Ancien];-90;-100;-22
+5807410;Gowap Apprivoisé [Ancêtre];-49;-67;-37
+5807413;Gowap Apprivoisé [Ancien];-8;-67;-14
+6032780;Champion Gremlins [Nouveau];-2;-28;-13
+6036365;Golem de Chair Mutant [Nouveau];7;-55;-17
+5807449;Gowap Apprivoisé Enragé [Ancien] Engoulevent;-40;-93;-36
+5807458;Gowap Apprivoisé [Ancêtre];-31;-45;-29
+5982495;Ogre [Briscard];-1;-68;-25
+6023214;Diablotin [Novice];-98;-32;-42
+5807482;Gowap Apprivoisé [Ancien];-132;-131;-18
+5807485;Gowap Apprivoisé Fouisseur [Ancien] Lenona;-84;-40;-28
+6024119;Petite Méduse [Jeune];-18;-94;-23
+6006604;Zombie [Vénérable];-31;-97;-5
+6007197;Hurleur [Vétéran];-63;-10;-33
+6014260;Squelette [Ancien];-27;-62;-12
+6019978;Scorpion Géant [Juvénile];-96;-59;-24
+6025297;Spectre [Récent];-81;-93;-36
+5807537;Gowap Apprivoisé Cogneur [Ancien];-30;-28;-33
+6032842;Grosse Cockatrice [Nouvelle];-12;-64;-18
+5891971;Raquettou Cogneur [Légendaire];-131;-134;-4
+6030919;Glouton [Bébé];-15;-11;-39
+6038377;Crasc parasitus [Nouveau];-60;-26;-28
+6032012;Grosse Succube [Initiale];-36;-66;-38
+5994058;Pseudo-Dragon [Majeur];-91;-4;-22
+6037127;Hellrot [Initial];-88;-74;-44
+5998647;Amibe Géante [Vétéran];-62;-57;-38
+5910008;Plante Carnivore [Légendaire];-1;-75;-8
+6011208;Thri-kreen [Juvénile];5;-73;-36
+5928362;Rat Géant Cogneur [Ancien];-132;-133;-9
+5807737;Gowap Sauvage Malade [Ancien];-132;-133;-4
+6026426;Worg [Jeune];-33;-25;-6
+6037087;Veskan du Chaos [Nouveau];-13;2;-32
+5807851;Gowap Apprivoisé [Ancien];-28;-79;-30
+6036268;Ver Carnivore Géant Ronfleur [Nouveau];-15;-27;-29
+6025322;Petit Worg [Jeune];-73;-34;-7
+6014974;Zombie Ronfleur [Ancien];-62;-51;-28
+6034246;Ours-Garou [Nouveau];-72;-31;-38
+5807965;Gowap Sauvage Malade [Ancien];-129;-129;-6
+5807970;Gowap Apprivoisé [Ancien] Regis;-38;-66;-28
+5807972;Gowap Apprivoisé Coriace [Ancêtre];-10;-65;-9
+6027255;Amibe Géante [Jeune];-62;-65;-28
+5808015;Gowap Sauvage Malade [Ancien];-131;-130;-2
+5808023;Gowap Apprivoisé Corrompu [Ancien];-13;-36;-36
+6013783;Boggart [Adulte];-53;-3;-8
+5911960;Pseudo-Dragon de Cinquième Cercle [Suprême];-69;-39;-40
+5808976;Gowap Sauvage Enragé [Ancien];-129;-132;-22
+6037811;Abishaii Vert [Initial];-67;-35;-34
+5808089;Gowap Apprivoisé [Ancien];-41;0;-27
+6038196;Hurleur [Nouveau];-50;-86;-12
+5808115;Gowap Apprivoisé [Ancien];-29;-79;-32
+6035811;Familier [Nouveau];-64;-42;-44
+6038651;Méduse Coriace [Nouvelle];-87;-85;-20
+5808170;Gowap Apprivoisé [Ancien];-51;-36;-31
+5949482;Mimique [Doyen];-57;-18;-12
+5811011;Gowap Apprivoisé [Ancien];-31;-59;-25
+5980507;Gnu Domestique [Mature];-52;-47;-17
+5950206;Ettin Effrayé [Doyen];-69;-90;-30
+5953615;Squelette [Antique];-89;-93;-8
+5808260;Gowap Apprivoisé [Ancien];-30;-28;-33
+6011291;Gros Pseudo-Dragon [Mineur];-98;-9;-21
+6030692;Shaman Goblours [Nouveau];-61;-38;-21
+6030236;Guerrier Tigre-Garou [Jeune];-98;1;-39
+5970251;Amibe Géante Ronfleuse [Doyenne];4;-97;-26
+6034594;Banshee [Naissante];-95;-20;-34
+6031500;Ver Carnivore Géant [Nouveau];-1;-24;-31
+6007193;Tubercule Tueur [Adulte];-63;-34;-27
+5808349;Gowap Apprivoisé [Ancien];-24;-81;-32
+6014407;Grand Frondeur Raquettou [Adulte];-76;-33;-19
+6026019;Worg Coriace [Jeune];-82;-10;-9
+6035587;Grouilleux [Nouveau];-51;-77;-6
+6037903;Nuée de Vermine [Larve];-58;-51;-27
+6036792;Sorcière [Nouvelle];-44;-53;-34
+5999807;Petit Pseudo-Dragon [Favori];-65;-97;-26
+6017040;Diablotin de Premier Cercle [Mineur];-72;-84;-26
+6026418;Yuan-ti Ronfleur [Jeune];-46;-19;-34
+6007572;Ombre Malade [Vénérable];-72;-46;-13
+5941167;Nécrophage Coriace [Ancestral];-46;-99;-37
+6038281;Raquettou Agressif [Nouveau];4;-9;-5
+5991113;Pseudo-Dragon de Second Cercle [Majeur];-20;-80;-29
+6026031;Pseudo-Dragon de Second Cercle [Novice];-86;-59;-33
+5985618;Petit Diablotin [Majeur];-42;-75;-27
+5808487;Gowap Sauvage Malade [Ancien];-133;-133;-11
+5808488;Gowap Apprivoisé [Ancien];-28;-56;-22
+5808545;Gowap Apprivoisé [Ancien];-97;-99;-21
+6026402;Ver Carnivore Géant [Jeune];-73;-43;-41
+6034030;Petit Kobold [Nouveau];-51;-55;-15
+6023663;Goblin [Jeune];-12;-74;-23
+6027710;Amibe Géante [Jeune];2;-37;-34
+6011313;Pseudo-Dragon [Mineur];-61;-11;-26
+5943126;Squelette [Ancestral];0;-70;-9
+5985971;Sorcier Gremlins [Briscard];-76;-86;-23
+5915585;Pseudo-Dragon [Suprême];-99;-46;-31
+5808800;Gowap Apprivoisé Corrompu [Ancien];-95;-8;-38
+6036831;Elémentaire de Terre [Initial];-39;-95;-39
+6017581;Worg Cogneur [Adulte];-64;3;-22
+5808836;Gowap Sauvage Malade [Ancien];-129;-132;-22
+6023323;Pseudo-Dragon [Novice];0;-36;-34
+5808880;Gowap Apprivoisé Attentionné [Ancien];-51;-36;-31
+5808888;Gowap Apprivoisé Malade [Ancien];-133;-131;-7
+6023250;Diablotin de Troisième Cercle [Novice];-53;-95;-32
+6007957;Succube de Troisième Cercle [Favorite];5;-10;-32
+5808924;Gowap Apprivoisé [Ancien];-51;-36;-31
+6008605;Diablotin de Quatrième Cercle [Favori];-83;-1;-11
+6030369;Scarabée Géant [Larve];-77;3;-23
+5996983;Diablotin [Favori];-83;-94;-29
+6025944;Naga [Jeune];-66;-43;-21
+5808998;Gowap Apprivoisé Enragé [Ancien];-133;-128;-27
+5987367;Ombre de Roches Coriace [Briscarde];-82;-8;-34
+5809056;Gowap Apprivoisé [Ancien];-51;-36;-31
+6029311;Fungus Violet [Jeune];-58;-75;-7
+5809135;Gowap Apprivoisé Cogneur [Ancien];-25;-81;-31
+5809141;Gowap Apprivoisé [Ancien];-10;-66;-8
+5948388;Croquemitaine [Antique];-46;-90;-28
+6032800;Amibe Géante Esculape [Nouvelle];-22;-81;-22
+6026664;Succube [Novice];-56;-22;-38
+5809250;Gowap Apprivoisé Ronfleur [Ancien];-30;-80;-32
+5809296;Gowap Apprivoisé [Ancien];5;-82;-30
+6024720;Golem d'Argile Mutant [Jeune];-59;-20;-41
+5809309;Gowap Apprivoisé Attentionné [Ancêtre];-2;-23;-1
+6021462;Thri-kreen Ouvrier [Juvénile];-49;-71;-27
+6001042;Gowap Apprivoisé [Adulte];-25;-100;-30
+6020569;Hurleur [Adulte];-42;-37;-29
+5809374;Gowap Sauvage Malade [Ancien];-128;-133;-9
+6038161;Ogre [Nouveau];-8;-95;-16
+5985273;Gorgone Esculape [Briscarde];-5;-91;-39
+5809429;Gowap Sauvage Malade [Ancien];-128;-130;-8
+5809444;Gowap Apprivoisé [Ancien] Du Hum et du Grand Goinfrage;-42;0;-25
+6023646;Basilisk [Jeune];-4;-32;-26
+6013707;Esprit-Follet Gargantuesque [Adulte];-64;-82;-37
+6036845;Elémentaire d'Eau de Premier Cercle [Initial];-19;-37;-34
+5809478;Gowap Apprivoisé Cogneur [Ancien];-40;-46;-17
+5996941;Archiatre Diablotin [Favori];-82;-67;-27
+6038561;Golem d'Argile Corrompu [Nouveau];-85;-90;-34
+5993805;Pititabeille Cogneuse [Développée];-77;-59;-6
+6016736;Glouton [Jeune];-13;-11;-39
+6032841;Champion Rocketeux [Nouveau];-38;-31;-14
+5809553;Gowap Apprivoisé [Ancêtre];-75;-7;-25
+6026715;Golem d'Argile [Jeune];-62;-38;-28
+5809595;Gowap Apprivoisé [Ancien];-132;-128;-20
+5997847;Lutin [Vétéran];-4;-76;-19
+6038481;Boggart [Nouveau];-5;-4;-8
+5809622;Gowap Apprivoisé Cogneur [Ancêtre];-29;-79;-32
+6021951;Momie [Ancienne];5;-15;-13
+5809714;Gowap Sauvage Enragé [Ancien];-71;-48;-22
+5809821;Gowap Apprivoisé Vorace [Ancêtre];-75;-7;-25
+5809823;Gowap Apprivoisé [Ancien];-41;-79;-5
+5809825;Gowap Sauvage Enragé [Ancien];-131;-133;-22
+5991106;Pseudo-Dragon [Majeur];-48;-20;-17
+6036111;Ver Carnivore Géant Corrompu [Nouveau];-88;-52;-25
+6036077;Familier [Jeune];-85;-11;-25
+6031028;Ogre [Nouveau];-39;-21;-26
+5809889;Gowap Sauvage Enragé [Ancien];-131;-128;-3
+6028896;Pseudo-Dragon Coriace [Novice];-15;-77;-43
+6030255;Sorcière [Jeune];-81;-31;-43
+5809921;Gros Gowap Apprivoisé [Ancien];-132;-132;-44
+5809924;Gowap Sauvage Enragé [Ancien];-131;-128;-10
+5810026;Gowap Apprivoisé [Ancêtre];5;-82;-30
+5922510;Worg Malade [Légendaire];-133;-129;-2
+5810091;Gowap Apprivoisé [Ancien];-51;-36;-31
+6035447;Familier [Briscard];-91;-80;-38
+5929701;Pseudo-Dragon Coriace [Suprême];-54;-83;-34
+5952352;Gorgone [Doyenne];-87;-48;-27
+6033822;Familier [Vétéran];-107;-131;-30
+6034026;Erinyes [Initiale];-8;-47;-17
+6025810;Tubercule Tueur [Enfançon];-91;-30;-28
+6015702;Worg Coriace [Adulte];-92;-14;-11
+5810184;Gowap Apprivoisé Enragé [Ancien];-128;-133;-26
+5810201;Gowap Apprivoisé [Ancien];-76;2;-24
+6021548;Loup-Garou [Adulte];-13;-24;-22
+5977811;Diablotin [Majeur];-66;-77;-36
+5810281;Gowap Apprivoisé Vorace [Ancêtre];-31;-45;-26
+5812538;Gowap Apprivoisé [Ancien];-29;-28;-32
+5811896;Gowap Apprivoisé Enragé [Ancien];-51;-36;-31
+5810295;Gowap Apprivoisé Corrompu [Ancien];-38;-29;-29
+6033058;Chonchon [Nouveau];-62;-46;-44
+5810306;Gowap Apprivoisé [Ancien];-49;-64;-37
+6037723;Tertre Errant [Nouveau];-67;-47;-42
+6036806;Sorcière [Nouvelle];-74;-61;-37
+6035097;Elémentaire de Feu de Premier Cercle [Initial];-31;-58;-43
+6038587;Abishaii Vert [Initial];-17;-90;-25
+5810344;Gowap Apprivoisé [Ancien];-130;-130;-1
+5977832;Pseudo-Dragon [Majeur];-99;-79;-23
+5810350;Gowap Sauvage Malade [Ancien];-131;-131;-21
+5810359;Gowap Apprivoisé [Ancien];-76;2;-24
+5810403;Gowap Apprivoisé Coriace [Ancien];-41;-31;-40
+6035423;Tertre Errant [Nouveau];-31;-69;-39
+6038618;Basilisk [Nouveau];4;-25;-17
+5810416;Gowap Apprivoisé [Ancien];-42;-32;-40
+5947545;Diablotin [Supérieur];-59;-5;-23
+6032119;Guerrier Golem d'Argile [Nouveau];-87;-5;-37
+5810462;Gowap Sauvage Malade [Ancien];-133;-132;-10
+5810467;Gowap Apprivoisé Cogneur [Ancien] burra;-41;-67;-44
+6005677;Pseudo-Dragon de Second Cercle [Favori];-50;-27;-16
+6035582;Grouilleux Fustigateur [Nouveau];-13;-63;-8
+6035856;Tertre Errant [Nouveau];-66;-83;-38
+6029985;Bondin [Jeune];-34;-3;-15
+6036363;Molosse Satanique [Initial];-54;-38;-16
+6038506;Dindon Du Glacier Vorace [Bébé];-28;-29;-32
+5811720;Petit Gowap Apprivoisé [Ancêtre];-25;-80;-32
+5936741;Pseudo-Dragon [Suprême];-59;-86;-31
+5954476;Raquettou [Doyen];-14;-92;-26
+5944236;Pseudo-Dragon [Suprême];-83;-27;-16
+6038262;Yéti Guérisseur [Nouveau];-61;-18;-18
+5810646;Gowap Apprivoisé [Ancien];-30;-80;-32
+5810651;Gowap Apprivoisé [Ancien];-31;-45;-26
+5810674;Gowap Apprivoisé [Ancien];-30;-80;-32
+5944623;Scarabée Géant [Accompli];-35;-98;-16
+5810677;Gowap Apprivoisé Corrompu [Ancien];-41;-46;-17
+5899984;Rocketeux Cogneur [Légendaire];-130;-130;-9
+6031555;Slaad [Nouveau];-66;-26;-7
+5810802;Gowap Sauvage Enragé [Ancien];-131;-133;-15
+6036943;Chimère Corrompue [Nouvelle];-69;-42;-30
+5985281;Gremlins [Briscard];-79;-85;-23
+6018448;Gorgone [Adulte];-14;-70;-42
+5964450;Gnoll Coriace [Doyen];-65;-90;-21
+6038242;Yéti [Nouveau];-74;-47;-18
+6006842;Worg Malade [Vétéran];-127;-130;-8
+6029911;Amibe Géante Cogneuse [Jeune];-14;-79;-21
+5996939;Diablotin de Second Cercle [Favori];-97;-55;-14
+5980903;Pseudo-Dragon [Majeur];-88;-49;-16
+6027638;Rocketeux [Jeune];-50;-86;-13
+6029929;Worg [Jeune];-41;-35;-20
+6020168;Pseudo-Dragon [Mineur];-77;-38;-20
+6035107;Sorcière [Nouvelle];-8;-76;-36
+6029250;Petit Thri-kreen [Immature];-55;-20;-21
+5810969;Gowap Apprivoisé Enragé [Ancien];-132;-128;-25
+5810980;Gowap Apprivoisé [Ancien] Legona;-84;-40;-28
+5810990;Gowap Apprivoisé [Ancien];-24;-81;-33
+5898041;Diablotin Ronfleur [Suprême];3;-54;-39
+6033569;Frondeur Géant de Pierre [Nouveau];-50;1;-30
+6017629;Rocketeux Effrayé [Adulte];-31;4;-20
+5811088;Gowap Apprivoisé Cogneur [Ancien];-30;-80;-32
+6015090;Scarabée Géant [Juvénile];-62;-54;-14
+5811120;Gowap Apprivoisé [Ancien] Lepona;-84;-40;-28
+5993958;Rocketeux Cogneur [Briscard];-50;-80;-17
+5811186;Gowap Apprivoisé [Ancêtre];-7;-30;-16
+6023484;Zombie Corrompu [Récent];-64;-83;-22
+6032839;Rocketeux [Nouveau];-37;-30;-14
+5811239;Gowap Sauvage Malade [Ancien];-133;-129;-12
+5811779;Gowap Apprivoisé Cogneur [Ancien];-131;-115;-17
+6008602;Pseudo-Dragon Corrompu [Favori];-78;-63;-9
+5811374;Gowap Apprivoisé [Ancêtre];-67;-20;-44
+5811466;Gowap Apprivoisé [Ancêtre] Suit-le-Sirocco;-37;-93;-36
+6028986;Zombie [Récent];-66;-34;-8
+5811399;Gowap Apprivoisé [Ancien];-41;-32;-29
+6013966;Grand Frondeur Rocketeux [Adulte];7;-62;-20
+5926083;Pseudo-Dragon [Suprême];-65;-98;-30
+5811412;Gowap Apprivoisé Ronfleur [Ancien];-29;-79;-32
+5811415;Gros Gowap Apprivoisé [Ancien];-95;-8;-38
+5811417;Gowap Apprivoisé Corrompu [Ancien];-41;-46;-17
+6035817;Glouton Corrompu [Bébé];7;-35;-41
+5999716;Barbare Kobold [Vétéran];-50;-45;-17
+6023871;Spectre [Récent];-81;-11;-35
+5939046;Rocketeux [Légendaire];-55;-63;-18
+5915625;Pseudo-Dragon [Suprême];-78;-75;-18
+6035135;Petit Goblours [Nouveau];-23;-62;-16
+6025516;Tigre-Garou [Jeune];-100;-39;-25
+6031617;Homme-Lézard [Nouveau];-22;-69;-13
+5811506;Gowap Apprivoisé [Ancêtre];-31;-45;-26
+6023035;Guerrier Tigre-Garou [Jeune];5;-36;-25
+5853743;Squelette Mentat [Ancestral];-101;-51;-31
+6016849;Petite Gorgone [Adulte];-51;-94;-30
+5811554;Gowap Apprivoisé Corrompu [Ancien];-28;-56;-22
+5811559;Gowap Apprivoisé Vorace [Ancien];-48;-65;-37
+5811793;Gowap Apprivoisé [Ancien];-31;-45;-29
+6038860;Caillouteux [Nouveau];-50;-29;-4
+6017107;Pseudo-Dragon [Mineur];-2;-94;-18
+5816866;Pseudo-Dragon Malade [Suprême];-63;-67;-32
+6002661;Diablotin Malade [Favori];0;-79;-34
+5949002;Frondeur Lutin [Doyen];-128;-130;-12
+6008645;Diablotin [Favori];-74;-69;-29
+6035039;Elémentaire d'Eau Corrompu [Initial];-2;-14;-39
+5811606;Gowap Sauvage Malade [Ancien];-129;-131;-5
+5811614;Gowap Sauvage Enragé [Ancien];-128;-130;-3
+6030313;Ver Carnivore Géant [Jeune];-23;-23;-22
+5811654;Gowap Apprivoisé Ronfleur [Ancien];-40;-47;-17
+6012914;Gnoll [Adulte];-78;-39;-18
+6028801;Minotaure [Jeune];-32;-26;-16
+6019048;Bulette [Adulte];-6;-98;-40
+6001290;Gowap Apprivoisé [Adulte];-25;-100;-30
+6019424;Ombre de Roches Corrompue [Adulte];-13;-7;-35
+5811770;Gowap Apprivoisé [Ancien];-31;-45;-26
+5983864;Limace Géante Lobotomisatrice [Développée];-14;-38;-35
+6033571;Gros Tertre Errant [Nouveau];-45;-66;-39
+6030404;Sagouin Corrompu [Bébé];-78;-90;-6
+5811845;Gowap Apprivoisé [Ancien];-31;-45;-26
+5811854;Gowap Apprivois&eacute; Enragé [Ancien];-128;-133;-20
+6034669;Ombre de Roches Corrompue [Nouvelle];-86;-49;-26
+5811908;Gowap Apprivoisé Coriace [Ancien];-25;-80;-32
+6037021;Petit Abishaii Bleu [Initial];-81;-62;-37
+5811921;Gowap Apprivoisé [Ancien];-25;-81;-32
+6034923;Kobold [Nouveau];-23;-81;-2
+5947074;Ame-en-peine Cogneuse [Antique];-30;-93;-35
+5811985;Gowap Apprivoisé Cogneur [Ancien];-30;-80;-32
+6025590;Homme-Lézard [Jeune];7;-38;-4
+6035378;Veskan du Chaos [Nouveau];-51;-37;-42
+6031347;Tertre Errant Frénétique [Nouveau];1;-77;-42
+5887664;Squelette [Ancestral];-89;-66;-26
+6017066;Diablotin [Mineur];-47;-55;-37
+6032869;Amibe Géante [Nouvelle];-58;1;-21
+5812123;Gowap Apprivoisé Malade [Ancêtre];-128;-129;-17
+5812541;Gowap Apprivoisé Attentionné [Ancêtre];-26;-80;-32
+5812643;Gowap Apprivoisé Attentionné [Ancien];-25;-81;-31
+6033308;Cockatrice [Nouvelle];-6;-15;-5
+6037711;Elémentaire de Feu [Initial];-20;-66;-41
+5812153;Gowap Apprivoisé Malade [Ancien];-131;-131;-17
+6024495;Crasc [Jeune];-114;-93;-30
+6025995;Gnu Sauvage [Enfançon];-128;-133;-1
+5944172;Gobelin Magique [Légendaire];-132;-133;-7
+6030624;Ver Carnivore Géant [Nouveau];-3;2;-24
+5812221;Gowap Apprivoisé Coriace [Ancien];-75;-7;-25
+5812222;Gowap Apprivoisé [Ancêtre];-25;-80;-32
+5971025;Rat-Garou Agressif [Doyen];-96;-20;-18
+6032149;Golem d'Argile [Nouveau];-84;-89;-34
+6025482;Sorcière [Jeune];-73;-28;-37
+5812282;Poisson Rouge [Ancien];-133;-132;-33
+6023211;Prince Pseudo-Dragon [Novice];-89;-65;-25
+5974484;Zombie Malade [Séculaire];-99;-68;-16
+6036271;Nécrophage Implacable [Naissant];-11;-61;-18
+5812320;Gowap Apprivoisé [Ancien];-25;-80;-32
+6034277;Grosse Gorgone [Nouvelle];-98;-73;-30
+6030664;Paysan Golem d'Argile [Nouveau];-92;-6;-26
+5812436;Gowap Apprivoisé [Ancien];-92;-84;-31
+6023282;Diablotin [Novice];-57;-7;-33
+5812444;Gowap Apprivoisé Coriace [Ancien];-50;-65;-44
+5812498;Petit Gowap Apprivoisé [Ancêtre];-75;-7;-25
+5812503;Gowap Apprivoisé [Ancien];-51;-36;-31
+5992106;Erinyes [Majeure];5;-94;-25
+5812599;Gowap Apprivoisé [Ancêtre] Atlantis;-84;-41;-29
+6018326;Gorgone Ronfleuse [Adulte];-35;-97;-35
+5812652;Gowap Apprivoisé [Ancien];-74;2;-29
+6032571;Bouj'Dla Placide [Jeune];-56;-1;-12
+6023882;Coccicruelle [Immature];3;-69;-43
+6013861;Croquemitaine [Ancien];-66;-55;-10
+5956305;Chimère [Doyenne];-60;-97;-37
+6019066;Worg Frénétique [Adulte];6;-79;-29
+6032075;Anaconda des Catacombes Ronfleur [Nouveau];-46;-34;-14
+6038007;Bouj'Dla [Nouveau];-52;-4;-44
+6008646;Pseudo-Dragon de Troisième Cercle [Favori];-79;-75;-18
+5812758;Gowap Apprivoisé Corrompu [Ancien];-29;-79;-32
+6012268;Grande Frondeuse Sorcière [Adulte];7;-89;-43
+5980881;Pseudo-Dragon [Majeur];-95;-20;-27
+5812804;Gowap Apprivoisé Fouisseur [Ancien];-40;-47;-17
+5973112;Croquemitaine [Séculaire];-50;-95;-23
+6006151;Cockatrice [Vétéran];-86;-15;-11
+6034263;Succube Fanatique [Initiale];-52;-90;-27
+5812818;Gowap Apprivoisé [Ancien];-31;-45;-29
+5812821;Gowap Apprivoisé [Ancien];5;-82;-30
+6012919;Gnoll Guérisseur [Adulte];-58;-30;-29
+6016174;Minotaure [Adulte];-49;-27;-16
+6037308;Croquemitaine [Naissant];7;-5;-18
+6025517;Gros Tigre-Garou [Jeune];-100;-39;-25
+6027533;Gorgone [Jeune];-4;-68;-26
+6038084;Bouj'Dla [Nouveau];-76;-84;-40
+6038479;Boggart Ronfleur [Nouveau];-39;-32;-5
+5949468;Mimique [Doyen];-68;-27;-12
+5980927;Pseudo-Dragon [Majeur];-8;1;-20
+6029363;Lézard Géant [Jeune];-77;-26;-10
+6026675;Furgolin [Jeune];-27;-71;-36
+6024617;Gowap Apprivoisé [Enfançon];-66;-48;-32
+5813011;Gowap Sauvage Enragé [Ancien];-132;-130;-5
+5968645;Ver Carnivore Géant [Doyen];-52;-19;-38
+5813032;Gowap Apprivoisé [Ancien];-31;-45;-29
+5813039;Gowap Apprivoisé [Ancien];-25;-53;-22
+6021117;Rat-Garou Malade [Adulte];-25;-35;-18
+5813241;Gowap Apprivoisé Corrompu [Ancien];-51;-36;-31
+6031629;Homme-Lézard [Nouveau];-72;-51;-22
+5813317;Gowap Apprivoisé [Ancien];-9;-52;-31
+6022317;Strige [Immature];-32;-10;-18
+5813805;Gowap Apprivoisé [Ancêtre] ItsArameic;-40;-93;-37
+6034164;Glouton [Bébé];-26;-54;-34
+6012271;Incube Malade [Mineur];-17;-97;-23
+6026766;Barbare Tigre-Garou [Jeune];-65;-11;-29
+6038627;Spectre [Naissant];-28;-98;-28
+6038213;Cockatrice [Nouvelle];6;-96;-12
+5998450;Gorgone Cracheuse [Vétéran];-23;-58;-34
+5813102;Gowap Sauvage Enragé [Ancien];-128;-133;-8
+5813133;Gowap Apprivoisé [Ancien];-31;-45;-26
+6034036;Rocketeux [Nouveau];-21;-8;-5
+6038177;Tigre-Garou [Nouveau];-67;-19;-27
+6038853;Caillouteux Malade [Nouveau];-27;-29;-3
+5963313;Zombie Malade [Antique];-88;-58;-26
+5975241;Squelette [Séculaire];-32;-84;-11
+5813349;Gowap Apprivoisé [Ancêtre];-22;-50;-21
+6035247;Cockatrice [Nouvelle];-8;-77;-10
+6038544;Incube Malade [Initial];-80;-67;-22
+6021104;Ankheg [Juvénile];-71;-47;-32
+6037166;Goule [Naissante];-7;-44;-10
+5813428;Gros Gowap Apprivoisé [Ancêtre];-41;-46;-17
+6008707;Diablotin [Favori];-21;-80;-20
+5813433;Petit Gowap Apprivoisé [Ancien];-73;-8;-25
+6031175;Cockatrice Ronfleuse [Nouvelle];-14;-81;-18
+6038693;Crasc Médius Parasitus [Nouveau];-2;-9;-38
+6027334;Familier [Jeune];-17;-15;-40
+6036140;Thri-kreen Strident [Larve];-13;-29;-22
+5813543;Gowap Sauvage Malade [Ancien];-131;-129;-9
+6036344;Scorpion Géant Fouisseur [Larve];-49;-8;-13
+5813558;Gowap Apprivoisé Vorace [Ancien];-75;-7;-25
+6038962;Gros Veskan du Chaos [Nouveau];-7;-4;-42
+5813594;Gowap Apprivoisé [Ancien];3;-6;-27
+5813601;Gowap Apprivoisé Enragé [Ancien];-48;-66;-37
+6005675;Pseudo-Dragon [Favori];-87;-95;-22
+6036110;Esprit-Follet Fustigateur [Nouveau];-93;-44;-38
+6036481;Glouton [Bébé];-7;-8;-41
+6035789;Elémentaire d'Eau Coriace [Initial];-98;-81;-39
+6015065;Scarabée Géant [Juvénile];-16;-88;-10
+6037713;Ours-Garou [Nouveau];-18;-38;-34
+6037208;Kobold Malade [Nouveau];-45;-40;-3
+6016880;Petite Gorgone [Adulte];-46;-35;-24
+5813780;Gowap Sauvage Malade [Ancien];-129;-129;-9
+5947011;Zombie [Antique];-69;-86;-31
+6013708;Esprit-Follet Cracheur [Adulte];-65;-83;-37
+6003638;Esprit-Follet [Vétéran];-98;-39;-34
+6027524;Gowap Apprivoisé [Enfançon];-23;-80;-33
+6036191;Esprit-Follet [Nouveau];-20;-3;-32
+5949460;Mimique [Doyen];-22;-74;-12
+5813884;Gowap Apprivoisé [Ancien];-34;-62;-28
+6038383;Crasc parasitus [Nouveau];-47;-37;-32
+6038553;Géant de Pierre [Nouveau];-75;-47;-30
+6023212;Diablotin de Cinquième Cercle [Novice];-80;-56;-35
+5988989;Scorpion Géant [Développé];-90;-42;-26
+5980923;Pseudo-Dragon de Cinquième Cercle [Majeur];-48;-62;-25
+6021377;Familier [Adulte];-40;-33;-44
+5997712;Gorgone Cracheuse [Vétéran];-10;-3;-39
+6020038;Rocketeux [Adulte];-61;-71;-8
+6020637;Lézard Géant [Adulte];-50;-56;-27
+5985530;Nuage d'Insectes Ouvrier [Développé];2;-57;-22
+5983714;Araignée Géante [Développée];1;-77;-24
+5964268;Squelette [Antique];-76;-97;-8
+6029080;Golem de Pierre [Jeune];-4;-40;-43
+5969706;Zombie [Antique];-52;-82;-10
+6038938;Dindon Du Glacier [Bébé];-28;-29;-32
+6032123;Gros Xorn [Initial];-74;-35;-23
+6030394;Scarabée Géant [Larve];-36;-72;-20
+6005654;Pseudo-Dragon [Favori];-80;-86;-22
+5998528;Fungus Violet [Vétéran];-8;-67;-6
+6034313;Cockatrice Cracheuse [Nouvelle];-26;-13;-28
+5922526;Diablotin de Second Cercle [Suprême];-56;-22;-15
+6033910;Nécrophage Psychophage [Naissant];-36;-97;-27
+5974261;Pseudo-Dragon [Majeur];-81;-61;-7
+6011342;Pseudo-Dragon [Mineur];-1;-94;-17
+6002579;Diablotin [Favori];-94;-39;-16
+6036478;Bouj'Dla Traqueur [Nouveau];-85;-44;-36
+6002647;Petit Diablotin [Favori];-28;-9;-26
+6002558;Pseudo-Dragon [Favori];-98;-14;-12
+6028761;Esprit-Follet [Jeune];-5;-78;-32
+5910704;Gowap Apprivoisé [Ancien];-10;-9;-4
+5919402;Pseudo-Dragon [Suprême];-37;-44;-28
+6030345;Petite Harpie [Jeune];-70;2;-22
+6015599;Veskan du Chaos [Adulte];-66;-67;-35
+5991006;Squelette [Séculaire];-11;-90;-25
+6038088;Sorcière [Nouvelle];-57;-87;-30
+6038075;Hurleur Mutant [Nouveau];-70;-38;-35
+6030381;Scarabée Géant Coriace [Larve];4;-43;-10
+6031162;Rocketeux [Nouveau];-59;-10;-13
+6032691;Abishaii Bleu de Second Cercle [Initial];-67;-14;-41
+6038584;Elémentaire d'Eau [Initial];-3;-15;-39
+6033695;Fungus Violet [Nouveau];-83;-66;-9
+6038576;Elémentaire d'Eau [Initial];-3;-19;-31
+6022211;Ver Carnivore Géant [Jeune];-99;-27;-27
+6032751;Golem d'Argile Cogneur [Nouveau];-18;-19;-32
+6020169;Pseudo-Dragon [Mineur];-79;-7;-31
+6024462;Sorcier Rocketeux [Jeune];-38;-17;-13
+5999864;Pseudo-Dragon Cogneur [Favori];-14;-26;-35
+6037784;Gorgone Esculape [Nouvelle];-87;-71;-27
+6017047;Pseudo-Dragon [Mineur];-65;-40;-16
+5939829;Zombie Implacable [Ancestral];-52;-84;-21
+5888972;Gowap Apprivoisé [Ancien];-66;-4;-4
+6034062;Araignée Géante Lobotomisatrice [Larve];-32;-19;-10
+6020178;Pseudo-Dragon Ronfleur [Mineur];-99;-40;-29
+6037726;Abishaii Vert [Initial];-67;-86;-28
+6008648;Pseudo-Dragon [Favori];-42;-33;-15
+5952817;Gorgone Malade [Doyenne];-96;-61;-32
+5949424;Squelette Implacable [Antique];-99;-95;-28
+6036149;Thri-kreen [Larve];0;-20;-22
+6032516;Bouj'Dla Placide Coriace [Nouveau];-8;-45;-30
+6015419;Croquemitaine [Ancien];-62;-51;-10
+6037104;Ombre de Roches Cracheuse [Nouvelle];-23;-78;-32
+6032085;Anaconda des Catacombes [Nouveau];-8;-1;-15
+5940965;Goblin [Légendaire];-75;-70;-27
+6018800;Basilisk [Adulte];-69;-98;-27
+6038467;Boggart [Nouveau];-67;-70;-7
+6037108;Elémentaire d'Eau de Premier Cercle [Initial];-100;-21;-41
+6037750;Tigre-Garou [Nouveau];-22;-100;-28
+5964554;Petit Squelette [Antique];-12;-77;-15
+6010067;Nuage d'Insectes Malade [Juvénile];6;-48;-31
+6011492;Spectre Médicastre [Ancien];-39;-84;-39
+6027896;Gorgone Cracheuse [Jeune];-88;-24;-33
+5955781;Zombie [Antique];-91;-56;-22
+6034212;Voleur Veskan du Chaos [Nouveau];-127;-130;-40
+6033640;Basilisk [Nouveau];-89;-41;-32
+5958448;Petit Diablotin [Supérieur];-99;-63;-32
+6027071;Golem d'Argile Malade [Jeune];-25;-40;-29
+5925272;Caillouteux [Légendaire];-93;-42;-10
+6031358;Veskan du Chaos [Nouveau];-59;-45;-39
+5971991;Squelette Mentat [Antique];-84;-86;-13
+5994109;Pseudo-Dragon [Majeur];0;-96;-11
+6033998;Archiatre Erinyes [Initiale];-36;-8;-22
+6009786;Cockatrice [Vétéran];-65;-54;-12
+6037201;Bondin [Nouveau];-74;-10;-33
+6021622;Gnu Sauvage [Jeune];-134;-131;-5
+6021906;Nuage d'Insectes Soldat [Juvénile];3;0;-29
+6038557;Tubercule Tueur [Bébé];-41;-2;-32
+5878907;Squelette [Ancestral];-70;-86;-30
+6029329;Familier [Adulte];-14;-12;-36
+6030377;Scarabée Géant [Larve];1;-36;-12
+5997384;Tubercule Tueur [Adulte];-64;-82;-29
+6029652;Kobold [Jeune];-75;-18;-13
+6033704;Kobold [Nouveau];-37;-94;-2
+5999841;Pseudo-Dragon [Favori];-29;-86;-18
+5985628;Diablotin [Majeur];-28;-50;-8
+6034360;Worg [Nouveau];-42;-75;-27
+6034626;Abishaii Bleu [Initial];-4;-62;-38
+5895212;Zombie [Ancestral];-89;-53;-21
+6024529;Gargouille Coriace [Jeune];-96;-41;-17
+6017008;Diablotin [Mineur];-92;2;-22
+6028339;Slaad Esculape [Jeune];-56;-61;-18
+6024767;Tubercule Tueur [Enfançon];-31;-82;-27
+5932199;Fungus Violet [Légendaire];-5;-74;-9
+6037832;Orque Cogneur [Nouveau];-49;-83;-12
+5978281;Gorgone Gargantuesque [Briscarde];-91;-57;-41
+6005666;Pseudo-Dragon [Favori];-79;-63;-6
+6031613;Guerrier Homme-Lézard [Nouveau];1;4;-8
+5971520;Yuan-ti [Doyen];-91;3;-43
+6029653;Squelette [Récent];7;-90;-8
+5929917;Gremlins [Légendaire];-25;-45;-16
+6031749;Diablotin [Initial];-53;-18;-43
+6029498;Ours-Garou [Jeune];-4;-77;-33
+6017007;Pseudo-Dragon [Mineur];-84;0;-27
+6030775;Homme-Lézard Fou [Nouveau];3;-92;-4
+6038363;Momie Malade [Naissante];-48;-3;-6
+6037689;Dindon Du Glacier [Bébé];-28;-29;-32
+6036479;Bouj'Dla [Nouveau];-85;-46;-36
+6028730;Amibe Géante [Jeune];-76;-98;-28

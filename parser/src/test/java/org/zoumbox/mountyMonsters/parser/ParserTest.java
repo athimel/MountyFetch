@@ -1,5 +1,6 @@
 package org.zoumbox.mountyMonsters.parser;
 
+import com.google.common.collect.Range;
 import com.google.common.io.CharStreams;
 import org.junit.Assert;
 import org.junit.Test;
@@ -16,12 +17,14 @@ public class ParserTest {
 
     @Test
     public void testReadAllMonsters() throws IOException {
-//        for (String file : Arrays.asList("/monsters.txt", "/monsters2.txt")) {
-        for (String file : Arrays.asList("/monsters.txt")) { // Tant qu'on a 2 noms non reconnus: [Dindon Du Glacier] dans "/monsters2.txt"
+//        for (String file : Arrays.asList("/monsters.txt", "/monsters2.txt", "/monsters3.txt")) {
+        for (String file : Arrays.asList("/monsters.txt")) { // Tant qu'on a 1 nom non reconnu: [Dindon Du Glacier] dans "/monsters2.txt" et "/monsters3.txt"
             InputStream stream = this.getClass().getResourceAsStream(file);
             List<String> rows = CharStreams.readLines(new InputStreamReader(stream));
             System.out.println(String.format("%s -> %d lignes", file, rows.size()));
-            List<ImmutableMonster> monsters = rows.stream().map(MonsterParser::fromSpVue2Row).collect(Collectors.toList());
+            List<ImmutableMonster> monsters = rows.stream()
+                    .map(m -> MonsterParser.fromSpVue2Row(m))
+                    .collect(Collectors.toList());
 
             Set<String> noFamily = monsters.stream()
                     .filter(m -> !m.familyEnum().isPresent())
@@ -36,6 +39,14 @@ public class ParserTest {
             String noNivalMessage = String.format("[%s] %d nivals manquants: %s", file, noNival.size(), noNival.stream().map(m -> m.id() + "" + m.fullName()).collect(Collectors.toList()));
             Assert.assertEquals(noNivalMessage, 0, noNival.size());
         }
+    }
+
+    @Test
+    public void testGobelinMagique() {
+        String row = "5944172;Gobelin Magique [Légendaire];-132;-133;-7";
+        ImmutableMonster monster = MonsterParser.fromSpVue2Row(row);
+        Assert.assertEquals(Families.Humanoïde, monster.familyEnum().orElse(null));
+        Assert.assertEquals(7, (int)monster.nival().map(Range::lowerEndpoint).orElse(-1));
     }
 
 }

@@ -1,7 +1,9 @@
 package org.zoumbox.mountyMonsters.parser;
 
 import com.google.common.base.Preconditions;
+import com.google.common.base.Strings;
 import com.google.common.collect.Range;
+import org.apache.commons.text.StringEscapeUtils;
 
 import java.util.Optional;
 
@@ -11,7 +13,10 @@ import java.util.Optional;
 public class MonsterBuilder {
 
     protected static ImmutableMonster fromName(String raw) {
-        String name = raw.trim();
+
+        String unescaped = StringEscapeUtils.unescapeHtml4(raw.trim());
+        String name = unescaped.replaceAll("ï¿½", "é");
+
         ImmutableMonster.Builder builder = ImmutableMonster.builder();
         builder.fullName(name);
 
@@ -30,6 +35,10 @@ public class MonsterBuilder {
         return result;
     }
 
+    protected static boolean safeStartsWith(String str, String expectedBeginning) {
+        return Strings.nullToEmpty(str).indexOf(expectedBeginning) == 0;
+    }
+
     protected static ImmutableMonster extractTemplate(ImmutableMonster source) {
 
         ImmutableMonster.Builder builder = ImmutableMonster.builder().from(source);
@@ -37,7 +46,7 @@ public class MonsterBuilder {
         Preconditions.checkArgument(source.baseName().isPresent());
 
         String name = source.baseName().get().trim() + " ";
-        if (name.length() >= 6 && name.substring(0, 6).equals("Archi-")) {
+        if (safeStartsWith(name, "Archi-")) {
             String templateAndBaseName = name.substring(6).trim();
             Optional<Templates> templates = Templates.tryFindByLabel(templateAndBaseName);
             if (templates.isPresent()) {
@@ -70,13 +79,13 @@ public class MonsterBuilder {
                     }
 
                     // Cas particulier du Frondeur vs Grand Frondeur
-                    if (Templates.Frondeur.equals(monsterTemplate) && monsterBaseName.substring(0, 5).equals("Grand")) {
+                    if (Templates.Frondeur.equals(monsterTemplate) && safeStartsWith(monsterBaseName, "Grand")) {
                         monsterTemplate = Templates.GrandFrondeur;
                         monsterBaseName = name.substring(14).trim();
                     }
 
                     // Cas particulier de la Frondeuse vs Grande Frondeuse
-                    if (Templates.Frondeuse.equals(monsterTemplate) && monsterBaseName.substring(0, 6).equals("Grande")) {
+                    if (Templates.Frondeuse.equals(monsterTemplate) && safeStartsWith(monsterBaseName, "Grande")) {
                         monsterTemplate = Templates.GrandeFrondeuse;
                         monsterBaseName = name.substring(16).trim();
                     }
