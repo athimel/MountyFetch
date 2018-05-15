@@ -46,7 +46,7 @@ public enum Monsters {
     Pititabeille(Families.Insecte, 0),
     Scarabée(Families.Insecte, 3, "Scarabée"),
     ScarabéeGéant(Families.Insecte, 4, "Scarabée Géant"),
-//    Scorpion(Families.Insecte, 9, "Scorpion"),
+    Scorpion(Families.Insecte, 9, "Scorpion"),
     ScorpionGéant(Families.Insecte, 10, "Scorpion Géant"),
     Strige(Families.Insecte, 2),
     ThriKreen(Families.Insecte, 10, "Thri-kreen"),

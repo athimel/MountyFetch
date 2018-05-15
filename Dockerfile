@@ -1,11 +1,20 @@
 # fetch basic image
-FROM java:8-jre
+FROM maven:3-jdk-8
 
-# install JAR file
-COPY rest/target/rest-*-jar-with-dependencies.jar mounty-monsters-rest.jar
+# application placed into /opt/app
+RUN mkdir -p /opt/app
+
+# install project
+COPY pom.xml /opt/app/
+COPY parser /opt/app/parser
+COPY rest /opt/app/rest
+
+# build
+WORKDIR /opt/app
+RUN mvn package
 
 # local application port
 EXPOSE 8080
 
 # execute it
-CMD ["java", "-jar", "mounty-monsters-rest.jar"]
+CMD ["java", "-jar", "rest/target/mounty-monsters-rest-jar-with-dependencies.jar"]

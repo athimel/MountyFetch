@@ -17,9 +17,10 @@ public class ParserTest {
     @Test
     public void testReadAllMonsters() throws IOException {
 //        for (String file : Arrays.asList("/monsters.txt", "/monsters2.txt")) {
-        for (String file : Arrays.asList("/monsters.txt")) { // Tant qu'on a 2 noms non reconnus: [Dindon Du Glacier, Scorpion] dans "/monsters2.txt"
+        for (String file : Arrays.asList("/monsters.txt")) { // Tant qu'on a 2 noms non reconnus: [Dindon Du Glacier] dans "/monsters2.txt"
             InputStream stream = this.getClass().getResourceAsStream(file);
             List<String> rows = CharStreams.readLines(new InputStreamReader(stream));
+            System.out.println(String.format("%s -> %d lignes", file, rows.size()));
             List<ImmutableMonster> monsters = rows.stream().map(MonsterParser::fromSpVue2Row).collect(Collectors.toList());
 
             Set<String> noFamily = monsters.stream()

@@ -76,7 +76,9 @@
             </plugin>
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
+                <version>3.1.0</version>
                 <configuration>
+                    <finalName>mounty-monsters-rest</finalName>
                     <archive>
                         <manifest>
                             <mainClass>org.zoumbox.mountyMonsters.rest.Main</mainClass>
