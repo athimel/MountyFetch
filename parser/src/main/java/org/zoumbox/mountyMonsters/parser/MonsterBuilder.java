@@ -26,7 +26,7 @@ public class MonsterBuilder {
         // Si le nom contient l'identifiant à la fin, on l'extrait
         Matcher matcher = NAME_WITH_ID_PATTERN.matcher(name);
         if (matcher.matches()) {
-            name = matcher.group(1);
+            name = matcher.group(1).trim();
             Integer id = Integer.valueOf(matcher.group(2));
             builder.id(id);
         }
