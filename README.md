@@ -70,21 +70,21 @@ On obtient un JSON contenant les différentes informations qui ont pu êtré dé
 }
 ```
 
- Champ        | Description
---------------|-------------------------------------------------------------------
-id            | Identifiant du monstre (Uniquement dans le cas de `fromSpVue2Row`)
-fullName      | Nom complet
-position      | Position (Uniquement dans le cas de `fromSpVue2Row`)
-familyEnum    | La famille de monstre (valeur de l'énum Java)
-family        | La famille de monstre
-baseName      | Le type de base du monstre (sans template, sans âge, ...)
-baseNival     | Le niveau lié au monstre de base (sans template, sans âge, ...)
-templateEnum  | Le template (valeur de l'énum Java)
-template      | Le template
-templateBonus | Le bonus lié au template
-age           | L'âge
-ageBonus      | Le bonus lié à l'âge
-nival         | Le niveau calculé avec template & âge
+ Champ          | Description
+----------------|-------------------------------------------------------------------
+`id`            | Identifiant du monstre (Uniquement dans le cas de `fromSpVue2Row`)
+`fullName`      | Nom complet
+`position`      | Position (Uniquement dans le cas de `fromSpVue2Row`)
+`familyEnum`    | La famille de monstre (valeur de l'[énum Java](/parser/src/main/java/org/zoumbox/mountyMonsters/parser/Families.java))
+`family`        | La famille de monstre
+`baseName`      | Le type de base du monstre (sans template, sans âge, ...)
+`baseNival`     | Le niveau lié au monstre de base (sans template, sans âge, ...)
+`templateEnum`  | Le template (valeur de l'[énum Java](/parser/src/main/java/org/zoumbox/mountyMonsters/parser/Templates.java))
+`template`      | Le template
+`templateBonus` | Le bonus lié au template
+`age`           | L'âge
+`ageBonus`      | Le bonus lié à l'âge
+`nival`         | Le niveau calculé avec template & âge
 
 Pour `baseNival` et `nival`, on indique un intervalle car dans certains cas (ex. `Phoenix`) le niveau n'est pas déterministe
 
