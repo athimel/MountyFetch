@@ -75,7 +75,7 @@ public interface Monster {
     Optional<Integer> ageBonus();
 
     /**
-     * @return Le niveau calculé avec template & âge. On indique un intervalle car dans certains cas (ex.
+     * @return Le niveau calculé avec template &amp; âge. On indique un intervalle car dans certains cas (ex.
      * {@link Monsters#Phoenix}) le niveau n'est pas déterministe.
      */
     Optional<Range<Integer>> nival();

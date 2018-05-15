@@ -5,7 +5,7 @@ import com.google.common.collect.Range;
 import java.util.Optional;
 
 /**
- * La liste des monstres connus avec leur famille et le niveau de base
+ * La liste des monstres connus avec leur famille ({@link Families}) et le niveau de base
  */
 public enum Monsters {
 
