@@ -6,11 +6,15 @@ import com.google.common.collect.Range;
 import org.apache.commons.text.StringEscapeUtils;
 
 import java.util.Optional;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * Chaque méthode de cette classe prend une information incomplète en entrée et essaye de la compléter.
  */
 public class MonsterBuilder {
+
+    private static final Pattern NAME_WITH_ID_PATTERN = Pattern.compile("(.*)[(]([0-9]+)[)]");
 
     protected static ImmutableMonster fromName(String raw) {
 
@@ -18,6 +22,15 @@ public class MonsterBuilder {
         String name = unescaped.replaceAll("ï¿½", "é");
 
         ImmutableMonster.Builder builder = ImmutableMonster.builder();
+
+        // Si le nom contient l'identifiant à la fin, on l'extrait
+        Matcher matcher = NAME_WITH_ID_PATTERN.matcher(name);
+        if (matcher.matches()) {
+            name = matcher.group(1);
+            Integer id = Integer.valueOf(matcher.group(2));
+            builder.id(id);
+        }
+
         builder.fullName(name);
 
         int ageBeginIndex = name.indexOf("[");

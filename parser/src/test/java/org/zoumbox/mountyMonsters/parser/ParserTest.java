@@ -49,4 +49,17 @@ public class ParserTest {
         Assert.assertEquals(7, (int)monster.nival().map(Range::lowerEndpoint).orElse(-1));
     }
 
+    @Test
+    public void testFromNameWithId() {
+        String name = "Pseudo-Dragon de Quatrième Cercle [Suprême] (5863609)";
+        ImmutableMonster monster = MonsterParser.fromRawName(name);
+        Assert.assertTrue(monster.id().isPresent());
+        Assert.assertEquals(5863609, (int)monster.id().orElse(-1));
+        Assert.assertEquals(Families.Démon, monster.familyEnum().orElse(null));
+        Assert.assertEquals("Pseudo-Dragon", monster.baseName().orElse(null));
+        Assert.assertEquals(Templates.deQuatrièmeCercle, monster.templateEnum().orElse(null));
+        Assert.assertEquals(15, (int)monster.nival().map(Range::lowerEndpoint).orElse(-1));
+        Assert.assertEquals(15, (int)monster.nival().map(Range::upperEndpoint).orElse(-1));
+    }
+
 }
