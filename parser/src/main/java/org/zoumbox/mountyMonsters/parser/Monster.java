@@ -4,12 +4,11 @@ import com.google.common.collect.Range;
 import org.immutables.value.Value;
 
 import java.util.Optional;
-import java.util.OptionalInt;
 
 @Value.Immutable
 public interface Monster {
 
-    OptionalInt id();
+    Optional<Integer> id();
 
     String fullName();
 
@@ -27,11 +26,11 @@ public interface Monster {
 
     Optional<String> template();
 
-    OptionalInt templateBonus();
+    Optional<Integer> templateBonus();
 
     Optional<String> age();
 
-    OptionalInt ageBonus();
+    Optional<Integer> ageBonus();
 
     Optional<Range<Integer>> nival();
 

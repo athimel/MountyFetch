@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 
 public class MonsterParser {
 
-    public static final Pattern SP_VUE2_PATTERN = Pattern.compile("([0-9]*);(.*);([-]?[0-9]*);([-]?[0-9]*);([-]?[0-9]*)");
+    private static final Pattern SP_VUE2_PATTERN = Pattern.compile("([0-9]*);(.*);([-]?[0-9]*);([-]?[0-9]*);([-]?[0-9]*)");
 
     /**
      * Essaye de calculer un maximum d'informations sur un monstre à partir de son nom. Exemple :

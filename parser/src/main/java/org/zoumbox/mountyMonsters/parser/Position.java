@@ -14,4 +14,5 @@ public interface Position {
     default void check() {
         Preconditions.checkState(n() <= 0, "Le N est forcément négatif");
     }
+
 }

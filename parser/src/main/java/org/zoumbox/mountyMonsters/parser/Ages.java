@@ -2,7 +2,7 @@ package org.zoumbox.mountyMonsters.parser;
 
 import com.google.common.collect.ImmutableMap;
 
-import java.util.OptionalInt;
+import java.util.Optional;
 
 public class Ages {
 
@@ -106,13 +106,13 @@ public class Ages {
         AGES = builder.build();
     }
 
-    public static OptionalInt tryGetAgeBonus(Families family, String age) {
+    public static Optional<Integer> tryGetAgeBonus(Families family, String age) {
         ImmutableMap<String, Integer> map = AGES.get(family);
         Integer integer = map.get(age);
         if (integer == null) {
-            System.out.println("Age non dispo: " + family + " -> " + age);
-            return OptionalInt.empty();
+            System.err.println("Age non dispo: " + family + " -> " + age);
         }
-        return OptionalInt.of(integer);
+        Optional<Integer> result = Optional.ofNullable(integer);
+        return result;
     }
 }

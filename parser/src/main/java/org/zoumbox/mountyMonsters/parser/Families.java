@@ -24,5 +24,4 @@ public enum Families {
         return label.orElse(name());
     }
 
-
 }

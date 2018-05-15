@@ -4,7 +4,6 @@ import com.google.common.base.Preconditions;
 import com.google.common.collect.Range;
 
 import java.util.Optional;
-import java.util.OptionalInt;
 
 public class MonsterBuilder {
 
@@ -129,20 +128,16 @@ public class MonsterBuilder {
             Families family = source.familyEnum().get();
 
             if (source.age().isPresent()) {
-                OptionalInt ageBonus = Ages.tryGetAgeBonus(family, source.age().get());
+                Optional<Integer> ageBonus = Ages.tryGetAgeBonus(family, source.age().get());
                 builder.ageBonus(ageBonus);
-                if (ageBonus.isPresent()) {
-                    bonus += ageBonus.getAsInt();
-                }
+                bonus += ageBonus.orElse(0);
             }
         }
 
         builder.template(source.templateEnum().map(Templates::getLabel));
-        if (source.templateEnum().isPresent()) {
-            int templateBonus = source.templateEnum().get().getBonus();
-            builder.templateBonus(OptionalInt.of(templateBonus));
-            bonus += templateBonus;
-        }
+        Optional<Integer> templateBonus = source.templateEnum().map(Templates::getBonus);
+        builder.templateBonus(templateBonus);
+        bonus += templateBonus.orElse(0);
 
         if (source.baseNival().isPresent()) {
             Range<Integer> range = source.baseNival().get();

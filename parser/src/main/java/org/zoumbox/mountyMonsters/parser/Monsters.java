@@ -240,6 +240,7 @@ public enum Monsters {
                 return Optional.of(monster);
             }
         }
+        System.err.println("Monstre introuvable: " + label);
         return Optional.empty();
     }
 
