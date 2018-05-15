@@ -54,21 +54,37 @@ On obtient un JSON contenant les différentes informations qui ont pu êtré dé
 
 ```json
 {
-  "id":5864923, /* Uniquement dans le cas de `fromSpVue2Row` */
+  "id":5864923,
   "fullName":"Maîtresse Ame-en-peine [Naissante]",
-  "position":{"x":-74,"y":-40,"n":-78}, // Uniquement dans le cas de `fromSpVue2Row`
+  "position":{"x":-74,"y":-40,"n":-78},
   "familyEnum":"MortVivant",
-  "family":"Mort-Vivant", // La famille de monstre
-  "baseName":"Ame-en-peine", // Le type de base du monstre (sans template, sans âge, ...)
-  "baseNival":{"lowerBound":{"endpoint":8},"upperBound":{"endpoint":8}}, // Le niveau lié au monstre de base (sans template, sans âge, ...)
+  "family":"Mort-Vivant",
+  "baseName":"Ame-en-peine",
+  "baseNival":{"lowerBound":{"endpoint":8},"upperBound":{"endpoint":8}},
   "templateEnum":"Maîtresse",
-  "template":"Maîtresse", // Le template
-  "templateBonus":8, // Le bonus lié au template
-  "age":"Naissante", // L'âge
-  "ageBonus":0, // Le bonus lié à l'âge
-  "nival":{"lowerBound":{"endpoint":16},"upperBound":{"endpoint":16}} // Le niveau calculé avec template & âge
+  "template":"Maîtresse",
+  "templateBonus":8,
+  "age":"Naissante",
+  "ageBonus":0,
+  "nival":{"lowerBound":{"endpoint":16},"upperBound":{"endpoint":16}}
 }
 ```
+
+ Champ        | Description
+--------------|-------------------------------------------------------------------
+id            | Identifiant du monstre (Uniquement dans le cas de `fromSpVue2Row`)
+fullName      | Nom complet
+position      | Position (Uniquement dans le cas de `fromSpVue2Row`)
+familyEnum    | La famille de monstre (valeur de l'énum Java)
+family        | La famille de monstre
+baseName      | Le type de base du monstre (sans template, sans âge, ...)
+baseNival     | Le niveau lié au monstre de base (sans template, sans âge, ...)
+templateEnum  | Le template (valeur de l'énum Java)
+template      | Le template
+templateBonus | Le bonus lié au template
+age           | L'âge
+ageBonus      | Le bonus lié à l'âge
+nival         | Le niveau calculé avec template & âge
 
 Pour `baseNival` et `nival`, on indique un intervalle car dans certains cas (ex. `Phoenix`) le niveau n'est pas déterministe
 
