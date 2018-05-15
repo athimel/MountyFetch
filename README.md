@@ -42,14 +42,35 @@ docker run -p 8080:8080 -t -i zoumbox/mounty-monsters-rest
 
 ## Utilisation
 
-### Parsing à partir d'un nom
+À partir d'un nom :
 
     http://localhost:8080/mountyMonsters/v1/parse/fromName?raw=Gowap%20Apprivois%C3%A9%20[Anc%C3%AAtre]
 
-### Parsing à partir d'une ligne extraite de Sp_Vue2
+ou d'une ligne extraite de Sp_Vue2 :
 
     http://localhost:8080/mountyMonsters/v1/parse/fromSpVue2Row?row=5864923;Ma%C3%AEtresse%20Ame-en-peine%20[Naissante];-74;-40;-78
 
+On obtient un JSON contenant les différentes informations qui ont pu êtré déduites
+
+```json
+{
+  "id":5864923, // Uniquement dans le cas de `fromSpVue2Row`
+  "fullName":"Maîtresse Ame-en-peine [Naissante]",
+  "position":{"x":-74,"y":-40,"n":-78}, // Uniquement dans le cas de `fromSpVue2Row`
+  "familyEnum":"MortVivant",
+  "family":"Mort-Vivant", // La famille de monstre
+  "baseName":"Ame-en-peine", // Le type de base du monstre (sans template, sans âge, ...)
+  "baseNival":{"lowerBound":{"endpoint":8},"upperBound":{"endpoint":8}}, // Le niveau lié au monstre de base (sans template, sans âge, ...)
+  "templateEnum":"Maîtresse",
+  "template":"Maîtresse", // Le template
+  "templateBonus":8, // Le bonus lié au template
+  "age":"Naissante", // L'âge
+  "ageBonus":0, // Le bonus lié à l'âge
+  "nival":{"lowerBound":{"endpoint":16},"upperBound":{"endpoint":16}} // Le niveau calculé avec template & âge
+}
+```
+
+Pour `baseNival` et `nival`, on indique un intervalle car dans certains cas (ex. `Phoenix`) le niveau n'est pas déterministe
 
 ## Démo
 
