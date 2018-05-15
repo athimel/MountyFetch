@@ -54,7 +54,7 @@ On obtient un JSON contenant les différentes informations qui ont pu êtré dé
 
 ```json
 {
-  "id":5864923, // Uniquement dans le cas de `fromSpVue2Row`
+  "id":5864923, /* Uniquement dans le cas de `fromSpVue2Row` */
   "fullName":"Maîtresse Ame-en-peine [Naissante]",
   "position":{"x":-74,"y":-40,"n":-78}, // Uniquement dans le cas de `fromSpVue2Row`
   "familyEnum":"MortVivant",
