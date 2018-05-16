@@ -14,7 +14,7 @@ public enum Monsters {
     ChevalÀDentsDeSabre(Families.Animal, 23, "Cheval à Dents de Sabre"),
     Dindon(Families.Animal, 1),
     DindonDuChaos(Families.Animal, 1, "Dindon du Chaos"),
-//    DindonDuGlacier(Families.Animal, 1, "Dindon Du Glacier"),
+    DindonDuGlacier(Families.Animal, 1, "Dindon Du Glacier"),
     Geckoo(Families.Animal, 15, "Geck'oo"),
     GeckooMajestueux(Families.Animal, 40, "Geck'oo majestueux"),
     Glouton(Families.Animal, 20),
