@@ -1,4 +1,4 @@
-package org.zoumbox.mountyMonsters.parser;
+package org.zoumbox.mountyFetch.parser;
 
 import java.util.Optional;
 

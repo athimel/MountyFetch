@@ -1,7 +1,7 @@
-package org.zoumbox.mountyMonsters.rest.v1;
+package org.zoumbox.mountyFetch.rest.v1;
 
-import org.zoumbox.mountyMonsters.parser.ImmutableMonster;
-import org.zoumbox.mountyMonsters.parser.MonsterParser;
+import org.zoumbox.mountyFetch.parser.ImmutableMonster;
+import org.zoumbox.mountyFetch.parser.MonsterParser;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
@@ -11,9 +11,9 @@ import javax.ws.rs.core.MediaType;
 import java.util.List;
 import java.util.stream.Collectors;
 
-@Path("/v1/parse")
+@Path("/v1/monsters")
 @Produces(MediaType.APPLICATION_JSON + ";charset=utf-8")
-public class ParserService {
+public class MonstersService {
 
     @GET
     @Path("/fromName")

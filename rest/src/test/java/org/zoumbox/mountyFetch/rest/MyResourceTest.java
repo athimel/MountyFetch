@@ -1,4 +1,4 @@
-package org.zoumbox.mountyMonsters.rest;
+package org.zoumbox.mountyFetch.rest;
 
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;
@@ -10,7 +10,6 @@ import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.zoumbox.mountyMonsters.rest.Main;
 
 public class MyResourceTest {
 
@@ -52,7 +51,7 @@ public class MyResourceTest {
      */
     @Test
     public void testFromName() {
-        String responseMsg = target.path("v1/parse/fromName").queryParam("raw", "Gowap Apprivoisé [Ancêtre]").request().get(String.class);
+        String responseMsg = target.path("v1/monsters/fromName").queryParam("raw", "Gowap Apprivoisé [Ancêtre]").request().get(String.class);
         Assert.assertTrue(responseMsg.contains("\"age\":\"Ancêtre\""));
         Assert.assertTrue(responseMsg.contains("\"baseName\":\"Gowap Apprivoisé\""));
     }
@@ -62,7 +61,7 @@ public class MyResourceTest {
      */
     @Test
     public void testFromSpVue2Row() {
-        String responseMsg = target.path("v1/parse/fromSpVue2Row").queryParam("row", "5864923;Maîtresse Ame-en-peine [Naissante];-74;-40;-78").request().get(String.class);
+        String responseMsg = target.path("v1/monsters/fromSpVue2Row").queryParam("row", "5864923;Maîtresse Ame-en-peine [Naissante];-74;-40;-78").request().get(String.class);
         Assert.assertTrue(responseMsg.contains("\"age\":\"Naissante\""));
         Assert.assertTrue(responseMsg.contains("\"id\":5864923"));
         Assert.assertTrue(responseMsg.contains("\"baseName\":\"Ame-en-peine\""));

@@ -1,4 +1,4 @@
-package org.zoumbox.mountyMonsters.rest;
+package org.zoumbox.mountyFetch.rest;
 
 import com.google.gson.Gson;
 import org.glassfish.grizzly.http.server.HttpServer;
@@ -17,10 +17,10 @@ import java.net.URI;
  */
 public class Main {
 
-    public static final String BASE_URI = "http://0.0.0.0:8080/mountyMonsters/";
+    public static final String BASE_URI = "http://0.0.0.0:8080/mountyFetch/";
 
     public static HttpServer startServer() {
-        final ResourceConfig rc = new ResourceConfig().packages("org.zoumbox.mountyMonsters.rest");
+        final ResourceConfig rc = new ResourceConfig().packages("org.zoumbox.mountyFetch.rest");
         GsonMessageBodyProvider provider = new GsonMessageBodyProvider(
                 new GsonProviderOptionsBuilder()
                         .gson(new Gson()) // build custom Gson instance using GsonBuilder methods

@@ -1,7 +1,5 @@
-package org.zoumbox.mountyMonsters.parser;
+package org.zoumbox.mountyFetch.parser;
 
-
-import org.apache.commons.text.StringEscapeUtils;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

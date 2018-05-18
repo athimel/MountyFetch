@@ -17,4 +17,4 @@ RUN mvn package
 EXPOSE 8080
 
 # execute it
-CMD ["java", "-jar", "rest/target/mounty-monsters-rest-jar-with-dependencies.jar"]
+CMD ["java", "-jar", "rest/target/mounty-fetch-rest-jar-with-dependencies.jar"]

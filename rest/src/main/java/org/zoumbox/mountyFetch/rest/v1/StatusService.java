@@ -1,4 +1,4 @@
-package org.zoumbox.mountyMonsters.rest.v1;
+package org.zoumbox.mountyFetch.rest.v1;
 
 import com.google.common.base.Charsets;
 import com.google.common.collect.ImmutableMap;

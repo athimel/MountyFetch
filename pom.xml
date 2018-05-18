@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.zoumbox</groupId>
-    <artifactId>mounty-monsters</artifactId>
+    <artifactId>mounty-fetch</artifactId>
     <packaging>pom</packaging>
     <version>0.1-SNAPSHOT</version>
 
@@ -13,7 +13,7 @@
         <module>rest</module>
     </modules>
 
-    <name>MountyMonsters</name>
+    <name>MountyFetch</name>
 
     <dependencyManagement>
         <dependencies>

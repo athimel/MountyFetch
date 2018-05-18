@@ -1,6 +1,7 @@
-# MountyMonsters
+# MountyFetch
 
-Petit outil utilitaire autour de la détection/positionnement des monstres dans [MountyHall](http://www.mountyhall.com/)
+Petit outil utilitaire autour du chargement et traitement des données [MountyHall](http://www.mountyhall.com/) 
+(détection/positionnement des monstres, profil des trolls, ...)
 
 ## Démarrage 
 
@@ -15,7 +16,7 @@ mvn clean install
 Puis exécution avec :
 
 ````shell
-java -jar rest/target/mounty-monsters-rest-jar-with-dependencies.jar
+java -jar rest/target/mounty-fetch-rest-jar-with-dependencies.jar
 ````
 
 
@@ -24,19 +25,19 @@ java -jar rest/target/mounty-monsters-rest-jar-with-dependencies.jar
 Construction du projet avec :
 
 ````shell
-docker build -t zoumbox/mounty-monsters-rest  .
+docker build -t zoumbox/mounty-fetch-rest  .
 ````
 
 Puis exécution avec :
 
 
 ````shell
-docker run -p 8080:8080 -t -i zoumbox/mounty-monsters-rest
+docker run -p 8080:8080 -t -i zoumbox/mounty-fetch-rest
 ````
 
 ### Vérifier que tout va bien via l'URL
 
-    http://localhost:8080/mountyMonsters/v1/status
+    http://localhost:8080/mountyFetch/v1/status
 
 
 
@@ -44,11 +45,11 @@ docker run -p 8080:8080 -t -i zoumbox/mounty-monsters-rest
 
 À partir d'un nom :
 
-    http://localhost:8080/mountyMonsters/v1/parse/fromName?raw=Gowap%20Apprivois%C3%A9%20[Anc%C3%AAtre]
+    http://localhost:8080/mountyFetch/v1/monsters/fromName?raw=Gowap%20Apprivois%C3%A9%20[Anc%C3%AAtre]
 
 ou d'une ligne extraite de Sp_Vue2 :
 
-    http://localhost:8080/mountyMonsters/v1/parse/fromSpVue2Row?row=5864923;Ma%C3%AEtresse%20Ame-en-peine%20[Naissante];-74;-40;-78
+    http://localhost:8080/mountyFetch/v1/monsters/fromSpVue2Row?row=5864923;Ma%C3%AEtresse%20Ame-en-peine%20[Naissante];-74;-40;-78
 
 On obtient un JSON contenant les différentes informations qui ont pu êtré déduites
 
@@ -75,11 +76,11 @@ On obtient un JSON contenant les différentes informations qui ont pu êtré dé
 `id`            | Identifiant du monstre (Uniquement dans le cas de `fromSpVue2Row`)
 `fullName`      | Nom complet
 `position`      | Position (Uniquement dans le cas de `fromSpVue2Row`)
-`familyEnum`    | La famille de monstre (valeur de l'[énum Java](/parser/src/main/java/org/zoumbox/mountyMonsters/parser/Families.java))
+`familyEnum`    | La famille de monstre (valeur de l'[énum Java](/parser/src/main/java/org/zoumbox/mountyFetch/parser/Families.java))
 `family`        | La famille de monstre
 `baseName`      | Le type de base du monstre (sans template, sans âge, ...)
 `baseNival`     | Le niveau lié au monstre de base (sans template, sans âge, ...)
-`templateEnum`  | Le template (valeur de l'[énum Java](/parser/src/main/java/org/zoumbox/mountyMonsters/parser/Templates.java))
+`templateEnum`  | Le template (valeur de l'[énum Java](/parser/src/main/java/org/zoumbox/mountyFetch/parser/Templates.java))
 `template`      | Le template
 `templateBonus` | Le bonus lié au template
 `age`           | L'âge
@@ -94,8 +95,8 @@ Une instance de démo disponible
 
 ### Parsing à partir d'un nom
 
-    http://mounty-monsters.zoumbox.org/v1/parse/fromName?raw=Gowap%20Apprivois%C3%A9%20[Anc%C3%AAtre]
+    http://mounty-fetch.zoumbox.org/v1/monsters/fromName?raw=Gowap%20Apprivois%C3%A9%20[Anc%C3%AAtre]
 
 ### Parsing à partir d'une ligne extraite de Sp_Vue2
 
-    http://mounty-monsters.zoumbox.org/v1/parse/fromSpVue2Row?row=5864923;Ma%C3%AEtresse%20Ame-en-peine%20[Naissante];-74;-40;-78
+    http://mounty-fetch.zoumbox.org/v1/monsters/fromSpVue2Row?row=5864923;Ma%C3%AEtresse%20Ame-en-peine%20[Naissante];-74;-40;-78
