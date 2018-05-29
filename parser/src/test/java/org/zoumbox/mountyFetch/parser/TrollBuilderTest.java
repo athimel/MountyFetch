@@ -16,7 +16,7 @@ public class TrollBuilderTest {
 
     @Test
     public void testRead104259() {
-        ImmutableTroll troll = TrollBuilder.fromId(104259);
+        ImmutableTroll troll = TrollBuilder.fromId(Troll.of(104259));
         System.out.println(troll);
         Assert.assertNotNull(troll);
         Assert.assertEquals(104259, (int)troll.id());

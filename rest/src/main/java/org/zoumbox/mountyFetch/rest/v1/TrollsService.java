@@ -7,7 +7,6 @@ import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
-import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
 
 @Path("/v1/trolls")
@@ -19,13 +18,6 @@ public class TrollsService {
     public ImmutableTroll fromId(@PathParam("id") Integer id) {
         ImmutableTroll result = TrollParser.fromId(id);
 
-        return result;
-    }
-
-    @GET
-    @Path("/fromName")
-    public ImmutableTroll fromId(@QueryParam("name") String name) {
-        ImmutableTroll result = TrollParser.fromName(name);
         return result;
     }
 

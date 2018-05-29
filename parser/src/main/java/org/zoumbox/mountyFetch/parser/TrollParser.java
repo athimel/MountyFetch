@@ -15,20 +15,8 @@ public class TrollParser {
      * @return Les informations déduites à propos du troll
      */
     public static ImmutableTroll fromId(Integer id) {
-        ImmutableTroll result = TrollBuilder.fromId(id);
-        result = TrollBuilder.extractGuilde(result);
-        return result;
-    }
-
-    /**
-     * Charge les informations publiques d'un troll. Exemple :
-     * <pre>DevelZimZoum</pre>
-     *
-     * @param name le nom brut
-     * @return Les informations déduites à propos du troll
-     */
-    public static ImmutableTroll fromName(String name) {
-        ImmutableTroll result = TrollBuilder.fromName(name);
+        ImmutableTroll result = Troll.of(id);
+        result = TrollBuilder.fromId(result);
         result = TrollBuilder.extractGuilde(result);
         return result;
     }

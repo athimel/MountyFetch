@@ -87,19 +87,11 @@ public class TrollBuilder {
         return result;
     }
 
-    public static ImmutableTroll fromId(Integer id) {
+    public static ImmutableTroll fromId(ImmutableTroll source) {
         ImmutableTroll result = new PublicDataProvider()
-                .readTrollsLine(id)
+                .readTrollsLine(source.id())
                 .map(TROLL_TO_OBJECT)
-                .orElse(null);
-        return result;
-    }
-
-    public static ImmutableTroll fromName(String name) {
-        ImmutableTroll result = new PublicDataProvider()
-                .readTrollsLine(name)
-                .map(TROLL_TO_OBJECT)
-                .orElse(null);
+                .orElse(source);
         return result;
     }
 
