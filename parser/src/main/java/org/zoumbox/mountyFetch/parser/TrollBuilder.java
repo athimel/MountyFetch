@@ -72,6 +72,14 @@ public class TrollBuilder {
         return Optional.empty();
     }
 
+    protected static Optional<ImmutableGuilde> tryTransformGuilde(String line) {
+        Matcher matcher = GUILDES_PATTERN.matcher(line);
+        if (matcher.matches()) {
+            return Optional.of(GUILDE_TO_OBJECT.apply(line));
+        }
+        return Optional.empty();
+    }
+
     public static ImmutableTroll extractGuilde(ImmutableTroll source) {
         if (source == null || !source.guilde().isPresent()) {
             return source;

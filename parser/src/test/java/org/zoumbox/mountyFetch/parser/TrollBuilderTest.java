@@ -37,7 +37,10 @@ public class TrollBuilderTest {
                     .map(TrollBuilder::tryTransformTroll)
                     .filter(Optional::isPresent)
                     .map(Optional::get)
+                    .filter(g -> g.fullName().isPresent())
+                    .filter(g -> g.nival().isPresent())
                     .collect(Collectors.toList());
+            Assert.assertEquals(rows.size(), trolls.size());
             System.out.println(String.format("%s -> %d lignes valides", file, trolls.size()));
         }
     }
@@ -52,7 +55,28 @@ public class TrollBuilderTest {
                     .map(TrollBuilder::tryTransformTroll2)
                     .filter(Optional::isPresent)
                     .map(Optional::get)
+                    .filter(g -> g.fullName().isPresent())
+                    .filter(g -> g.nival().isPresent())
                     .collect(Collectors.toList());
+            // On sait que certaines lignes sont invalides (blasons sur plusieurs lignes)
+//            Assert.assertEquals(rows.size(), trolls.size());
+            System.out.println(String.format("%s -> %d lignes valides", file, trolls.size()));
+        }
+    }
+
+    @Test
+    public void testReadAllGuildes() throws IOException {
+        for (String file : Arrays.asList("/public/Public_Guildes.txt")) {
+            InputStream stream = this.getClass().getResourceAsStream(file);
+            List<String> rows = CharStreams.readLines(new InputStreamReader(stream));
+            System.out.println(String.format("%s -> %d lignes", file, rows.size()));
+            List<ImmutableGuilde> trolls = rows.stream()
+                    .map(TrollBuilder::tryTransformGuilde)
+                    .filter(Optional::isPresent)
+                    .map(Optional::get)
+                    .filter(g -> g.fullName().isPresent())
+                    .collect(Collectors.toList());
+            Assert.assertEquals(rows.size(), trolls.size());
             System.out.println(String.format("%s -> %d lignes valides", file, trolls.size()));
         }
     }
