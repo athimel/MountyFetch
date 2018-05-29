@@ -1,7 +1,7 @@
 package org.zoumbox.mountyFetch.rest.v1;
 
 import org.zoumbox.mountyFetch.parser.ImmutableTroll;
-import org.zoumbox.mountyFetch.parser.TrollBuilder;
+import org.zoumbox.mountyFetch.parser.TrollParser;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
@@ -17,14 +17,15 @@ public class TrollsService {
     @GET
     @Path("/{id}")
     public ImmutableTroll fromId(@PathParam("id") Integer id) {
-        ImmutableTroll result = TrollBuilder.fromId(id);
+        ImmutableTroll result = TrollParser.fromId(id);
+
         return result;
     }
 
     @GET
     @Path("/fromName")
     public ImmutableTroll fromId(@QueryParam("name") String name) {
-        ImmutableTroll result = TrollBuilder.fromName(name);
+        ImmutableTroll result = TrollParser.fromName(name);
         return result;
     }
 

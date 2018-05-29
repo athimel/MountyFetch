@@ -72,7 +72,7 @@ public class TrollBuilder {
         return Optional.empty();
     }
 
-    public static ImmutableTroll loadGuilde(ImmutableTroll source) {
+    public static ImmutableTroll extractGuilde(ImmutableTroll source) {
         if (source == null || !source.guilde().isPresent()) {
             return source;
         }
@@ -88,20 +88,18 @@ public class TrollBuilder {
     }
 
     public static ImmutableTroll fromId(Integer id) {
-        ImmutableTroll trollWithoutGuilde = new PublicDataProvider()
+        ImmutableTroll result = new PublicDataProvider()
                 .readTrollsLine(id)
                 .map(TROLL_TO_OBJECT)
                 .orElse(null);
-        ImmutableTroll result = loadGuilde(trollWithoutGuilde);
         return result;
     }
 
     public static ImmutableTroll fromName(String name) {
-        ImmutableTroll trollWithoutGuilde = new PublicDataProvider()
+        ImmutableTroll result = new PublicDataProvider()
                 .readTrollsLine(name)
                 .map(TROLL_TO_OBJECT)
                 .orElse(null);
-        ImmutableTroll result = loadGuilde(trollWithoutGuilde);
         return result;
     }
 
