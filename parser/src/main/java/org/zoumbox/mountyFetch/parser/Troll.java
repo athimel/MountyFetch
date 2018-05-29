@@ -48,6 +48,11 @@ public interface Troll {
     /**
      * @return La guilde
      */
+    Optional<Integer> guildeId();
+
+    /**
+     * @return La guilde
+     */
     Optional<Guilde> guilde();
 
 }

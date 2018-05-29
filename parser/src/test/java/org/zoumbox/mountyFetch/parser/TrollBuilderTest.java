@@ -29,12 +29,27 @@ public class TrollBuilderTest {
 
     @Test
     public void testReadAllTrolls() throws IOException {
+        for (String file : Arrays.asList("/public/Public_Trolls.txt")) {
+            InputStream stream = this.getClass().getResourceAsStream(file);
+            List<String> rows = CharStreams.readLines(new InputStreamReader(stream));
+            System.out.println(String.format("%s -> %d lignes", file, rows.size()));
+            List<ImmutableTroll> trolls = rows.stream()
+                    .map(TrollBuilder::tryTransformTroll)
+                    .filter(Optional::isPresent)
+                    .map(Optional::get)
+                    .collect(Collectors.toList());
+            System.out.println(String.format("%s -> %d lignes valides", file, trolls.size()));
+        }
+    }
+
+    @Test
+    public void testReadAllTrolls2() throws IOException {
         for (String file : Arrays.asList("/public/Public_Trolls2.txt")) {
             InputStream stream = this.getClass().getResourceAsStream(file);
             List<String> rows = CharStreams.readLines(new InputStreamReader(stream));
             System.out.println(String.format("%s -> %d lignes", file, rows.size()));
             List<ImmutableTroll> trolls = rows.stream()
-                    .map(TrollBuilder::tryTransform)
+                    .map(TrollBuilder::tryTransformTroll2)
                     .filter(Optional::isPresent)
                     .map(Optional::get)
                     .collect(Collectors.toList());

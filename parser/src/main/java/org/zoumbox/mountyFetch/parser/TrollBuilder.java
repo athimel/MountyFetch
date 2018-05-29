@@ -7,11 +7,27 @@ import java.util.function.Function;
 import java.util.regex.Matcher;
 
 import static org.zoumbox.mountyFetch.parser.PublicDataProvider.TROLLS2_PATTERN;
+import static org.zoumbox.mountyFetch.parser.PublicDataProvider.TROLLS_PATTERN;
 
 /**
  * Chaque méthode de cette classe prend une information incomplète en entrée et essaye de la compléter.
  */
 public class TrollBuilder {
+
+    protected static final Function<String, ImmutableTroll> TROLL_TO_OBJECT = line -> {
+        Matcher matcher = TROLLS_PATTERN.matcher(line);
+        Preconditions.checkState(matcher.matches());
+        ImmutableTroll.Builder builder = ImmutableTroll.builder();
+        builder.id(Integer.valueOf(matcher.group(1)));
+        builder.fullName(matcher.group(2));
+        builder.race(Race.valueOf(matcher.group(3)));
+        builder.nival(Integer.valueOf(matcher.group(4)));
+        builder.kills(Integer.valueOf(matcher.group(5)));
+        builder.morts(Integer.valueOf(matcher.group(6)));
+        builder.guildeId(Integer.valueOf(matcher.group(7)));
+        builder.mouches(Integer.valueOf(matcher.group(8)));
+        return builder.build();
+    };
 
     protected static final Function<String, ImmutableTroll> TROLL2_TO_OBJECT = line -> {
         Matcher matcher = TROLLS2_PATTERN.matcher(line);
@@ -27,7 +43,15 @@ public class TrollBuilder {
         return builder.build();
     };
 
-    protected static Optional<ImmutableTroll> tryTransform(String line) {
+    protected static Optional<ImmutableTroll> tryTransformTroll(String line) {
+        Matcher matcher = TROLLS_PATTERN.matcher(line);
+        if (matcher.matches()) {
+            return Optional.of(TROLL_TO_OBJECT.apply(line));
+        }
+        return Optional.empty();
+    }
+
+    protected static Optional<ImmutableTroll> tryTransformTroll2(String line) {
         Matcher matcher = TROLLS2_PATTERN.matcher(line);
         if (matcher.matches()) {
             return Optional.of(TROLL2_TO_OBJECT.apply(line));
@@ -37,16 +61,16 @@ public class TrollBuilder {
 
     public static ImmutableTroll fromId(Integer id) {
         ImmutableTroll result = new PublicDataProvider()
-                .readTrolls2Line(id)
-                .map(TROLL2_TO_OBJECT)
+                .readTrollsLine(id)
+                .map(TROLL_TO_OBJECT)
                 .orElse(null);
         return result;
     }
 
     public static ImmutableTroll fromName(String name) {
         ImmutableTroll result = new PublicDataProvider()
-                .readTrolls2Line(name)
-                .map(TROLL2_TO_OBJECT)
+                .readTrollsLine(name)
+                .map(TROLL_TO_OBJECT)
                 .orElse(null);
         return result;
     }
