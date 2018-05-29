@@ -11,7 +11,7 @@ COPY rest /opt/app/rest
 
 # build
 WORKDIR /opt/app
-RUN mvn package
+RUN mvn package && rm -rf ~/.m2
 
 # local application port
 EXPOSE 8080
