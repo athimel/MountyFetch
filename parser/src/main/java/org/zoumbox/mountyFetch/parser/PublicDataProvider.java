@@ -1,5 +1,6 @@
 package org.zoumbox.mountyFetch.parser;
 
+import com.google.common.base.Charsets;
 import com.google.common.cache.Cache;
 import com.google.common.cache.CacheBuilder;
 import com.google.common.io.CharStreams;
@@ -24,12 +25,22 @@ public class PublicDataProvider {
     protected static final Cache<Integer, String> TROLLS2_BY_ID = CacheBuilder.newBuilder().expireAfterWrite(2, TimeUnit.MINUTES).build();
     protected static final Cache<String, String> TROLLS2_BY_NAME = CacheBuilder.newBuilder().expireAfterWrite(2, TimeUnit.MINUTES).build();
 
+    protected List<String> fetchPublicFile(String name) throws IOException {
+        String url = "http://ftp.mountyhall.com/" + name;
+        try (
+                InputStream stream = new URL(url).openStream();
+                InputStreamReader reader = new InputStreamReader(stream, Charsets.ISO_8859_1)
+        ) {
+            List<String> lines = CharStreams.readLines(reader);
+            return lines;
+        }
+    }
+
     public Optional<String> readTrolls2Line(Integer trollId) {
         String line = TROLLS2_BY_ID.getIfPresent(trollId);
         if (StringUtils.isEmpty(line)) {
             try {
-                InputStream stream = new URL("http://ftp.mountyhall.com/Public_Trolls2.txt").openStream();
-                List<String> lines = CharStreams.readLines(new InputStreamReader(stream));
+                List<String> lines = fetchPublicFile("Public_Trolls2.txt");
                 lines.forEach(l -> {
                     Matcher matcher = TROLLS2_PATTERN.matcher(l);
                     if (matcher.matches()) {
@@ -52,8 +63,7 @@ public class PublicDataProvider {
         String line = TROLLS2_BY_NAME.getIfPresent(trollName);
         if (StringUtils.isEmpty(line)) {
             try {
-                InputStream stream = new URL("http://ftp.mountyhall.com/Public_Trolls2.txt").openStream();
-                List<String> lines = CharStreams.readLines(new InputStreamReader(stream));
+                List<String> lines = fetchPublicFile("Public_Trolls2.txt");
                 lines.forEach(l -> {
                     Matcher matcher = TROLLS2_PATTERN.matcher(l);
                     if (matcher.matches()) {

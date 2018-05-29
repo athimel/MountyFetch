@@ -34,6 +34,7 @@ public class TrollBuilder {
         }
         return Optional.empty();
     }
+
     public static ImmutableTroll fromId(Integer id) {
         ImmutableTroll result = new PublicDataProvider()
                 .readTrolls2Line(id)
