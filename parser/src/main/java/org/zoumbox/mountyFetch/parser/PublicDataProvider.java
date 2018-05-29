@@ -33,7 +33,7 @@ public class PublicDataProvider {
     // Id ; Nom ; Race ; Niveau ; Nb de Kills ; Nb de Morts ; Id Guilde ; Nb de Mouches
     // 104259;DevelZimZoum;Kastar;59;647;15;1900;62;
     public static final Pattern TROLLS_PATTERN = Pattern.compile("([0-9]+);(.*);(.*);([0-9]+);([0-9]+);([0-9]+);([0-9]+);([-]?[0-9]+);");
-    protected static final Cache<Integer, String> TROLLS_BY_ID = CacheBuilder.newBuilder().expireAfterWrite(2, TimeUnit.MINUTES).build();
+    protected static final Cache<Integer, String> TROLLS_BY_ID = CacheBuilder.newBuilder().expireAfterWrite(2, TimeUnit.HOURS).build();
 
     public Optional<String> readTrollsLine(Integer trollId) {
         String line = TROLLS_BY_ID.getIfPresent(trollId);
@@ -61,7 +61,7 @@ public class PublicDataProvider {
     // Id ; Nom ; Race ; Niveau ; Nb de Kills ; Nb de Morts ; Nb de Mouches ; Id Guilde ; Rang Guilde ; Etat Troll ; Intangible (*); PNJ (*) ; Ami de MH (*) ; Date d'Inscription ; Blason
     // 104259;DevelZimZoum;Kastar;59;939;16;62;1;2;OK;0;0;0;2011-01-21 14:07:48;http://zoumbox.org/mh/syndikhd/104259_300.png;
     public static final Pattern TROLLS2_PATTERN = Pattern.compile("([0-9]+);(.*);(.*);([0-9]+);([0-9]+);([0-9]+);([-]?[0-9]+);([0-9]+);([0-9]+);(.*);([0-9]+);([0-9]+);([0-9]+);(.*);.*");
-    protected static final Cache<Integer, String> TROLLS2_BY_ID = CacheBuilder.newBuilder().expireAfterWrite(2, TimeUnit.MINUTES).build();
+    protected static final Cache<Integer, String> TROLLS2_BY_ID = CacheBuilder.newBuilder().expireAfterWrite(2, TimeUnit.HOURS).build();
 
     public Optional<String> readTrolls2Line(Integer trollId) {
         String line = TROLLS2_BY_ID.getIfPresent(trollId);
@@ -89,7 +89,7 @@ public class PublicDataProvider {
     // Id ; Nom ; Nb Membres
     // 1900;Le Syndikat Vitiktroll;34;
     public static final Pattern GUILDES_PATTERN = Pattern.compile("([0-9]+);(.*);([0-9]+);");
-    protected static final Cache<Integer, String> GUILDES_BY_ID = CacheBuilder.newBuilder().expireAfterWrite(2, TimeUnit.MINUTES).build();
+    protected static final Cache<Integer, String> GUILDES_BY_ID = CacheBuilder.newBuilder().expireAfterWrite(2, TimeUnit.HOURS).build();
 
     public Optional<String> readGuildesLine(Integer guildeId) {
         String line = GUILDES_BY_ID.getIfPresent(guildeId);
