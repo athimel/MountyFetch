@@ -134,4 +134,32 @@ public class PublicDataProvider {
         return Optional.ofNullable(line);
     }
 
+    // Id ; Nom ; Nb Membres
+    // 1900;Le Syndikat Vitiktroll;34;
+    public static final Pattern GUILDES_PATTERN = Pattern.compile("([0-9]+);(.*);([0-9]+);");
+    protected static final Cache<Integer, String> GUILDES_BY_ID = CacheBuilder.newBuilder().expireAfterWrite(2, TimeUnit.MINUTES).build();
+
+    public Optional<String> readGuildesLine(Integer guildeId) {
+        String line = GUILDES_BY_ID.getIfPresent(guildeId);
+        if (StringUtils.isEmpty(line)) {
+            try {
+                List<String> lines = fetchPublicFile("Public_Guildes.txt");
+                lines.forEach(l -> {
+                    Matcher matcher = GUILDES_PATTERN.matcher(l);
+                    if (matcher.matches()) {
+                        Integer id = Integer.valueOf(matcher.group(1));
+                        GUILDES_BY_ID.put(id, l);
+                    } else {
+                        System.err.println("Ligne 'Guildes' invalide: " + l);
+                    }
+                });
+
+                line = GUILDES_BY_ID.getIfPresent(guildeId);
+            } catch (IOException ioe) {
+                throw new UncheckedIOException(ioe);
+            }
+        }
+        return Optional.ofNullable(line);
+    }
+
 }
