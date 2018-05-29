@@ -23,7 +23,8 @@ public class StatusService {
     public Map<String, Object> getStatus() {
         String encoding = System.getProperty("file.encoding");
         boolean isUtf8 = Charsets.UTF_8.equals(Charset.forName(encoding));
-        return ImmutableMap.of("encoding", encoding, "allOk", isUtf8);
+        ImmutableMap<String, Object> result = ImmutableMap.of("encoding", encoding, "allOk", isUtf8);
+        return result;
     }
 
 }

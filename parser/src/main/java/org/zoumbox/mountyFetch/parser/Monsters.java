@@ -71,6 +71,7 @@ public enum Monsters {
     Spectre(Families.MortVivant, 14),
     Squelette(Families.MortVivant, 1),
     Vampire(Families.MortVivant, 29),
+    ZombiDeTroll(Families.MortVivant, 20),
     Zombie(Families.MortVivant, 2),
     Amibe(Families.Monstre, 8, "Amibe"),
     AmibeGéante(Families.Monstre, 9, "Amibe Géante"),
@@ -245,6 +246,13 @@ public enum Monsters {
                 return Optional.of(monster);
             }
         }
+
+        // Cas particulier des zombis de troll
+        if (label.startsWith("Zombi de ")) {
+            System.err.println("Potential zombi: " + label);
+            return Optional.of(Monsters.ZombiDeTroll);
+        }
+
         System.err.println("Monstre introuvable: " + label);
         return Optional.empty();
     }

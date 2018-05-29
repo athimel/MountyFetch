@@ -61,4 +61,13 @@ public class ParserTest {
         Assert.assertEquals(15, (int)monster.nival().map(Range::upperEndpoint).orElse(-1));
     }
 
+    @Test
+    public void testZombiDeTroll() {
+        String row = "Zombi de Micko [Antédiluvien] (6035328)";
+        ImmutableMonster monster = MonsterParser.fromRawName(row);
+        Assert.assertEquals(Families.MortVivant, monster.familyEnum().orElse(null));
+        Assert.assertEquals(27, (int)monster.nival().map(Range::lowerEndpoint).orElse(-1));
+        Assert.assertEquals(27, (int)monster.nival().map(Range::upperEndpoint).orElse(-1));
+    }
+
 }
