@@ -50,6 +50,11 @@ public interface Troll {
      */
     Optional<Guilde> guilde();
 
+    /**
+     * @return Position
+     */
+    Optional<Position> position();
+
     static ImmutableTroll of(int id) {
         return ImmutableTroll.builder().id(id).build();
     }

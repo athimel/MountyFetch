@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
  */
 public class MonsterParser {
 
-    private static final Pattern SP_VUE2_PATTERN = Pattern.compile("([0-9]*);(.*);([-]?[0-9]*);([-]?[0-9]*);([-]?[0-9]*)");
+    private static final Pattern SP_VUE2_MONSTER_PATTERN = Pattern.compile("([0-9]*);(.*);([-]?[0-9]*);([-]?[0-9]*);([-]?[0-9]*)");
 
     /**
      * Essaye de calculer un maximum d'informations sur un monstre à partir de son nom. Exemple :
@@ -39,18 +39,17 @@ public class MonsterParser {
      * @see #fromRawName(String)
      */
     public static ImmutableMonster fromSpVue2Row(String row) {
-        Matcher matcher = SP_VUE2_PATTERN.matcher(row);
+        Matcher matcher = SP_VUE2_MONSTER_PATTERN.matcher(row);
         if (!matcher.matches()) {
             throw new IllegalArgumentException(String.format("Format invalide: %s", row));
         }
 
         String name = matcher.group(2);
         ImmutableMonster result = fromRawName(name);
-        ImmutablePosition position = ImmutablePosition.builder()
-                .x(Integer.valueOf(matcher.group(3)))
-                .y(Integer.valueOf(matcher.group(4)))
-                .n(Integer.valueOf(matcher.group(5)))
-                .build();
+        Position position = Position.of(
+                Integer.valueOf(matcher.group(3)),
+                Integer.valueOf(matcher.group(4)),
+                Integer.valueOf(matcher.group(5)));
         result = ImmutableMonster.builder()
                 .from(result)
                 .id(Integer.valueOf(matcher.group(1)))

@@ -15,4 +15,13 @@ public interface Position {
         Preconditions.checkState(n() <= 0, "Le N est forcément négatif");
     }
 
+    static Position of(int x, int y, int n) {
+        ImmutablePosition result = ImmutablePosition.builder()
+                .x(x)
+                .y(y)
+                .n(n)
+                .build();
+        return result;
+    }
+
 }
