@@ -37,7 +37,7 @@ public class PublicDataProvider {
 
     public Optional<String> readTrollsLine(Integer trollId) {
         String line = TROLLS_BY_ID.getIfPresent(trollId);
-        if (StringUtils.isEmpty(line)) {
+        if (StringUtils.isEmpty(line) && TROLLS_BY_ID.size() == 0) {
             try {
                 List<String> lines = fetchPublicFile("Public_Trolls.txt");
                 lines.forEach(l -> {
