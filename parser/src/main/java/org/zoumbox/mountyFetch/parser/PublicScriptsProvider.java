@@ -17,22 +17,18 @@ import java.util.stream.Collectors;
 public class PublicScriptsProvider {
 
     protected List<String> fetchPublicFile(String script, Map<String, String> args) throws IOException {
-//        String url = String.format("http://sp.mountyhall.com/%s?", script);
-        String url = "http://127.0.0.1:3000/?id=" + args.get("Numero") + "&";
+        String url = String.format("http://sp.mountyhall.com/%s?", script);
         url += Joiner.on("&").join(
                         args.entrySet()
                                 .stream()
                                 .map(e -> e.getKey() + "=" + e.getValue())
                                 .collect(Collectors.toList())
         );
-        System.out.println("Appel de l'URL " + url);
         try (
                 InputStream stream = new URL(url).openStream();
-//                InputStreamReader reader = new InputStreamReader(stream, Charsets.ISO_8859_1)
-                InputStreamReader reader = new InputStreamReader(stream, Charsets.UTF_8)
+                InputStreamReader reader = new InputStreamReader(stream, Charsets.ISO_8859_1)
         ) {
             List<String> lines = CharStreams.readLines(reader);
-            lines.forEach(System.out::println);
             return lines;
         }
     }
