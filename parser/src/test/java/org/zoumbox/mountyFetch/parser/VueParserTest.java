@@ -37,7 +37,7 @@ public class VueParserTest {
             // On vérifie qu'on trouve bien le Nécrochore [Récent] ( 6045880 ) et les queslques infos
             Optional<Monster> monster = vue.monstres().stream().filter(m -> m.id().get() == 6045880).findAny();
             Assert.assertTrue(monster.isPresent());
-            Assert.assertEquals(Families.MortVivant, monster.get().familyEnum().get());
+            Assert.assertEquals(Families.MortVivant, monster.get().family().get());
             Assert.assertEquals("Récent", monster.get().age().get());
             Assert.assertEquals(Range.singleton(38), monster.get().nival().get());
         }

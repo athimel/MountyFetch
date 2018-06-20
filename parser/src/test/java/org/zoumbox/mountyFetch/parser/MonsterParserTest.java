@@ -26,7 +26,7 @@ public class MonsterParserTest {
                     .collect(Collectors.toList());
 
             Set<String> noFamily = monsters.stream()
-                    .filter(m -> !m.familyEnum().isPresent())
+                    .filter(m -> !m.family().isPresent())
                     .map(m -> m.baseName().orElse(""))
                     .collect(Collectors.toSet());
             String noFamilyMessage = String.format("[%s] %d noms non reconnus: %s", file, noFamily.size(), noFamily);
@@ -44,7 +44,7 @@ public class MonsterParserTest {
     public void testGobelinMagique() {
         String row = "5944172;Gobelin Magique [Légendaire];-132;-133;-7";
         ImmutableMonster monster = MonsterParser.fromSpVue2Row(row);
-        Assert.assertEquals(Families.Humanoïde, monster.familyEnum().orElse(null));
+        Assert.assertEquals(Families.Humanoïde, monster.family().orElse(null));
         Assert.assertEquals(7, (int)monster.nival().map(Range::lowerEndpoint).orElse(-1));
     }
 
@@ -54,9 +54,9 @@ public class MonsterParserTest {
         ImmutableMonster monster = MonsterParser.fromRawName(name);
         Assert.assertTrue(monster.id().isPresent());
         Assert.assertEquals(5863609, (int)monster.id().orElse(-1));
-        Assert.assertEquals(Families.Démon, monster.familyEnum().orElse(null));
+        Assert.assertEquals(Families.Démon, monster.family().orElse(null));
         Assert.assertEquals("Pseudo-Dragon", monster.baseName().orElse(null));
-        Assert.assertEquals(Templates.deQuatrièmeCercle, monster.templateEnum().orElse(null));
+        Assert.assertEquals(Templates.deQuatrièmeCercle, monster.template().orElse(null));
         Assert.assertEquals(15, (int)monster.nival().map(Range::lowerEndpoint).orElse(-1));
         Assert.assertEquals(15, (int)monster.nival().map(Range::upperEndpoint).orElse(-1));
     }
@@ -65,7 +65,7 @@ public class MonsterParserTest {
     public void testZombiDeTroll() {
         String row = "Zombi de Micko [Antédiluvien] (6035328)";
         ImmutableMonster monster = MonsterParser.fromRawName(row);
-        Assert.assertEquals(Families.MortVivant, monster.familyEnum().orElse(null));
+        Assert.assertEquals(Families.MortVivant, monster.family().orElse(null));
         Assert.assertEquals(27, (int)monster.nival().map(Range::lowerEndpoint).orElse(-1));
         Assert.assertEquals(27, (int)monster.nival().map(Range::upperEndpoint).orElse(-1));
     }

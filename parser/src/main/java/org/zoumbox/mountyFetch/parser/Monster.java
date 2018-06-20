@@ -30,12 +30,7 @@ public interface Monster {
     /**
      * @return La famille de monstre (cf. enum {@link Families})
      */
-    Optional<Families> familyEnum();
-
-    /**
-     * @return La famille de monstre
-     */
-    Optional<String> family();
+    Optional<Families> family();
 
     /**
      * @return Le type de base du monstre (sans template, sans âge, ...)
@@ -52,12 +47,7 @@ public interface Monster {
     /**
      * @return Le template (cf. enum {@link Templates})
      */
-    Optional<Templates> templateEnum();
-
-    /**
-     * @return Le template
-     */
-    Optional<String> template();
+    Optional<Templates> template();
 
     /**
      * @return Le bonus lié au template

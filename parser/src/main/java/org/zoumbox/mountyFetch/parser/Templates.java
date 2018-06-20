@@ -5,7 +5,7 @@ import java.util.Optional;
 /**
  * La liste des templates connus
  */
-public enum Templates {
+public enum Templates implements WithLabel {
 
     Agressif(1),
     Agressive(1),
@@ -129,6 +129,7 @@ public enum Templates {
         return bonus;
     }
 
+    @Override
     public String getLabel() {
         return label.orElse(name());
     }

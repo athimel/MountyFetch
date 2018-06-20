@@ -8,6 +8,7 @@ import org.glassfish.jersey.grizzly2.httpserver.GrizzlyHttpServerFactory;
 import org.glassfish.jersey.server.ResourceConfig;
 import org.immutables.gson.stream.GsonMessageBodyProvider;
 import org.immutables.gson.stream.GsonProviderOptionsBuilder;
+import org.zoumbox.mountyFetch.parser.WithLabel;
 
 import javax.ws.rs.core.MediaType;
 import java.io.IOException;
@@ -23,6 +24,7 @@ public class Main {
     protected static Gson buildGson() {
         GsonBuilder gsonBuilder = new GsonBuilder();
         gsonBuilder.registerTypeAdapter(Range.class, new ToStringSerializer());
+        gsonBuilder.registerTypeHierarchyAdapter(WithLabel.class, new WithLabelSerializer());
         Gson gson = gsonBuilder.create();
         return gson;
     }

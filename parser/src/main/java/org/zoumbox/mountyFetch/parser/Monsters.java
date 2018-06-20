@@ -7,7 +7,7 @@ import java.util.Optional;
 /**
  * La liste des monstres connus avec leur famille ({@link Families}) et le niveau de base
  */
-public enum Monsters {
+public enum Monsters implements WithLabel {
 
     ChauveSouris(Families.Animal, 3, "Chauve-Souris"),
     ChauveSourisGéante(Families.Animal, 4, "Chauve-Souris Géante"),
@@ -228,6 +228,7 @@ public enum Monsters {
         this.label = Optional.of(label);
     }
 
+    @Override
     public String getLabel() {
         return label.orElse(name());
     }

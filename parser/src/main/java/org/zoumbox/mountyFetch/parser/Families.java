@@ -5,7 +5,7 @@ import java.util.Optional;
 /**
  * La liste des différentes familles de monstre
  */
-public enum Families {
+public enum Families implements WithLabel {
 
     Animal,
     Démon,
@@ -23,6 +23,7 @@ public enum Families {
         this.label = Optional.of(label);
     }
 
+    @Override
     public String getLabel() {
         return label.orElse(name());
     }

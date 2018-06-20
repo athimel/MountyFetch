@@ -63,12 +63,11 @@ public class MonsterBuilder {
             String templateAndBaseName = name.substring(6).trim();
             Optional<Templates> templates = Templates.tryFindByLabel(templateAndBaseName);
             if (templates.isPresent()) {
-                builder.templateEnum(templates.get());
-                builder.template(templates.get().getLabel());
+                builder.template(templates.get());
                 builder.baseName(templateAndBaseName);
             }
         } else {
-            Templates monsterTemplate = source.templateEnum().orElse(null);
+            Templates monsterTemplate = source.template().orElse(null);
             String monsterBaseName = source.baseName().orElse(null);
             Templates[] templates = Templates.values();
             for (int i = 0; i < templates.length; i++) {
@@ -106,7 +105,7 @@ public class MonsterBuilder {
                 }
             }
             Optional<Templates> monsterTemplateOptional = Optional.ofNullable(monsterTemplate);
-            builder.templateEnum(monsterTemplateOptional);
+            builder.template(monsterTemplateOptional);
             builder.baseName(monsterBaseName);
         }
         return builder.build();
@@ -124,8 +123,7 @@ public class MonsterBuilder {
         if (laBete.isPresent()) {
 
             Families family = laBete.get().getFamily();
-            builder.familyEnum(family);
-            builder.family(family.getLabel());
+            builder.family(family);
             builder.baseNival(laBete.get().getNival());
 
         } else {
@@ -133,7 +131,7 @@ public class MonsterBuilder {
             System.err.println("Pas de famille ou de nival ?");
             System.err.println("monster.baseName : " + source.baseName());
             System.err.println("name : " + name);
-            System.err.println("monster.family : " + source.familyEnum());
+            System.err.println("monster.family : " + source.family());
         }
 
         return builder.build();
@@ -148,9 +146,8 @@ public class MonsterBuilder {
 
         int bonus = 0;
 
-        builder.family(source.familyEnum().map(Families::getLabel));
-        if (source.familyEnum().isPresent()) {
-            Families family = source.familyEnum().get();
+        if (source.family().isPresent()) {
+            Families family = source.family().get();
 
             if (source.age().isPresent()) {
                 Optional<Integer> ageBonus = Ages.tryGetAgeBonus(family, source.age().get());
@@ -159,8 +156,7 @@ public class MonsterBuilder {
             }
         }
 
-        builder.template(source.templateEnum().map(Templates::getLabel));
-        Optional<Integer> templateBonus = source.templateEnum().map(Templates::getBonus);
+        Optional<Integer> templateBonus = source.template().map(Templates::getBonus);
         builder.templateBonus(templateBonus);
         bonus += templateBonus.orElse(0);
 
