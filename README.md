@@ -58,16 +58,14 @@ On obtient un JSON contenant les différentes informations qui ont pu êtré dé
   "id":5864923,
   "fullName":"Maîtresse Ame-en-peine [Naissante]",
   "position":{"x":-74,"y":-40,"n":-78},
-  "familyEnum":"MortVivant",
   "family":"Mort-Vivant",
   "baseName":"Ame-en-peine",
-  "baseNival":{"lowerBound":{"endpoint":8},"upperBound":{"endpoint":8}},
-  "templateEnum":"Maîtresse",
+  "baseNival":"[8..8]",
   "template":"Maîtresse",
   "templateBonus":8,
   "age":"Naissante",
   "ageBonus":0,
-  "nival":{"lowerBound":{"endpoint":16},"upperBound":{"endpoint":16}}
+  "nival":"[16..16]"
 }
 ```
 
@@ -76,12 +74,10 @@ On obtient un JSON contenant les différentes informations qui ont pu êtré dé
 `id`            | Identifiant du monstre (Uniquement dans le cas de `fromSpVue2Row`)
 `fullName`      | Nom complet
 `position`      | Position (Uniquement dans le cas de `fromSpVue2Row`)
-`familyEnum`    | La famille de monstre (valeur de l'[énum Java](/parser/src/main/java/org/zoumbox/mountyFetch/parser/Families.java))
-`family`        | La famille de monstre
+`family`        | La famille de monstre (cf. l'[énum Java](/parser/src/main/java/org/zoumbox/mountyFetch/parser/Families.java))
 `baseName`      | Le type de base du monstre (sans template, sans âge, ...)
 `baseNival`     | Le niveau lié au monstre de base (sans template, sans âge, ...)
-`templateEnum`  | Le template (valeur de l'[énum Java](/parser/src/main/java/org/zoumbox/mountyFetch/parser/Templates.java))
-`template`      | Le template
+`template`      | Le template (cf. l'[énum Java](/parser/src/main/java/org/zoumbox/mountyFetch/parser/Templates.java))
 `templateBonus` | Le bonus lié au template
 `age`           | L'âge
 `ageBonus`      | Le bonus lié à l'âge
