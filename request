@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="3.4.2"><request><http-version>1.1</http-version><http-follow-redirects/><URL>http://localhost:8080/mountyFetch/v1/hangout</URL><method>POST</method><headers><header key="Content-Type" value="application/json"/></headers><body><string content-type="application/json" charset="UTF-8">{
+  "type": "MESSAGE",
+  "token": "E6jGWpS_mIoszAXSsGYPAtfgjiIbES1IhvHBYBJrNcg=",
+  "eventTime": "2017-03-02T19:02:59.910959Z",
+  "space": {
+    "name": "spaces/AAAAAAAAAAA",
+    "displayName": "Best Dogs Discussion Room",
+    "type": "ROOM"
+  },
+  "message": {
+    "name": "spaces/AAAAAAAAAAA/messages/CCCCCCCCCCC",
+    "sender": {
+      "name": "users/12345678901234567890",
+      "displayName": "Chris Corgi",
+      "avatarUrl": "https://lh3.googleusercontent.com/.../photo.jpg",
+      "email": "chriscorgi@example.com"
+    },
+    "createTime": "2017-03-02T19:02:59.910959Z",
+    "text": "Could you just shut",
+    "thread": {
+      "name": "spaces/AAAAAAAAAAA/threads/BBBBBBBBBBB"
+    }
+  }
+}</string></body></request></rest-client>
