@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Détail des monstres</title>
+    <meta charset="utf-8">
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue-resource@1.5.1"></script>
+  </head>
+  <body>
+    <div id="app">
+      <h1>Tapez le nom d'un monstre pour en connaître le détail</h1>
+      <div align="center">
+        <input type="text" v-model="rawName" placeholder="Petit Elémentaire de Feu [Initial]" style="width:300px"></input>
+        <button v-on:click="goLycos">Va chercher !</button>  
+      </div>  
+      <hr/>
+      <monster-details
+        v-if="monsterReady"
+        v-bind:monster="m"
+        v-bind:asked-name="askedName">
+      </monster-details> 
+      </div>
+    <script src="index.js"></script>
+  </body>
+</html>
+
