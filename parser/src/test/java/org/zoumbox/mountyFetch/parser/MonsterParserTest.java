@@ -70,4 +70,14 @@ public class MonsterParserTest {
         Assert.assertEquals(27, (int)monster.nival().map(Range::upperEndpoint).orElse(-1));
     }
 
+    @Test
+    public void testFromNameLowercase() {
+        String name = "effrit";
+        ImmutableMonster monster = MonsterParser.fromRawName(name);
+        Assert.assertEquals(Families.Monstre, monster.family().orElse(null));
+        Assert.assertEquals("Effrit", monster.baseName().orElse(null));
+        Assert.assertEquals(27, (int)monster.nival().map(Range::lowerEndpoint).orElse(-1));
+        Assert.assertEquals(27, (int)monster.nival().map(Range::upperEndpoint).orElse(-1));
+    }
+
 }

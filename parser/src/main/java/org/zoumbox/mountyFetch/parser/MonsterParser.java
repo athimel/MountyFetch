@@ -1,8 +1,16 @@
 package org.zoumbox.mountyFetch.parser;
 
 
+import com.google.common.base.Preconditions;
+import com.google.common.base.Splitter;
+import com.google.common.base.Strings;
+import org.apache.commons.lang3.StringUtils;
+
+import java.util.List;
+import java.util.Optional;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 
 /**
  * Lit et échappe les informations fournies par l'utilisateur (ou MH) et délègue le calcul à {@link MonsterBuilder}
@@ -10,6 +18,24 @@ import java.util.regex.Pattern;
 public class MonsterParser {
 
     private static final Pattern SP_VUE2_MONSTER_PATTERN = Pattern.compile("([0-9]*);(.*);([-]?[0-9]*);([-]?[0-9]*);([-]?[0-9]*)");
+
+    protected static Optional<String> tryNormalizeName(String rawName) {
+        if (!Strings.isNullOrEmpty(rawName)) {
+            List<String> parts = Splitter.on(' ').omitEmptyStrings().trimResults().splitToList(rawName);
+            String result = parts.stream()
+                    .map(part -> {
+                        if (!part.equalsIgnoreCase("parasitus")) {
+                            return StringUtils.capitalize(part);
+                        }
+                        return part;
+                    }).collect(Collectors.joining(" "));
+            // Si et seulement si le résultat est différent alors on renvoie celui-ci
+            if (!result.equals(rawName)) {
+                return Optional.of(result);
+            }
+        }
+        return Optional.empty();
+    }
 
     /**
      * Essaye de calculer un maximum d'informations sur un monstre à partir de son nom. Exemple :
@@ -25,6 +51,17 @@ public class MonsterParser {
         result = MonsterBuilder.finalizeExtraction(result);
         if (!result.nival().isPresent()) {
             System.err.println("Impossible de trouver le nival : " + result);
+            Optional<String> normalized = tryNormalizeName(name);
+            if (normalized.isPresent()) {
+                String alternativeName = normalized.get();
+                Preconditions.checkState(!alternativeName.equals(name), 
+                        "On va créer une nouble infinie si on rappelle avec le même nom");
+                ImmutableMonster alternative = fromRawName(alternativeName);
+                if (alternative.nival().isPresent()) {
+                    System.err.println("On a trouvé une alternative : " + alternative);
+                    result = alternative;
+                }
+            }
         }
         return result;
     }
