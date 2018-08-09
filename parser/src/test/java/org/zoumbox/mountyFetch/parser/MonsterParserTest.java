@@ -80,4 +80,18 @@ public class MonsterParserTest {
         Assert.assertEquals(27, (int)monster.nival().map(Range::upperEndpoint).orElse(-1));
     }
 
+    @Test
+    public void testFromNameTooMuchSpaces() {
+        String name = "effrit    coriace   [nouveau]   (789102)";
+        ImmutableMonster monster = MonsterParser.fromRawName(name);
+        Assert.assertTrue(monster.id().isPresent());
+        Assert.assertEquals(789102, (int)monster.id().orElse(-1));
+        Assert.assertEquals(Families.Monstre, monster.family().orElse(null));
+        Assert.assertEquals("Effrit", monster.baseName().orElse(null));
+        Assert.assertEquals(Templates.Coriace, monster.template().orElse(null));
+        Assert.assertEquals("Nouveau", monster.age().orElse(null));
+        Assert.assertEquals(28, (int)monster.nival().map(Range::lowerEndpoint).orElse(-1));
+        Assert.assertEquals(28, (int)monster.nival().map(Range::upperEndpoint).orElse(-1));
+    }
+
 }

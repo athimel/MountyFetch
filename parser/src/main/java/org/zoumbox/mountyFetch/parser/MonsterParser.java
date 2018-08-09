@@ -19,16 +19,26 @@ public class MonsterParser {
 
     private static final Pattern SP_VUE2_MONSTER_PATTERN = Pattern.compile("([0-9]*);(.*);([-]?[0-9]*);([-]?[0-9]*);([-]?[0-9]*)");
 
+    protected static String normalizePart(String part) {
+        Preconditions.checkArgument(!Strings.isNullOrEmpty(part));
+        if (part.equalsIgnoreCase("parasitus")) {
+            return part;
+        }
+        if (part.startsWith("[") && part.endsWith("]")) {
+            String subPart = part.substring(1, part.length() - 1);
+            String result = String.format("[%s]", normalizePart(subPart));
+            return result;
+        }
+        String result = StringUtils.capitalize(part);
+        return result;
+    }
+
     protected static Optional<String> tryNormalizeName(String rawName) {
         if (!Strings.isNullOrEmpty(rawName)) {
             List<String> parts = Splitter.on(' ').omitEmptyStrings().trimResults().splitToList(rawName);
             String result = parts.stream()
-                    .map(part -> {
-                        if (!part.equalsIgnoreCase("parasitus")) {
-                            return StringUtils.capitalize(part);
-                        }
-                        return part;
-                    }).collect(Collectors.joining(" "));
+                    .map(MonsterParser::normalizePart)
+                    .collect(Collectors.joining(" "));
             // Si et seulement si le résultat est différent alors on renvoie celui-ci
             if (!result.equals(rawName)) {
                 return Optional.of(result);
@@ -54,7 +64,7 @@ public class MonsterParser {
             Optional<String> normalized = tryNormalizeName(name);
             if (normalized.isPresent()) {
                 String alternativeName = normalized.get();
-                Preconditions.checkState(!alternativeName.equals(name), 
+                Preconditions.checkState(!alternativeName.equals(name),
                         "On va créer une nouble infinie si on rappelle avec le même nom");
                 ImmutableMonster alternative = fromRawName(alternativeName);
                 if (alternative.nival().isPresent()) {
