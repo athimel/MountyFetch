@@ -89,10 +89,14 @@ Pour `baseNival` et `nival`, on indique un intervalle car dans certains cas (ex.
 
 Une instance de démo disponible
 
-### Parsing à partir d'un nom
+### Pager web : à partir d'un nom
+
+    http://monster.zoumbox.org
+
+### API : Parsing à partir d'un nom
 
     http://mounty-fetch.zoumbox.org/v1/monsters/fromName?raw=Gowap%20Apprivois%C3%A9%20[Anc%C3%AAtre]
 
-### Parsing à partir d'une ligne extraite de Sp_Vue2
+### API : Parsing à partir d'une ligne extraite de Sp_Vue2
 
     http://mounty-fetch.zoumbox.org/v1/monsters/fromSpVue2Row?row=5864923;Ma%C3%AEtresse%20Ame-en-peine%20[Naissante];-74;-40;-78
