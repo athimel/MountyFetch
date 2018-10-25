@@ -7,6 +7,8 @@ import java.util.Optional;
  */
 public enum Templates implements WithLabel {
 
+    // Affamé
+    // Affamée
     Agressif(1),
     Agressive(1),
     Alchimiste(2),
@@ -37,11 +39,15 @@ public enum Templates implements WithLabel {
     desAbysses(3, "des Abysses"),
     Effrayé(-1),
     Effrayée(-1),
+    // Enflammé
+    // Enflammée
+    // Enorme
     Enragé(3),
     Enragée(3),
     Esculape(2),
     Ethéré(3),
     Ethérée(3),
+    // Fabulesque
     Fanatique(2),
     Fou(1),
     Folle(1),
@@ -109,6 +115,8 @@ public enum Templates implements WithLabel {
     Stridente(3),
     Traqueur(1),
     Traqueuse(1),
+    // Très gros
+    // Très grosse
     Voleur(2),
     Voleuse(2),
     Vorace(1);
