@@ -39,8 +39,8 @@ public enum Templates implements WithLabel {
     desAbysses(3, "des Abysses"),
     Effrayé(-1),
     Effrayée(-1),
-    // Enflammé
-    // Enflammée
+    Enflammé(5),
+    Enflammée(5),
     // Enorme
     Enragé(3),
     Enragée(3),

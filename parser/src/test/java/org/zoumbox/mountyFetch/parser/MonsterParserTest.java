@@ -108,8 +108,8 @@ public class MonsterParserTest {
         String row = "Aragnarok du Chaos Enflammée [Larve] (6109392)";
         ImmutableMonster monster = MonsterParser.fromRawName(row);
         Assert.assertEquals(Families.Insecte, monster.family().orElse(null));
-        Assert.assertEquals(16, (int)monster.nival().map(Range::lowerEndpoint).orElse(-1));
-        Assert.assertEquals(16, (int)monster.nival().map(Range::upperEndpoint).orElse(-1));
+        Assert.assertEquals(21, (int)monster.nival().map(Range::lowerEndpoint).orElse(-1));
+        Assert.assertEquals(21, (int)monster.nival().map(Range::upperEndpoint).orElse(-1));
     }
 
 }
