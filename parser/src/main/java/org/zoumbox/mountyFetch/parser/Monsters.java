@@ -16,7 +16,7 @@ public enum Monsters implements WithLabel {
     DindonDuChaos(Families.Animal, 1, "Dindon du Chaos"),
     DindonDuGlacier(Families.Animal, 1, "Dindon Du Glacier"),
     Geckoo(Families.Animal, 15, "Geck'oo"),
-    GeckooMajestueux(Families.Animal, 40, "Geck'oo majestueux"),
+    GeckooMajestueux(Families.Animal, 40, "Geck'oo Majestueux"),
     Glouton(Families.Animal, 20),
     Gnu(Families.Animal, 1),
     GnuSauvage(Families.Animal, 1, "Gnu Sauvage"),

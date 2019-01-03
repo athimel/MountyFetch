@@ -112,4 +112,13 @@ public class MonsterParserTest {
         Assert.assertEquals(21, (int)monster.nival().map(Range::upperEndpoint).orElse(-1));
     }
 
+    @Test
+    public void testGeckooMajestueux() {
+        String row = "Geck'oo Majestueux [Chef de harde] (6070792)";
+        ImmutableMonster monster = MonsterParser.fromRawName(row);
+        Assert.assertEquals(Families.Animal, monster.family().orElse(null));
+        Assert.assertEquals(45, (int)monster.nival().map(Range::lowerEndpoint).orElse(-1));
+        Assert.assertEquals(45, (int)monster.nival().map(Range::upperEndpoint).orElse(-1));
+    }
+
 }
