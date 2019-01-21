@@ -1,6 +1,6 @@
 # MountyFetch
 
-Petit outil utilitaire autour du chargement et traitement des données [MountyHall](http://www.mountyhall.com/) 
+Outil utilitaire autour du chargement et traitement des données [MountyHall](http://www.mountyhall.com/) 
 (détection/positionnement des monstres, profil des trolls, ...)
 
 ## Démarrage 
