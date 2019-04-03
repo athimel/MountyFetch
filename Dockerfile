@@ -1,5 +1,5 @@
 # fetch basic image
-FROM maven:3-jdk-8
+FROM maven:3-jdk-11
 
 # application placed into /opt/app
 RUN mkdir -p /opt/app
