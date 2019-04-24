@@ -123,7 +123,7 @@ public class MonsterParserTest {
 
     @Test
     public void testScorpionImago() {
-        String row = "Scorpion [Imago] (6162762)";
+        String row = "Scorpion [Imago] (6162762 )";
         ImmutableMonster monster = MonsterParser.fromRawName(row);
         Assert.assertEquals(Families.Insecte, monster.family().orElse(null));
         Assert.assertEquals(12, (int)monster.nival().map(Range::lowerEndpoint).orElse(-1));

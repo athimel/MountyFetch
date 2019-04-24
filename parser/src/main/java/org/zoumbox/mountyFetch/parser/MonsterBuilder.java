@@ -14,7 +14,7 @@ import java.util.regex.Pattern;
  */
 public class MonsterBuilder {
 
-    private static final Pattern NAME_WITH_ID_PATTERN = Pattern.compile("(.*)[(]([0-9]+)[)]");
+    private static final Pattern NAME_WITH_ID_PATTERN = Pattern.compile("(.*)[(]([0-9]+)[ ]?[)]");
 
     protected static ImmutableMonster fromName(String raw) {
 
