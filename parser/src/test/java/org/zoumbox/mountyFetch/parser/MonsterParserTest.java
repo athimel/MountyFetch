@@ -121,4 +121,14 @@ public class MonsterParserTest {
         Assert.assertEquals(45, (int)monster.nival().map(Range::upperEndpoint).orElse(-1));
     }
 
+    @Test
+    public void testScorpionImago() {
+        String row = "Scorpion [Imago] (6162762)";
+        ImmutableMonster monster = MonsterParser.fromRawName(row);
+        Assert.assertEquals(Families.Insecte, monster.family().orElse(null));
+        Assert.assertEquals(12, (int)monster.nival().map(Range::lowerEndpoint).orElse(-1));
+        Assert.assertEquals(12, (int)monster.nival().map(Range::upperEndpoint).orElse(-1));
+        Assert.assertEquals(6162762, (int)monster.id().orElse(-1));
+    }
+
 }
