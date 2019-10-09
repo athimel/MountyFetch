@@ -1,3 +1,13 @@
+function getParameterByName(name) {
+  let url = window.location.href;
+  name = name.replace(/[\[\]]/g, '\\$&');
+  var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+      results = regex.exec(url);
+  if (!results) return null;
+  if (!results[2]) return '';
+  return decodeURIComponent(results[2].replace(/\+/g, ' '));
+}
+
 var app = new Vue({ 
     el: '#app',
     data: {
@@ -6,7 +16,7 @@ var app = new Vue({
         monsterReady: false
     },
     methods: {
-      goLycos: function () {
+      loadMonster: function () {
         this.monsterReady = false;
         delete this.m;
         this.askedName = this.rawName;
@@ -20,8 +30,21 @@ var app = new Vue({
         }, response => {
           // error callback
         });
-        
+      },
+      goLycos: function () {
+        let url = window.location.protocol + '//' + window.location.pathname + '?q=' + encodeURI(this.rawName);
+        window.location = url;
       }
+    },
+    created: function () {
+      if (window.location.search) {
+        let name = getParameterByName('q');
+        if (name) {
+          this.rawName = name;
+          this.loadMonster();
+        }
+      }
+
     }
 });
 Vue.component('monster-details', {
