@@ -1,8 +1,8 @@
 function getParameterByName(name) {
   let url = window.location.href;
   name = name.replace(/[\[\]]/g, '\\$&');
-  var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
-      results = regex.exec(url);
+  let regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)');
+  let results = regex.exec(url);
   if (!results) return null;
   if (!results[2]) return '';
   return decodeURIComponent(results[2].replace(/\+/g, ' '));
@@ -32,7 +32,7 @@ var app = new Vue({
         });
       },
       goLycos: function () {
-        let url = window.location.protocol + '//' + window.location.pathname + '?q=' + encodeURI(this.rawName);
+        let url = window.location.protocol + '//' + window.location.host + window.location.pathname + '?q=' + encodeURI(this.rawName);
         window.location = url;
       }
     },
@@ -44,7 +44,15 @@ var app = new Vue({
           this.loadMonster();
         }
       }
+    },
+    mounted: function () {
+      document.getElementById("rawNameTF").focus();
 
+      document.getElementById('rawNameTF').onkeydown = function(e){
+        if(e.keyCode == 13) {
+          this.goLycos();
+        }
+      }.bind(this);
     }
 });
 Vue.component('monster-details', {

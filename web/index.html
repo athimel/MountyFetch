@@ -10,7 +10,7 @@
     <div id="app">
       <h1>Tapez le nom d'un monstre pour en connaître le détail</h1>
       <div align="center">
-        <input type="text" v-model="rawName" placeholder="Petit Elémentaire de Feu [Initial]" style="width:300px"></input>
+        <input id="rawNameTF" type="text" v-model="rawName" placeholder="Petit Elémentaire de Feu [Initial]" style="width:300px"></input>
         <button v-on:click="goLycos">Va chercher !</button>  
       </div>  
       <hr/>
