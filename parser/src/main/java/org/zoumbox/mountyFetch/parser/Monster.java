@@ -1,5 +1,6 @@
 package org.zoumbox.mountyFetch.parser;
 
+import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import com.google.common.collect.Range;
 import org.immutables.value.Value;
 
@@ -10,6 +11,7 @@ import java.util.Optional;
  * réussir à les calculer.
  */
 @Value.Immutable
+@JsonSerialize(as = ImmutableMonster.class)
 public interface Monster {
 
     /**
