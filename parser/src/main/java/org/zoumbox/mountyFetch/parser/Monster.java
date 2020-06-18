@@ -32,6 +32,14 @@ public interface Monster {
      */
     Optional<Families> family();
 
+    default com.google.common.base.Optional<String> sdfko() {
+        return com.google.common.base.Optional.absent();
+    }
+
+    default com.google.common.base.Optional<String> sdfko2() {
+        return com.google.common.base.Optional.of("kljsdf");
+    }
+
     /**
      * @return Le type de base du monstre (sans template, sans âge, ...)
      * @see Monsters#getLabel()
