@@ -100,7 +100,7 @@
                 </plugin>
                 <plugin>
                     <artifactId>maven-site-plugin</artifactId>
-                    <version>3.9.0</version>
+                    <version>3.9.1</version>
                 </plugin>
             </plugins>
         </pluginManagement>
@@ -144,7 +144,7 @@
     </build>
 
     <properties>
-        <quarkus.version>1.5.1.Final</quarkus.version>
+        <quarkus.version>1.6.0.Final</quarkus.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 </project>
