@@ -3,6 +3,7 @@ package org.zoumbox.mountyFetch.rest.mappers;
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.databind.SerializerProvider;
 import com.fasterxml.jackson.databind.ser.std.StdSerializer;
+import org.apache.commons.lang3.ArrayUtils;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
@@ -10,6 +11,7 @@ import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Optional;
 
@@ -18,10 +20,20 @@ public class InterfaceSerializerOnMethods<T> extends StdSerializer<T> {
     private static final Log log = LogFactory.getLog(InterfaceSerializerOnMethods.class);
 
     protected Class<T> anInterface;
+    protected List<Method> methods;
 
-    protected InterfaceSerializerOnMethods(Class<T> t) {
+    protected InterfaceSerializerOnMethods(Class<T> t, String ... methodNames) throws NoSuchMethodException {
         super(t);
         this.anInterface = t;
+        if (ArrayUtils.isEmpty(methodNames)) {
+            this.methods = Arrays.asList(this.anInterface.getDeclaredMethods());
+        } else {
+            this.methods = new LinkedList<>();
+            for (String methodName : methodNames) {
+                Method method = this.anInterface.getDeclaredMethod(methodName);
+                this.methods.add(method);
+            }
+        }
     }
 
     @Override
@@ -30,7 +42,9 @@ public class InterfaceSerializerOnMethods<T> extends StdSerializer<T> {
             return;
         }
         gen.writeStartObject();
-        List<Method> methods = Arrays.asList(this.anInterface.getMethods());
+        if (log.isDebugEnabled()) {
+            log.debug("Methods in serialize for " + this.anInterface + ": " + methods);
+        }
         methods.stream()
                 .filter(m -> m.getParameters().length == 0)
                 .filter(m -> !void.class.equals(m.getReturnType()))

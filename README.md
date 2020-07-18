@@ -16,7 +16,7 @@ mvn clean install
 Puis exécution avec :
 
 ````shell
-java -jar rest/target/mounty-fetch-rest-jar-with-dependencies.jar
+java -jar rest/target/rest-0.1-SNAPSHOT-runner.jar
 ````
 
 
@@ -37,7 +37,7 @@ docker run -p 8080:8080 -t -i zoumbox/mounty-fetch-rest
 
 ### Vérifier que tout va bien via l'URL
 
-    http://localhost:8080/mountyFetch/v1/status
+    http://localhost:8080/v1/status
 
 
 
@@ -45,11 +45,11 @@ docker run -p 8080:8080 -t -i zoumbox/mounty-fetch-rest
 
 À partir d'un nom :
 
-    http://localhost:8080/mountyFetch/v1/monsters/fromName?raw=Gowap%20Apprivois%C3%A9%20[Anc%C3%AAtre]
+    http://localhost:8080/v1/monsters/fromName?raw=Gowap%20Apprivois%C3%A9%20[Anc%C3%AAtre]
 
 ou d'une ligne extraite de Sp_Vue2 :
 
-    http://localhost:8080/mountyFetch/v1/monsters/fromSpVue2Row?row=5864923;Ma%C3%AEtresse%20Ame-en-peine%20[Naissante];-74;-40;-78
+    http://localhost:8080/v1/monsters/fromSpVue2Row?row=5864923;Ma%C3%AEtresse%20Ame-en-peine%20[Naissante];-74;-40;-78
 
 On obtient un JSON contenant les différentes informations qui ont pu êtré déduites
 

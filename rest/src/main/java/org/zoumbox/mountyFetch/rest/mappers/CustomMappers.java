@@ -26,11 +26,49 @@ public class CustomMappers implements ObjectMapperCustomizer {
         public CustomModule() {
             addSerializer(Range.class, new ToStringSerializer());
             addSerializer(WithLabel.class, new WithLabelSerializer());
-            addSerializer(new InterfaceSerializerOnMethods<>(Position.class));
-            addSerializer(new InterfaceSerializerOnMethods<>(Monster.class));
-            addSerializer(new InterfaceSerializerOnMethods<>(Guilde.class));
-            addSerializer(new InterfaceSerializerOnMethods<>(Troll.class));
-            addSerializer(new InterfaceSerializerOnMethods<>(Vue.class));
+
+            try {
+                addSerializer(new InterfaceSerializerOnMethods<>(Position.class,
+                        "x",
+                        "y",
+                        "n"));
+                addSerializer(new InterfaceSerializerOnMethods<>(Monster.class,
+                        "id",
+                        "fullName",
+                        "position",
+                        "family",
+                        "baseName",
+                        "baseNival",
+                        "template",
+                        "templateBonus",
+                        "age",
+                        "ageBonus",
+                        "nival"));
+                addSerializer(new InterfaceSerializerOnMethods<>(Guilde.class,
+                        "id",
+                        "fullName"));
+                addSerializer(new InterfaceSerializerOnMethods<>(Troll.class,
+                        "id",
+                        "fullName",
+                        "race",
+                        "nival",
+                        "kills",
+                        "morts",
+                        "mouches",
+                        "guilde",
+                        "position"));
+                addSerializer(new InterfaceSerializerOnMethods<>(Vue.class,
+                        "origine",
+                        "portee",
+                        "trolls",
+                        "monstres",
+                        "tresors",
+                        "lieux",
+                        "champignons"
+                        ));
+            } catch (NoSuchMethodException e) {
+                e.printStackTrace();
+            }
         }
 
     }
